@@ -203,7 +203,7 @@ Dictionary data from [Nôm Na Việt](https://nomnaviet.com) — a comprehensive
 
 The dictionary is partly auto-generated from the upstream Nôm Na Việt database. Entries between the markers `# >>> NOM-NA-VIET-AUTO-START` and `# <<< NOM-NA-VIET-AUTO-END` at the end of `nom_viet.dict.yaml` are appended by an automated export; re-runs strip and rewrite only the marked block, so hand-curated lines outside it are preserved across refreshes. To add an entry by hand, place it anywhere outside the auto-block.
 
-Characters use standard Unicode codepoints, not NomNaTong's Private Use Area (U+F0000…), which no system font renders. Where NOM Foundation has published a standard codepoint for a NomNaTong PUA character (mostly Extension H and J), the dictionary uses it; `python3 scripts/pua_to_unicode.py` rewrites any that come back (`--check` only reports). Displaying Extension H/J needs a font that covers them, such as NomNaTong 5.15 or later. PUA characters with no published mapping yet are kept as they are.
+Characters use standard Unicode codepoints, not NomNaTong's Private Use Area (U+F0000…), which no system font renders. Where NOM Foundation has published a standard codepoint for a NomNaTong PUA character (mostly Extension H and J), the dictionary uses it; `python3 scripts/pua_to_unicode.py` rewrites any that come back (`--check` only reports). It reads the mapping from a Nôm Na Việt checkout that holds this repo as `tools/rime-nom-viet`, or from `--map <path to nomnatong-pua-map.json>`. Displaying Extension H/J needs a font that covers them, such as NomNaTong 5.15 or later. PUA characters with no published mapping yet are kept as they are.
 
 ## License
 

@@ -35,6 +35,9 @@ def main() -> None:
     args = sys.argv[1:]
     check = "--check" in args
     path = Path(args[args.index("--map") + 1]) if "--map" in args else DEFAULT_MAP
+    if not path.exists():
+        sys.exit(f"mapping not found at {path}: run this from a Nôm Na Việt checkout (tools/rime-nom-viet), "
+                 "or pass --map pointing at its apps/api/src/data/nomnatong-pua-map.json")
     mapping = load_map(path)
     table = str.maketrans(mapping)
 
