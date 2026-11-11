@@ -53,8 +53,9 @@ speller:
     # still narrows the candidates. fuzz, not derive: these spellings rank at
     # half weight, so a syllable typed whole (thuwowng → thương) still puts
     # its own candidates ahead of other tones'. They come first so the
-    # tone-at-end rule below also accepts 'vietj'. A tone letter after a vowel is always the
-    # tone: no Vietnamese final consonant is s, f, r, x or j.
+    # tone-at-end rule below also accepts 'vietj'. A tone letter after a
+    # vowel is always the tone: no Vietnamese final consonant is s, f, r, x
+    # or j.
     - "fuzz/aa/a/"
     - "fuzz/aw/a/"
     - "fuzz/ee/e/"
