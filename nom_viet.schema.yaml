@@ -47,6 +47,22 @@ speller:
   alphabet: "abcdefghijklmnopqrstuvwxyz"
   delimiter: " '"
   algebra:
+    # Typing without marks or tones: 'vietnam' → việt nam, 'nguoi' → người,
+    # 'dai hoc' → đại học. Each rule adds a spelling with that mark dropped
+    # in every syllable, alongside the full one, so a marked or toned key
+    # still narrows the candidates. fuzz, not derive: these spellings rank at
+    # half weight, so a syllable typed whole (thuwowng → thương) still puts
+    # its own candidates ahead of other tones'. They come first so the
+    # tone-at-end rule below also accepts 'vietj'. A tone letter after a vowel is always the
+    # tone: no Vietnamese final consonant is s, f, r, x or j.
+    - "fuzz/aa/a/"
+    - "fuzz/aw/a/"
+    - "fuzz/ee/e/"
+    - "fuzz/oo/o/"
+    - "fuzz/ow/o/"
+    - "fuzz/uw/u/"
+    - "fuzz/dd/d/"
+    - "fuzz/([aeiouyw])[sfrxj]/$1/"
     # Accept tone code at the end of a syllable as well as immediately after
     # the toned vowel. The dict stores 'ngafy', 'vieejt', 'nguwowfi'
     # (tone-after-vowel); this rule also accepts the Unikey-style

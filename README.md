@@ -6,9 +6,10 @@ Type Vietnamese using **Telex** to input Nôm characters.
 
 ## Features
 
-- **100,000+ entries** - One of the most comprehensive Nôm dictionaries
-- **46,000 compound words** - Multi-syllable phrases like "việt nam" → 越南
+- **130,000+ entries** - One of the most comprehensive Nôm dictionaries
+- **74,000 compound words** - Multi-syllable phrases like "việt nam" → 越南
 - **Telex input** - Type `nguowfi` to get 𠊛 (người)
+- **Marks and tones optional** - `vietnam` → 越南, `quocngu` → 國語, `daihoc` → 大學
 - **Vietnamese preview** - Shows "người" instead of "nguowfi" while typing
 - **Frequency ranking** - Common characters appear first
 
@@ -33,6 +34,8 @@ Type Vietnamese using **Telex** to input Nôm characters.
 | `r` | hỏi (ả) | `ar` → ả |
 | `x` | ngã (ã) | `ax` → ã |
 | `j` | nặng (ạ) | `aj` → ạ |
+
+**Leaving marks and tones out:** any of the keys above can be skipped (`dd` can be typed `d`), and the entries they would have narrowed to are still offered. A spelling with a mark or tone left out ranks at half weight, so typing a syllable in full still puts its own characters first. It works best for phrases (`vietnam` → 越南); a single syllable typed bare (`toi`) lists the characters read exactly that way before those of its toned forms.
 
 ## Installation
 
@@ -193,6 +196,8 @@ patch:
 | `vieetj nam` | việt nam | 越南 |
 | `awn cowm` | ăn cơm | 咹𩚵 |
 | `tooi` | tôi | 碎 |
+| `vietnam` | việt nam | 越南 |
+| `quocngu` | quốc ngữ | 國語 |
 | `ddij` | đi | 𨅸 |
 
 ## Data Source
