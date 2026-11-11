@@ -50,9 +50,9 @@ speller:
     # Typing without marks or tones: 'vietnam' → việt nam, 'quocngu' → quốc
     # ngữ, 'daihoc' → đại học. Each rule adds a spelling with that mark dropped
     # in every syllable, alongside the full one, so a marked or toned key
-    # still narrows the candidates. fuzz, not derive: these spellings rank at
-    # half weight, so a syllable typed whole (thuwowng → thương) still puts
-    # its own candidates ahead of other tones'. They come first so the
+    # still narrows the candidates. fuzz, not derive: each mark or tone left
+    # out halves a spelling's weight, so a syllable typed whole (thuwowng →
+    # thương) still puts its own candidates ahead of other tones'. They come first so the
     # tone-at-end rule below also accepts 'vietj'. A tone letter after a
     # vowel is always the tone: no Vietnamese final consonant is s, f, r, x
     # or j.

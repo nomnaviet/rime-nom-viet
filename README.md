@@ -35,7 +35,7 @@ Type Vietnamese using **Telex** to input Nôm characters.
 | `x` | ngã (ã) | `ax` → ã |
 | `j` | nặng (ạ) | `aj` → ạ |
 
-**Leaving marks and tones out:** any of the keys above can be skipped (`dd` can be typed `d`), and the entries they would have narrowed to are still offered. A spelling with a mark or tone left out ranks at half weight, so typing a syllable in full still puts its own characters first. It works best for phrases (`vietnam` → 越南); a single syllable typed bare (`toi`) lists the characters read exactly that way before those of its toned forms.
+**Leaving marks and tones out:** any of the keys above can be skipped (`dd` can be typed `d`), and the entries they would have narrowed to are still offered. Each mark or tone left out halves a spelling's weight, so typing a syllable in full still puts its own characters first. It works best for phrases (`vietnam` → 越南); a single syllable typed bare (`toi`) lists the characters read exactly that way before those of its toned forms.
 
 ## Installation
 
