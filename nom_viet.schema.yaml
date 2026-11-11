@@ -69,7 +69,9 @@ speller:
     # (tone-after-vowel); this rule also accepts the Unikey-style
     # 'ngayf', 'vieetj', 'nguwowif' (tone-at-end). Anchored on word
     # boundaries so it works per-syllable in multi-syllable codes.
-    - "derive/(^|[ ])([^sfrxj ]*)([sfrxj])([^sfrxj ]+)(?=[ ]|$)/$1$2$4$3/"
+    # The tone letter must follow a vowel, or a syllable left toneless above
+    # would read its initial s, x or r as a tone ('sang' → 'angs').
+    - "derive/(^|[ ])([^ ]*[aeiouyw])([sfrxj])([^sfrxj ]+)(?=[ ]|$)/$1$2$4$3/"
     # Accept single-w 'uow' as a synonym for stored 'uwow' (ươ cluster).
     # Matches standard Telex on commercial IMEs (Unikey, etc.) and saves a
     # keystroke on ~1,400 entries (e.g. nguowfi → người, chuowsng → xướng).
