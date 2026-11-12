@@ -4,6 +4,8 @@ RIME input schema for Vietnamese Chữ Nôm (喃字).
 
 Type Vietnamese using **Telex** to input Nôm characters.
 
+> **Not using RIME?** [Soạn Nôm](https://github.com/nomnaviet/soan-nom) types Nôm from Telex as a complete input method for macOS, Windows and Linux: one installer, nothing else to set up, with the same keys and next-word suggestions as the [Nôm Na Việt](https://nomnaviet.com) app. This schema is for people who already type with RIME, or want to tune its settings and dictionary themselves.
+
 ## Features
 
 - **130,000+ entries** - One of the most comprehensive Nôm dictionaries
@@ -216,6 +218,7 @@ Characters use standard Unicode codepoints, not NomNaTong's Private Use Area (U+
 
 ## Related Projects
 
+- [Soạn Nôm](https://github.com/nomnaviet/soan-nom) - Nôm from Telex as a standalone input method for macOS, Windows and Linux
 - [rime-hannom](https://github.com/tranduythanh/rime-hannom) - Another RIME Hán-Nôm schema
 - [rime-vietnamese](https://github.com/gkovacs/rime-vietnamese) - Vietnamese Quốc ngữ + Nôm
 - [chunom.org](https://chunom.org) - Chữ Nôm resources
