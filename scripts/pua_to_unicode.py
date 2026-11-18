@@ -5,8 +5,11 @@ No system font renders PUA, so text typed through the IME in PUA shows as
 blank boxes outside fonts that carry NomNaTong's private codepoints.
 
 The mapping is Nôm Na Việt's apps/api/src/data/nomnatong-pua-map.json, built
-only from NOM Foundation's own conversion tables and release notes. Every
-mapping is one character to one character. An entry the rewrite turns into a
+only from NOM Foundation's own conversion tables, release notes and PUA
+roadmap. A PUA character maps to one standard character, or to a sequence: a
+base character plus a variation selector (IVS) or plus the cá/nháy reading
+mark (U+16FF0/U+16FF1). A sequence is one character to the user and stays
+together as one entry text. An entry the rewrite turns into a
 duplicate of another (same text and code) is merged into the first: the higher
 weight, and the first non-empty comment. Duplicates the file already had are
 left alone.
@@ -20,6 +23,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -30,7 +34,13 @@ DEFAULT_MAP = REPO.parent.parent / "apps/api/src/data/nomnatong-pua-map.json"
 
 def load_map(path: Path) -> dict[str, str]:
     raw = json.loads(path.read_text(encoding="utf-8"))["map"]
-    return {chr(int(p[2:], 16)): chr(int(s[2:], 16)) for p, s in raw.items()}
+    # A target is "U+XXXX" or a space-separated sequence of them.
+    def codepoint(token: str, key: str) -> str:
+        if not re.fullmatch(r"U\+[0-9A-Fa-f]{4,6}", token):
+            sys.exit(f"{path}: bad codepoint {token!r} in the mapping for {key}")
+        return chr(int(token[2:], 16))
+
+    return {codepoint(p, p): "".join(codepoint(t, p) for t in s.split()) for p, s in raw.items()}
 
 
 def main() -> None:

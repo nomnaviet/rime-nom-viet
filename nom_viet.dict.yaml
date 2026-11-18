@@ -139,7 +139,7 @@ encoder:
 喑	aafm	72	1. om 2. ồm
 音	aafm	67	âm
 𩆢	aafm	58	ầm
-󰯾	aafm	60
+音𖿱	aafm	60
 𩆢𩆢	aafm aafm	80
 𩆢𥑴	aafm ix	80
 𩆢𢮁	aafm uwf	80
@@ -669,7 +669,7 @@ encoder:
 鸥	aau	55	hải âu
 𤮥	aau	55	cái âu
 𲍨	aau	62
-󰆦	aau	55	u phiền
+怮󠄁	aau	55	u phiền
 區	aau	55	khu
 嘔	aau	59	Vui vẻ. Trò chuyện …
 沤	aau	55	bọt nước
@@ -722,8 +722,8 @@ encoder:
 𬇚	afo	62	ao sâu sóng cả (cái…
 𬯽	afo	55	mưa đổ ào ào
 𬱶	afo	55	gió ào ào
-󰂻	afo	60	gào thét, kêu gào
-󱧓	afo	58
+嗃󠄁	afo	60	gào thét, kêu gào
+泑󠄁	afo	58
 𠯻	afo	68	ào ào
 泑泑	afo afo	80
 泑𣿌	afo ajt	80
@@ -1114,7 +1114,7 @@ encoder:
 𪵲	ao	55	ao sâu sóng cả (cái…
 𬇚	ao	74	ao sâu sóng cả (cái…
 𱞇	ao	60
-󱧓	ao	61
+泑󠄁	ao	61
 拗	ao	50	【拗口】ao khẩu [àokôu]…
 鏕	ao	59	Cái chậu bằng đồng,…
 鏖	ao	61	1. trận đánh quyết …
@@ -1917,7 +1917,7 @@ encoder:
 乙	awsc	55	1. ất 2. ắc
 印	awsng	55	1. ấn 2. in
 𠹃	awsng	55	ắng
-󱩚	awsng	55
+盎𖿰	awsng	55
 押	awsp	55	1. áp 2. ép
 抽	awsp	55	trừu
 挹	awsp	61	úp
@@ -1962,7 +1962,7 @@ encoder:
 𠀧	ba	82	ba
 𧤭	ba	55	con ba ba
 𮠟	ba	55	(Phiên âm Bar)
-󰬾	ba	74
+𠀧󠄁	ba	74
 啪	ba	50	bốp, bộp (tiếng độn…
 啵	ba	50	1. cách, cạch, rắc …
 坡	ba	50	bờ
@@ -2081,7 +2081,7 @@ encoder:
 𦡣	baafm	55	1. bầm 2. vạm
 𫲃	baafm	55	bầm gan tím ruột
 𬆸	baafm	55	bầm gan tím ruột
-󰒽	baafm	59	bùm tum
+𦡣󠄁	baafm	59	bùm tum
 𦡣𣎖	baafm giaajp	80
 蘋	baafn	55	1. tần 2. bần
 貧	baafn	71	bần
@@ -2242,7 +2242,7 @@ encoder:
 𠳐	baang	60	vâng
 𢲔	baang	55	bâng khuâng
 𫺎	baang	55	bâng khuâng
-󰇦	baang	55	bâng khuâng
+𢬄󠄁	baang	55	bâng khuâng
 󲃭	baang	61
 氷傾	baang khuaang	80
 氷撾	baang quow	80
@@ -2298,7 +2298,7 @@ encoder:
 𡀫	baasm	55	1. bùm 2. lẩm
 𢶸	baasm	63	bấm
 𱠮	baasm	60
-󰝊	baasm	55	bấm số; bấm chuông
+𢶸󠄁	baasm	55	bấm số; bấm chuông
 檁	baasm	50	lẫm thóc
 𢶸䏾	baasm bujng	80
 𢶸至	baasm chis	80
@@ -3681,7 +3681,7 @@ encoder:
 鲅	bajt	55	bạt (cá thu)
 鼥	bajt	55	đà bạt (tên cổ thư …
 𰼦	bajt	59	nạo bạt (cái thanh …
-󰗹	bajt	55	nạo bạt (cái thanh …
+鏺󠄁	bajt	55	nạo bạt (cái thanh …
 坺	bajt	50	đào đất
 帗	bajt	50	Tấm khăn, chiếc khă…
 胈	bajt	50	Lông mọc ở đùi.
@@ -4918,8 +4918,8 @@ encoder:
 钵	bast	55	cái bát
 𦪑	bast	55	bát
 𰭂	bast	55	bát ăn bát để
-󰈫	bast	59	bát phố (rong chơi)
-󰋺	bast	58	hỗ tương bát thuỷ (…
+撥󠄁	bast	59	bát phố (rong chơi)
+潑󠄁	bast	58	hỗ tương bát thuỷ (…
 󰍥	bast	55	bát ăn bát để
 捌	bast	55	bát quái (tám quẻ b…
 撥	bast	61	đẩy, cậy
@@ -5045,7 +5045,7 @@ encoder:
 寶	basu	69	1. bửu 2. báu
 󰹕	basu	55	quý báu
 寶物	basu vaajt	80
-󰗶	bawfm	59	băm thịt; lang băm
+𨮍󠄁	bawfm	59	băm thịt; lang băm
 弼	bawfn	62	bật
 怦	bawfn	55	áy náy
 盘	bawfn	61	bàn
@@ -5134,8 +5134,8 @@ encoder:
 𡀀	bawjm	55	bấm ngày lành tháng…
 𡀫	bawjm	59	1. bùm 2. lẩm
 𤢤	bawjm	55	bẵm trợn
-󰀶	bawjm	55	bặm môi
-󰍚	bawjm	55	bặm trợn
+𠏟󠄁	bawjm	55	bặm môi
+𤢤󠄁	bawjm	55	bặm trợn
 󰷿	bawjm	55	bụi bặm
 𠹰腜	bawjm mooi	80
 𠹰𥉲	bawjm trowjn	80
@@ -5155,7 +5155,7 @@ encoder:
 𨫄	bawm	55	bãm vằm, bãm bổ
 𨮍	bawm	55	phăm
 𫦢	bawm	55	băm thịt
-󰗶	bawm	55	băm thịt; lang băm
+𨮍󠄁	bawm	55	băm thịt; lang băm
 𨥧𬚸	bawm thijt	80
 彬	bawn	55	bân bân hữu lễ (lịc…
 氷	bawn	55	1. băng 2. bâng
@@ -5173,7 +5173,7 @@ encoder:
 𫑌	bawng	55	chạy băng băng
 𬦋	bawng	55	phăng phăng chạy tới
 𬭖	bawng	55	băng tử (tiền cục)
-󰕸	bawng	55	chạy băng băng
+𨀰󠄁	bawng	55	chạy băng băng
 仌	bawng	55	1. nước đá, băng 2.…
 嘣	bawng	50	tiếng kêu thình thị…
 崩	bawng	74	băng
@@ -5376,7 +5376,7 @@ encoder:
 扒𤯩	bawst soosng	80
 𢶸	bawxm	62	bấm
 𤢤	bawxm	55	bẵm trợn
-󱪌	bawxm	58
+𢀮󠄁	bawxm	58
 凭	bawxng	62	vững
 朋	bawxng	55	bằng
 氷	bawxng	58	1. băng 2. bâng
@@ -5394,7 +5394,7 @@ encoder:
 𡓁	baxi	69	bãi
 𣺽	baxi	69	bãi cát
 𪤄	baxi	72	bãi
-󱫞	baxi	59
+罢𖿱	baxi	59
 捭	baxi	50	bới
 摆	baxi	65	bẫy
 擺	baxi	59	bẫy
@@ -5508,7 +5508,7 @@ encoder:
 𲟨	bay	58
 󰘯	bay	55	bay nhảy
 󰘱	bay	55	cạo chạy xa bay
-󰯬	bay	62
+𠖤󠄁	bay	62
 𲜱	bay	60
 𲟞	bay	58
 𳋑	bay	60
@@ -5552,7 +5552,7 @@ encoder:
 鼙	beef	59	(trống trận)
 𠱀	beef	59	phờ
 𣃣	beef	58	vừa
-󰯿	beef	62
+皮𖿱	beef	62
 箆	beef	50	cái lược bí
 篦	beef	50	xế đầu (chải tóc)
 蓖	beef	50	【蓖麻】bế ma [bìmá] Th…
@@ -7206,7 +7206,7 @@ encoder:
 𦄾	bojc	58	vóc
 𫃚	bojc	64	bó buộc; trói buộc
 𱐸	bojc	60
-󰯻	bojc	55	bọc cơm
+𱐸󠄁	bojc	55	bọc cơm
 󱷹	bojc	60
 伴	bojn	63	1. bạn 2. vạn
 呠	bojn	55	vốn
@@ -8078,7 +8078,7 @@ encoder:
 𢗌	bow	61	bạ
 𪩬	bow	55	bơ vơ; bờ phờ
 󰅲	bow	60	bơ vơ; bờ phờ
-󱠪	bow	62
+巴𖿱	bow	62
 巴𠱀	bow phowf	80
 巴𤷵	bow phowf	80
 巴噅	bow vow	80
@@ -8106,7 +8106,7 @@ encoder:
 𣭛	bowfm	55	bờm
 𫩓	bowfm	62
 𱏍	bowfm	61
-󱏹	bowfm	58
+帆󠄁	bowfm	58
 𣭛馭	bowfm nguwja	80
 𣭛𬇁	bowfm xowm	80
 悲	bowi	59	bi
@@ -8120,8 +8120,8 @@ encoder:
 簿	bowj	55	1. bạ 2. bộ
 被	bowj	55	1. bí 2. bị
 𡀠	bowj	55	bợ
-󱇹	bowj	60	nịnh bợ; tạm bợ
-󱬵	bowj	60
+備𖿰	bowj	60	nịnh bợ; tạm bợ
+蒲𖿱	bowj	60
 乏	bowjm	59	bấp
 姂	bowjm	67	bợm
 𠇖	bowjm	63	bợm già; bợm nhậu
@@ -8148,7 +8148,7 @@ encoder:
 𩺡	bown	65	bơn
 𩺪	bown	55	thờn bơn
 𫋑	bown	62	tò vò
-󰙵	bown	55	cá bơn
+𩺡󠄁	bown	55	cá bơn
 啚	bowr	55	bẽ bàng
 彼	bowr	55	bẽ bàng
 𠴙	bowr	55	bở
@@ -8260,7 +8260,7 @@ encoder:
 𫬍	bufi	62	bùi ngùi
 裴𦖻	bufi tai	80
 𡀫	bufm	55	1. bùm 2. lẩm
-󰒽	bufm	55	bùm tum
+𦡣󠄁	bufm	55	bùm tum
 渀	bufn	55	bõm
 湓	bufn	64	bùn
 𡎛	bufn	66	đất bùn; bùn lầy
@@ -8290,7 +8290,7 @@ encoder:
 步	buja	60	bộ
 部	buja	63	bộ
 𡝃	buja	55	goá bụa
-󱮷	buja	62
+部𖿱	buja	62
 僕	bujc	55	bộc
 㯷	bujc	55	bục giảng; lục bục
 㯷講	bujc giarng	80
@@ -8340,7 +8340,7 @@ encoder:
 𦢄	buoofi	55	cái buồi (dương vật)
 帆	buoofm	69	buồm
 𬜕	buoofm	55	cánh buồm
-󱏹	buoofm	71
+帆󠄁	buoofm	71
 帆𢒎𩗀	buoofm bay phajch	80
 奔	buoofn	60	bon chen
 忿	buoofn	60	tức giận, cáu
@@ -8367,7 +8367,7 @@ encoder:
 𱟧	buoofng	70	buồng the
 𱟨	buoofng	61
 󰇣	buoofng	55	buồng ngủ; buồng ch…
-󱏹	buoofng	60
+帆󠄁	buoofng	60
 椖荎	buoofng chuoosi	80
 椖梩	buoofng lasi	80
 椖浸	buoofng tawsm	80
@@ -8414,7 +8414,7 @@ encoder:
 𬗊	buoong	55	buông lời; buông th…
 𱠍	buoong	63	trắng bong
 𱽐	buoong	69	kêu boong boong
-󰐼	buoong	55	buông lời; buông th…
+𦀋󠄁	buoong	55	buông lời; buông th…
 捹挵	buoong lorng	80
 捹𩭷紀律	buoong lowi kyr luaajt	80
 捹赦	buoong tha	80
@@ -8450,8 +8450,8 @@ encoder:
 𥿠	bura1	55	vó
 禀	burm	55	bám chắc
 𣱭	burm	55	bủm
-󰋆	burm	55	bủm (tiếng rắm)
-󰒽	burm	55	bùm tum
+𣱭󠄁	burm	55	bủm (tiếng rắm)
+𦡣󠄁	burm	55	bùm tum
 本	burn	55	1. bản 2. bổn
 㤓	burn	55	bẳn gắt (khó tính)
 𡭦	burn	55	bủn xỉn; bủn rủn
@@ -8459,7 +8459,7 @@ encoder:
 㤓𫢗	burn xirn	80
 䏾	burng	55	bụng
 𤷰	burng	55	bủng beo
-󱮰	burng	55
+逢𖿱	burng	55
 咘	bus	60	bú
 哺	bus	55	1. pho 2. phò
 啂	bus	63	nhủ
@@ -8599,7 +8599,7 @@ encoder:
 𢲔	buwng	55	bâng khuâng
 𣵮	buwng	55	bưng
 𭇛	buwng	59
-󰇦	buwng	58	bâng khuâng
+𢬄󠄁	buwng	58	bâng khuâng
 𣵮洴	buwng bieefn	80
 𢫕蔽	buwng bist	80
 平	buwowfng	55	1. (Tính) Bằng phẳn…
@@ -9476,8 +9476,8 @@ encoder:
 𩾛	caau	55	bồ câu
 𪀊	caau	60	cu
 󰘃	caau	55
-󰙃	caau	60	vó câu
-󰵟	caau	59
+駒󠄁	caau	60	vó câu
+胊󠄁	caau	59
 仇	caau	50	cừu
 倶	caau	55	như chữ 俱
 勾	caau	77	1. câu 2. cú
@@ -9759,10 +9759,10 @@ encoder:
 鎬	cafo	55	chọn lựa kỹ lưỡng
 𢲵	cafo	55	cào vào (thu về)
 𧎸	cafo	60	con cào cào
-󰈞	cafo	55	cào cấu
+搞󠄁	cafo	55	cào cấu
 󰒏	cafo	55	cái bồ cào, cào đất
-󰒐	cafo	55	cái bồ cào, cào đất
-󰔚	cafo	55	con cào cào
+鎬󠄁	cafo	55	cái bồ cào, cào đất
+𧎸󠄁	cafo	55	con cào cào
 𲿦	cafo	58
 󱨍	cafo	58
 𲿠	cafo	57
@@ -9987,7 +9987,7 @@ encoder:
 賡	canh	63	tiếp tục, duy trì
 鶊	canh	55	thương canh (chim v…
 𥓷	canh	55	canh
-󱙓	canh	61
+京𖿱	canh	61
 埂	canh	55	canh (đống nhỏ)
 埄	canh	50	bụi mù
 峺	canh	50	Cao chót vót (nói v…
@@ -10063,7 +10063,7 @@ encoder:
 睾	cao	55	mỡ màng, nhẵn bóng
 膏	cao	63	cao
 高	cao	81	cao
-󰐙	cao	55	cao (sào chống (thu…
+篙󠄁	cao	55	cao (sào chống (thu…
 咎	cao	50	cữu ương (tai hoạ);…
 槁	cao	50	1. (Tính) Khô. ◇Tra…
 槹	cao	58	gạo (cây cho bông g…
@@ -10428,9 +10428,9 @@ encoder:
 藁	caro	64	cảo (bản thảo, bản …
 鎬	caro	64	chọn lựa kỹ lưỡng
 镐	caro	55	cảo đầu (cái búa ch…
-󰈞	caro	55	cào cấu
-󰊦	caro	58	cảo mộc (khô héo)
-󰏴	caro	55	cảo táng
+搞󠄁	caro	55	cào cấu
+槁󠄁	caro	58	cảo mộc (khô héo)
+稿󠄁	caro	55	cảo táng
 攪	caro	50	1. (Động) Quấy phá,…
 杲	caro	65	1. sáng 2. cao
 槀	caro	58	Bản nháp.
@@ -10615,7 +10615,7 @@ encoder:
 鬲	casch	58	nước Cách
 𨍮	casch	58
 󰓦	casch	55	cách (loại lá gói t…
-󰘌	casch	64	cách trở; cách điện…
+隔󠄁	casch	64	cách trở; cách điện…
 塥	casch	50	Bãi đất có lẫn cát.
 愅	casch	55	愅詭: Cách quỷ. Vẻ xú…
 搹	casch	50	nắm lấy
@@ -10869,7 +10869,7 @@ encoder:
 𦑃	casnh	75	cánh
 𫅩	casnh	66	cánh chim, cánh gà;…
 𰠞	casnh	59
-󰰍	casnh	64	cánh chim; cất cánh
+𦑃󠄁	casnh	64	cánh chim; cất cánh
 更	casnh	72	1. canh 2. cánh
 梗	casnh	60	ngành
 緪	casnh	50	1. (Danh) Dây lớn. …
@@ -11215,7 +11215,7 @@ encoder:
 亙	cawrng	60	hẵng
 𨀿	cawrng	55	cẳng
 𨃈	cawrng	55	cẳng chân, co cẳng …
-󰕺	cawrng	55	cẳng chân, co cẳng …
+𨀿󠄁	cawrng	55	cẳng chân, co cẳng …
 𨀿蹎	cawrng chaan	80
 𨀿𧦕	cawrng ghees	80
 亟	cawsc	58	gấp, kíp
@@ -11223,7 +11223,7 @@ encoder:
 各	cawsc	59	các
 咯	cawsc	55	khách
 蛒	cawsc	59	cắc kè
-󰁽	cawsc	55	bạc cắc (đồng bạc m…
+各𖿱	cawsc	55	bạc cắc (đồng bạc m…
 扲	cawsm	58	cặm
 禁	cawsm	59	cấm
 鈐	cawsm	61	găm
@@ -11340,8 +11340,8 @@ encoder:
 𲆎	chaajm	61
 𳄿	chaajm	60
 𳄷	chaajm	58
-󱨮	chaajm	58
-󱨯	chaajm	60
+甚𖿱	chaajm	58
+甚𖿰	chaajm	60
 酖	chaajm	58	trấm (con độc)
 鴆	chaajm	62	chũm cau, chũm nón;…
 踸臘	chaajm chajp	80
@@ -11397,7 +11397,7 @@ encoder:
 䥠	chaam	55	châm ngôn
 𠛌	chaam	55	đâm
 𠝻	chaam	55	châm
-󰁒	chaam	55	châm chọc; châm lửa
+𠛌󠄁	chaam	55	châm chọc; châm lửa
 椹	chaam	55	cụm hoa; cụm từ; lụ…
 碪	chaam	50	chiêm (thớt để băm)
 臢	chaam	50	toản (không sạch)
@@ -11436,7 +11436,7 @@ encoder:
 嗔	chaan	59	nổi cáu
 真	chaan	77	1. chân 2. chơn
 蹎	chaan	79	chân
-󰖄	chaan	60	chân tay; chân trời
+蹎󠄁	chaan	60	chân tay; chân trời
 𳃬	chaan	59
 振	chaan	50	chấn
 甄	chaan	61	1. thợ gốm 2. soi x…
@@ -11767,7 +11767,7 @@ encoder:
 鸼	chaau	55
 㑳	chaau	55	châu
 𧎝	chaau	55	1. châu 2. chấu
-󱦊	chaau	58
+朱𖿰	chaau	58
 周	chaau	61	châu
 喌	chaau	50	Tiếng gọi gà.
 株	chaau	58	1. (Danh) Gốc cây (…
@@ -11895,7 +11895,7 @@ encoder:
 浧	chafnh	59	sềnh
 湩	chafnh	55	1. chành 2. trành
 程	chafnh	55	trình
-󰏰	chafnh	55	chành ra (bành rộng…
+程𖿱	chafnh	55	chành ra (bành rộng…
 湩膨	chafnh bafnh	80
 湩湩	chafnh chajnh	80
 嘲	chafo	72	1. trào 2. chào
@@ -12129,7 +12129,7 @@ encoder:
 㧻	chasc	55	chác
 𢭢	chasc	60
 𧨳	chasc	62	tráo trác
-󰂉	chasc	58	kiếm chác, bán chác…
+啄󠄁	chasc	58	kiếm chác, bán chác…
 󰕁	chasc	55	kiếm chác, bán chác…
 󰕆	chasc	55
 倬	chasc	50	xấc
@@ -12285,7 +12285,7 @@ encoder:
 𤠶	chawfng	55	chằn tinh (yêu quái…
 𦀐	chawfng	62	chằng chịt, dây chằ…
 𦁢	chawfng	55	1. chằng 2. dằng
-󱹑	chawfng	59
+撞𖿰	chawfng	59
 𦁢㑜	chawfng chijt	80
 揕	chawjm	60	rúm
 𣻁	chawjm	55	chặm nước mắt (thấm…
@@ -12353,10 +12353,10 @@ encoder:
 𧜖	chawn	74	chăn
 𩝻	chawn	59	(trông nom, dẫn dắt)
 𫷊	chawn	62
-󰎤	chawn	55
+真𖿱	chawn	55
 𲟎	chawn	58
-󱩯	chawn	59
-󱯕	chawn	60
+真𖿰	chawn	59
+針𖿱	chawn	60
 棧	chawn	50	sạn
 榛	chawn	50	Tên một loài cây — …
 𧜖葻	chawn boong	80
@@ -12373,7 +12373,7 @@ encoder:
 𠲕	chawng	59	nhăng
 𫽄	chawng	58	chẳng phải; chẳng h…
 󰀁	chawng	55	phải chăng, biết ch…
-󰆊	chawng	55	phải chăng, biết ch…
+庄𖿱	chawng	55	phải chăng, biết ch…
 𲣊	chawng	59
 張絏	chawng daay	80
 張畑	chawng ddefn	80
@@ -12411,7 +12411,7 @@ encoder:
 𠺵	chawsc	58	chắc chắn
 𢟘	chawsc	62	chắc chắn
 𢡠	chawsc	62	chắc
-󰁺	chawsc	55	chắc chắn, chắc hẳn
+昃󠄁	chawsc	55	chắc chắn, chắc hẳn
 󰎞	chawsc	55	chắc chắn, chắc hẳn
 𲳹	chawsc	61
 廁	chawsc	50	xí
@@ -12430,7 +12430,7 @@ encoder:
 震	chawsn	59	chấn
 𥗜	chawsn	60	chắn
 𪩔	chawsn	55
-󱠓	chawsn	59
+𡻗󠄁	chawsn	59
 提	chawsn	50	1. đề 2. re
 𪭽	chawsng	55	(giữ, vịn)
 及	chawsp	55	1. tới, đến, kịp 2.…
@@ -12443,7 +12443,7 @@ encoder:
 𢴇	chawsp	58	giúp
 𦄌	chawsp	59	chắp gai
 𬗵	chawsp	55	chắp
-󱞦	chawsp	59
+執𖿰	chawsp	59
 𲷰	chawsp	59
 丞	chawsp	50	thừa
 𬗵綏	chawsp noosi	80
@@ -12454,7 +12454,7 @@ encoder:
 𡂒	chawst	60	chớt
 𡦫	chawst	63	chắt
 𤁩	chawst	55	chắt
-󰮗	chawst	60
+質𖿱	chawst	60
 𤁩招	chawst chiu	80
 𤁩漉	chawst lojc	80
 振	chawxn	59	chấn
@@ -12693,7 +12693,7 @@ encoder:
 𢷆	chen	67	chen chúc, chen lấn…
 𧿐	chen	55	chen chúc, chen lấn…
 𨆁	chen	60	chen chúc, chen lấn…
-󰭦	chen	60
+氊󠄁	chen	60
 󱞠	chen	57
 󱢨	chen	67
 𢫔𨃷	chen chusc	80
@@ -12760,7 +12760,7 @@ encoder:
 袑	cheso	55	chéo
 詔	cheso	59	chiếu
 𧝨	cheso	61	chéo khăn, chéo áo;…
-󰲎	cheso	58
+𣌺󠄁	cheso	58
 袑𧣳	cheso gosc	80
 袑巾	cheso khawn	80
 劄	chesp	73	chép
@@ -12901,7 +12901,7 @@ encoder:
 𢺹	chia	68	chia
 𢺺	chia	72	phân chia, chia chá…
 𬨟	chia	55	phân chia, chia chá…
-󰯞	chia	60
+𢺺󠄁	chia	60
 𢺹派	chia phe	80
 𢺹呸	chia phooi	80
 𢺹𥘶	chia rex	80
@@ -12927,7 +12927,7 @@ encoder:
 𪤾	chieefu	61	buổi chiều, chiều h…
 𫠧	chieefu	55	buổi chiều, chiều h…
 𬩕	chieefu	55	buổi chiều, chiều h…
-󱥥	chieefu	60
+朝𖿰	chieefu	60
 朝高	chieefu cao	80
 朝𡮵	chieefu chuoojng	80
 朝𡥵	chieefu con	80
@@ -13296,7 +13296,7 @@ encoder:
 𪮁	chijch	55	chịch
 折	chijt	61	1. chiết 2. thiệt
 㑜	chijt	55	1. chịt 2. dịt
-󰯁	chijt	59
+折𖿱	chijt	59
 召	chiju	70	triệu
 𠹾	chiju	75	chịu đựng; mua chịu…
 𠺥	chiju	70	chịu đựng; mua chịu…
@@ -13661,7 +13661,7 @@ encoder:
 𱬪	chisn	62
 󰊕	chisn	55	số chín; chín chắn
 󰌌	chisn	55	nấu chín; trái chín
-󱙃	chisn	68
+𠃩󠄁	chisn	68
 󱸉	chisn	59
 𤇪𥗜	chisn chawsn	80
 𤇪𭲿	chisn mojng	80
@@ -13865,7 +13865,7 @@ encoder:
 校	chof	55	1. hiệu 2. giâu
 株	chof	60	1. (Danh) Gốc cây (…
 稠	chof	57	trù (đặc sêt; chen …
-󱦖	chof	55
+株𖿱	chof	55
 茶	chofe	58	1. trà 2. chè
 椎	chofi	55	chòi
 槯	chofi	62	chuôi dao, chuôi gư…
@@ -14019,7 +14019,7 @@ encoder:
 墫	choon	71	chôn
 撙	choon	61	tổn (để dành)
 村	choon	55	thôn
-󱟳	choon	55
+專𖿰	choon	55
 墫拮	choon caast	80
 墫蹎	choon chaan	80
 墫膮割𦠆	choon nhau cawst roosn	85
@@ -14085,7 +14085,7 @@ encoder:
 𢫝	choosng	62	rung
 𢶢	choosng	70	chống
 𥧪	choosng	55	1. trống 2. chống
-󰈱	choosng	55	gióng trống; Thánh …
+𢶢󠄁	choosng	55	gióng trống; Thánh …
 棟	choosng	59	cái cột
 𢶢案	choosng asn	80
 𢶢制	choosng chees	80
@@ -14105,7 +14105,7 @@ encoder:
 𡓇	choox	65	lỗ
 𡺐	choox	55	chỗ ở, chỗ ngồi; ch…
 𲡖	choox	59
-󱰯	choox	63
+魯𖿰	choox	63
 𡊲伴佊	choox bajn bef	80
 𡊲𡎦	choox ngoofi	80
 𡊲𣹞	choox truxng	80
@@ -14179,9 +14179,9 @@ encoder:
 𬩓	chosng	55
 𲆉	chosng	60
 𲆍	chosng	60
-󰈱	chosng	55	gióng trống; Thánh …
-󰕛	chosng	62	chúng sinh, chúng d…
-󱂵	chosng	59	chúng sinh, chúng d…
+𢶢󠄁	chosng	55	gióng trống; Thánh …
+眾󠄁	chosng	62	chúng sinh, chúng d…
+𨖼󠄁	chosng	59	chúng sinh, chúng d…
 󱃎	chosng	55	mau chóng, chóng vá…
 𳄶	chosng	58
 𫏢𮛕	chosng vasnh	80
@@ -14458,7 +14458,7 @@ encoder:
 󱹔	chua	59
 䣷如𨡉	chua nhuw giaasm	80
 注添	chua theem	80
-󰆤	chuaajt	55	chuật chích (e ngại)
+怵󠄁	chuaajt	55	chuật chích (e ngại)
 怵	chuaajt	55	1. sợ hãi 2. doạ nạt
 埻	chuaan	50	Cái đích để nhắm bắ…
 忳	chuaan	50	Vẻ hết lòng — Một â…
@@ -14696,7 +14696,7 @@ encoder:
 𧎤	chuoofn	60
 𧓆	chuoofn	61	chuồn chuồn; phận m…
 𨒸	chuoofn	55	chuồn
-󰄿	chuoofn	58	chuồn mất, chuồn êm
+竄󠄁	chuoofn	58	chuồn mất, chuồn êm
 𧋃𧋃	chuoofn chuoofn	80
 𧋃𧋃搭渃	chuoofn chuoofn ddasp nuwowsc	80
 𨒸𠅒	chuoofn maast	80
@@ -14737,7 +14737,7 @@ encoder:
 𫖦	chuoojng	55	chuộng của lạ, chiề…
 𫱪	chuoojng	55	chuộng của lạ, chiề…
 𤝞	chuoojt	72	chuột
-󰍄	chuoojt	61
+𤝞󠄁	chuoojt	61
 𤝞白	chuoojt bajch	80
 𤝞𪒽	chuoojt chuxi	80
 𤝞𣹟	chuoojt coosng	80
@@ -15007,8 +15007,8 @@ encoder:
 𠶍	chusm	60	chuốm chuốm
 𲘍	chusm	55
 众	chusng	63	chúng sinh, chúng d…
-󰕛	chusng	71	chúng sinh, chúng d…
-󱂵	chusng	55	chúng sinh, chúng d…
+眾󠄁	chusng	71	chúng sinh, chúng d…
+𨖼󠄁	chusng	55	chúng sinh, chúng d…
 湩	chusng	50	1. chành 2. trành
 眾	chusng	78	chúng sinh, chúng d…
 種	chusng	50	chủng
@@ -15721,7 +15721,7 @@ encoder:
 𧿼	co	55	co chân, co cẳng; c…
 𨂗	co	63	co chân, co cẳng; c…
 𨔌	co	61	co chân, co cẳng; c…
-󰮡	co	59
+孤𖿱	co	59
 𲜇	co	60
 𢮩𨀿𧼋	co cawrng chajy	80
 𢮩肌	co cow	80
@@ -15748,9 +15748,9 @@ encoder:
 𥶯	cofi	55	tiếng còi, thổi còi
 𧥇	cofi	65	còi
 𩲡	cofi	55	còi
-󰏤	cofi	55	coi nhà; coi nhau n…
+𩲡󠄁	cofi	55	coi nhà; coi nhau n…
 󰕂	cofi	55	tiếng còi, thổi còi
-󰙖	cofi	55	tiếng còi, thổi còi
+𥶯󠄁	cofi	55	tiếng còi, thổi còi
 𩲡梮	cofi cojc	80
 𩲡𩩫	cofi xuwowng	80
 膁	cofm	59	còm
@@ -15801,7 +15801,7 @@ encoder:
 𫀅	coi	58	coi nhà; coi nhau n…
 𫀢	coi	68	coi nhà; coi nhau n…
 󰎩	coi	55	coi nhà; coi nhau n…
-󰏤	coi	58	coi nhà; coi nhau n…
+𩲡󠄁	coi	58	coi nhà; coi nhau n…
 䁛澄	coi chuwfng	80
 䁛𪝅	coi mofi	80
 䁛茹	coi nhaf	80
@@ -16161,7 +16161,7 @@ encoder:
 合	coojp	55	1. hiệp 2. hợp 3. h…
 吸	coojp	55	hấp
 𠺻	coojp	55	cộp
-󰁴	coojp	55	dầy cộp; lộp cộp
+及𖿱	coojp	55	dầy cộp; lộp cộp
 厥	coojt	55	của hắn, của anh ta
 撅	coojt	58	cột
 榾	coojt	72	cột
@@ -17103,7 +17103,7 @@ encoder:
 𪭯	cowri	60	cởi
 𳁤	cowri	55
 󰕈	cowri	55	cởi dây, cởi áo
-󱭰	cowri	57
+𳁤󠄁	cowri	57
 𢶒襖	cowri aso	80
 𢶒𢲫	cowri mowr	80
 个	cows	58	cá nháy
@@ -17556,7 +17556,7 @@ encoder:
 𦄣	cuoojn	55	cuộn len, cuộn tròn
 𱨅	cuoojn	60	quyện quanh
 󰈬	cuoojn	55	cuộn len, cuộn tròn
-󰑡	cuoojn	55	cuộn len, cuộn tròn
+𦄣󠄁	cuoojn	55	cuộn len, cuộn tròn
 淃縺	cuoojn len	80
 淃圇	cuoojn trofn	80
 𫈃	cuoojng	55	cuống hoa, cuống lá…
@@ -17581,7 +17581,7 @@ encoder:
 𫛐	cuoosc	67	chim cuốc
 𱻵	cuoosc	63
 𲇣	cuoosc	68	cái cuốc
-󱭎	cuoosc	57
+蝈󠄁	cuoosc	57
 钁步	cuoosc booj	80
 𨫵剷	cuoosc xerng	80
 钁𢲳	cuoosc xowsi	80
@@ -17597,8 +17597,8 @@ encoder:
 𩠴	cuoosi	55	gối
 𪭯	cuoosi	55	cởi
 𲃟	cuoosi	58	gối
-󰬭	cuoosi	62
-󰬴	cuoosi	61	cuối sách; cuối cùng
+𡳃󠄁	cuoosi	62
+𡳳󠄁	cuoosi	61	cuối sách; cuối cùng
 𲦔	cuoosi	60
 𲝂	cuoosi	59
 𲦑	cuoosi	58
@@ -18151,7 +18151,7 @@ encoder:
 挶	cuwowjc	55	cược
 蹻	cuwowjc	55	cược trước vĩ ba (c…
 𪨗	cuwowjc	55	cược trước vĩ ba (c…
-󱠎	cuwowjc	59
+局𖿰	cuwowjc	59
 噱	cuwowjc	55	cược tiền, cược với…
 屩	cuwowjc	55	cược trước vĩ ba (c…
 彏	cuwowjc	50	Cây cung giương thậ…
@@ -18774,7 +18774,7 @@ encoder:
 𦹻	daafm	55	cây dâm bụt
 𩆍	daafm	58	mưa dào
 𫶻	daafm	55
-󱧬	daafm	60
+潭𖿰	daafm	60
 𳉣	daafm	57
 淫湜	daafm deef	80
 演	daafn	61	diễn
@@ -18812,7 +18812,7 @@ encoder:
 𠫅	daafy	63	bề dày; dày dặn; dà…
 𠫆	daafy	60	dầy dặn
 𥻣	daafy	55	bánh dầy
-󰜕	daafy	58
+移𖿱	daafy	58
 埮	daajm	55	cơ nghiệp
 簟	daajm	55	giấy dậm
 踸	daajm	55	chậm
@@ -18852,7 +18852,7 @@ encoder:
 𪭡	daajp	59
 𫃡	daajp	55	cái dập (cái lồng đ…
 󰃹	daajp	55	dáng dấp; dấp giọng
-󰖧	daajp	58	dập dìu, dập dềnh; …
+逸󠄁	daajp	58	dập dìu, dập dềnh; …
 逸	daajp	58	dật
 熠燿	daajp dieeju	80	[Từ điển Nguyễn Quố…
 𡏽𢭼	daajp difu	80
@@ -18863,7 +18863,7 @@ encoder:
 迭	daajt	55	① Tuyển lựa, chọn l…
 逸	daajt	69	dật
 鎰	daajt	61	dát mỏng, dát vàng
-󰖧	daajt	55	dập dìu, dập dềnh; …
+逸󠄁	daajt	55	dập dìu, dập dềnh; …
 佚	daajt	62	ẩn dật; dư dật; dật…
 佾	daajt	58	hàng vũ
 汩	daajt	50	1. (Động) Trị thủy.…
@@ -19225,17 +19225,17 @@ encoder:
 㭨	daf	55	vỏ dà (cây nhỡ, vỏ …
 𧹟	daf	55	dà
 𲉻	daf	61
-󰀝	daf	55	áo mầu dà (mầu đỏ n…
+𧹟󠄁	daf	55	áo mầu dà (mầu đỏ n…
 才	dafi	59	tài
 曳	dafi	69	1. kéo, dắt 2. mệt …
 長	dafi	60	1. tràng 2. trưởng
 𨱽	dafi	78	dài
 𨱾	dafi	58	dai dẳng, nói dai, …
 𪟞	dafi	55	(nam giới. đàn ông.)
-󰯜	dafi	59
-󱙮	dafi	59
-󱱉	dafi	58
-󱱊	dafi	63
+來𖿱	dafi	59
+佳𖿱	dafi	59
+𨱾󠄁	dafi	58
+𨱽󠄁	dafi	63
 𨱽𫐟	dafi dawjc	80
 𨱽𣳔	dafi dofng	80
 𨱽𥹰	dafi laau	80
@@ -19280,7 +19280,7 @@ encoder:
 𬋨	dafnh	55
 𭝳	dafnh	55	dành dụm; dỗ dành
 𰈏	dafnh	60	chân dính bùn; dính…
-󰕣	dafnh	55	dành dụm; dỗ dành
+𧶄󠄁	dafnh	55	dành dụm; dỗ dành
 𧶄呫	dafnh dujm	80
 𧶄時間	dafnh thowfi gian	80
 滛	dafo	61	rào
@@ -19456,7 +19456,7 @@ encoder:
 曳	dajy	61	1. kéo, dắt 2. mệt …
 㖂	dajy	59	dậy dỗ; dậy mùi
 𠰺	dajy	76	dạy
-󱙦	dajy	59
+代𖿰	dajy	59
 𠰺𠸒	dajy baro	80
 𠰺保	dajy baro	80
 𠰺誘	dajy doox	80
@@ -19664,8 +19664,8 @@ encoder:
 𦄂	dari	65	giải
 𧜵	dari	55	dải
 𧞊	dari	60	dải lụa, dải yếm
-󰅾	dari	60	cân đai; đai áo
-󱫕	dari	62
+帶󠄁	dari	60	cân đai; đai áo
+𦄂󠄁	dari	62
 懈	dari	50	lười nhác
 𧜵𫄎	dari luja	80
 𧜵銀河	dari ngaan haf	80
@@ -19697,7 +19697,7 @@ encoder:
 𤲼	dasi	63	bìu dái, dái mít, l…
 𬃻	dasi	55	lái cây (trái cây);…
 𲥓	dasi	58
-󱤯	dasi	59
+曳𖿱	dasi	59
 𬃻𦖻	dasi tai	80
 噉	dasm	67	dám
 敢	dasm	78	cảm
@@ -19738,8 +19738,8 @@ encoder:
 笪	dast	55	dát mỏng, dát vàng
 鎰	dast	55	dát mỏng, dát vàng
 𢟟	dast	55	dút dát, dát như cáy
-󰇅	dast	55	dút dát, dát như cáy
-󱢎	dast	60
+𢟟󠄁	dast	55	dút dát, dát như cáy
+悉𖿰	dast	60
 嘎	dast	50	Như 玍 [gă] (bộ 玉). …
 嘠	dast	50	1. một thứ binh khí…
 酉	dasu	55	dậu
@@ -19849,7 +19849,7 @@ encoder:
 𢴑	dawst	70	dắt
 𦄵	dawst	59	dắt tay, dẫn dắt, d…
 𪮽	dawst	61	dắt tay, dẫn dắt, d…
-󱡸	dawst	59
+怛𖿰	dawst	59
 簡	dawxng	55	giản
 養	dawxng	55	1. dưỡng 2. dẳng
 也	dax	83	1. cũng 2. vậy
@@ -20241,7 +20241,7 @@ encoder:
 𢫙	ddaajy	61	che đậy, đậy điệm
 𢱜	ddaajy	60	đẩy lùi; đun đẩy; đ…
 𩂠	ddaajy	62	đậy
-󱙦	ddaajy	59
+代𖿰	ddaajy	59
 𲲒	ddaajy	60
 𲲔	ddaajy	59
 忱	ddaam	59	thầm
@@ -20255,10 +20255,10 @@ encoder:
 𨄁	ddaam	61	đâm chán; đâm chém;…
 𨮊	ddaam	55	đâm chán; đâm chém;…
 𱟴	ddaam	62
-󰇮	ddaam	60	đem đi, đem cho; đe…
-󰝂	ddaam	71
+抌󠄁	ddaam	60	đem đi, đem cho; đe…
+抌󠄂	ddaam	71
 󰝡	ddaam	67
-󱢉	ddaam	60
+𠛌󠄂	ddaam	60
 𲣔	ddaam	59
 󱯌	ddaam	59
 󱹖	ddaam	59
@@ -20298,7 +20298,7 @@ encoder:
 𢱜	ddaary	63	đẩy lùi; đun đẩy; đ…
 𪭩	ddaary	59	run rẩy
 𲅪	ddaary	60	đẩy đà
-󱡑	ddaary	60
+待𖿰	ddaary	60
 𢩽𨀤	ddaary lufi	80
 𢩽簝扒𩹫	ddaary riu bawst tesp	80
 𢩽船	ddaary thuyeefn	80
@@ -20307,7 +20307,7 @@ encoder:
 𢶸	ddaasm	68	bấm
 𱠡	ddaasm	62
 𱡉	ddaasm	60
-󰝊	ddaasm	55	bấm số; bấm chuông
+𢶸󠄁	ddaasm	55	bấm số; bấm chuông
 抌跢	ddaasm ddas	80
 抌𨉞	ddaasm luwng	80
 當	ddaasng	55	1. đang 2. đáng 3. …
@@ -20366,7 +20366,7 @@ encoder:
 叨	ddaau	55	chịu ơn người khác
 𫤩	ddaau	55	(trong; ở trong)
 𱏫	ddaau	77
-󰠲	ddaau	80
+𱏧󠄁	ddaau	80
 丟	ddaau	55	tiêu mất, biến mất
 丢	ddaau	55	ở đâu; biết đâu; đâ…
 兜	ddaau	78	đâu
@@ -20710,11 +20710,11 @@ encoder:
 𢃄	ddai	67
 𧜵	ddai	58	dải
 𪥔	ddai	55	(không)
-󰅾	ddai	62	cân đai; đai áo
-󱞝	ddai	58
-󱠯	ddai	62
-󱥩	ddai	58
-󱭤	ddai	59
+帶󠄁	ddai	62	cân đai; đai áo
+墆󠄁	ddai	58
+𢄩󠄁	ddai	62
+㯂󠄁	ddai	58
+𧜵󠄁	ddai	59
 帶襖	ddai aso	80
 馱	ddaj	50	ngựa cõng, thồ
 渡	ddajc	55	độ
@@ -21598,7 +21598,7 @@ encoder:
 滯	ddasi	65	trệ
 瀻	ddasi	55	đái
 𢃄	ddasi	65
-󰅾	ddasi	66	cân đai; đai áo
+帶󠄁	ddasi	66	cân đai; đai áo
 帯	ddasi	50	1. đều 2. đai, dây,…
 廗	ddasi	50	1. một dãy nhà 2. c…
 戴	ddasi	69	đội
@@ -21906,7 +21906,7 @@ encoder:
 躂	ddawjt	59	Vấp, trượt chân
 达	ddawjt	55	diễn đạt; đỗ đạt; p…
 達	ddawjt	75	1. đạt 2. đật
-󱮳	ddawjt	59
+達𖿱	ddawjt	59
 󱹘	ddawjt	59
 撻梮	ddawjt cojc	80
 撻挶	ddawjt cuwowjc	80
@@ -21923,9 +21923,9 @@ encoder:
 眈	ddawm	55	xẩm tối; hát xẩm; x…
 耽	ddawm	64	đam
 㴷	ddawm	61	đăm chiêu, đăm đăm
-󰝂	ddawm	65
+抌󠄂	ddawm	65
 󰝡	ddawm	67
-󰠐	ddawm	65
+𢘚󠄁	ddawm	65
 󱡗	ddawm	60
 冘昭	ddawm chieeu	80
 灯	ddawng	55	hải đăng, hoa đăng
@@ -22090,7 +22090,7 @@ encoder:
 滕	ddawxng	55	1. đằng 2. đẵng
 蕩	ddawxng	66	đãng
 鄧	ddawxng	58	đặng
-󰻿	ddawxng	55
+等𖿰	ddawxng	55
 吔	ddax	58	dã
 拖	ddax	60	tha
 諸	ddax	55	chư
@@ -22145,7 +22145,7 @@ encoder:
 荡	ddaxng	55	du đãng, phóng đãng
 菪	ddaxng	55	lãng đãng
 𨅸	ddaxng	60	đứng
-󰻿	ddaxng	60
+等𖿰	ddaxng	60
 凼	ddaxng	50	1. (Danh) Hố nước n…
 埄	ddaxng	50	bụi mù
 宕	ddaxng	57	bỏ lửng việc không …
@@ -22618,9 +22618,9 @@ encoder:
 𨑴	ddem	55	đem đi, đem cho; đe…
 𨑻	ddem	55	đem đi, đem cho; đe…
 𫸬	ddem	55	đem đi; đem đến; đe…
-󰁂	ddem	64	đem đi, đem cho; đe…
-󰇮	ddem	63	đem đi, đem cho; đe…
-󰝂	ddem	76
+冘󠄁	ddem	64	đem đi, đem cho; đe…
+抌󠄁	ddem	63	đem đi, đem cho; đe…
+抌󠄂	ddem	76
 󰝡	ddem	78
 𨑻𠫾	ddem ddi	80
 𨑻𢚸	ddem lofng	80
@@ -23173,7 +23173,7 @@ encoder:
 掂	ddieesm	61	1. giếm 2. diếm
 炶	ddieesm	55	1. đóm 2. đom
 阽	ddieesm	55	điếm (nguy hiểm)
-󱠼	ddieesm	60
+店𖿱	ddieesm	60
 唸	ddieesm	55	tâm niệm
 坫	ddieesm	59	cái chum
 店	ddieesm	70	1. điếm 2. tiệm
@@ -24733,7 +24733,7 @@ encoder:
 拓	ddoos	55	thác
 覩	ddoos	61	đỏ mặt
 賭	ddoos	55	đố
-󰔦	ddoos	62	đố chính (chính sác…
+蠹󠄁	ddoos	62	đố chính (chính sác…
 螙	ddoos	55	đố chính (chính sác…
 蠧	ddoos	58	con mọt
 蠹	ddoos	59	con mọt
@@ -24926,7 +24926,7 @@ encoder:
 隊	ddooxi	59	đội
 𠲝	ddooxi	60	(Chưa có giải nghĩa)
 𡑖	ddooxi	61	đỗi
-󰉗	ddooxi	55	quá đỗi
+旦𖿱	ddooxi	55	quá đỗi
 憝	ddooxi	50	đội (oán hận)
 懟	ddooxi	58	tủi phận
 瀢	ddooxi	50	Nước có phù sa.
@@ -25092,9 +25092,9 @@ encoder:
 𢳞	ddowm	55	đơm đó
 𥇌	ddowm	55	dim
 𮁡	ddowm	59
-󰁂	ddowm	55	đem đi, đem cho; đe…
-󰇮	ddowm	55	đem đi, đem cho; đe…
-󰝂	ddowm	62
+冘󠄁	ddowm	55	đem đi, đem cho; đe…
+抌󠄁	ddowm	55	đem đi, đem cho; đe…
+抌󠄂	ddowm	62
 󰝡	ddowm	65
 󰻚	ddowm	55	đơm khuy; đơm xôi; …
 󱹙	ddowm	58
@@ -25238,7 +25238,7 @@ encoder:
 哃哃	ddufng ddufng	80
 堆	ddui	59	chui rúc, chui nhủi…
 𥊖	ddui	65	đui
-󰬲	ddui	58
+𡳪󠄁	ddui	58
 𲲮	ddui	59
 𡃽霧	ddui muf	80
 𥊖霧	ddui muf	80
@@ -25277,8 +25277,8 @@ encoder:
 踏	ddujp	58	đạp
 䋎	ddujp	55	sất sá
 𧛆	ddujp	55	đụp
-󱀷	ddujp	55	áo vá chằng vá đụp
-󱨼	ddujp	61
+𧛆󠄁	ddujp	55	áo vá chằng vá đụp
+疊𖿱	ddujp	61
 突	ddujt	65	1. đột 2. đuột
 𥯝	ddujt	55	đốt
 撴	ddun	65	giun
@@ -25295,7 +25295,7 @@ encoder:
 𡳪	dduooi	72	đuôi ngựa, đuôi thu…
 𦟿	dduooi	58	dồi
 󰒦	dduooi	55	đuôi ngựa, đuôi thu…
-󰬲	dduooi	66
+𡳪󠄁	dduooi	66
 𳈻	dduooi	60
 𲝁	dduooi	58
 脽𧑁	dduooi sam	80
@@ -25448,7 +25448,7 @@ encoder:
 𨱪	dduwowfn	55	đườn đưỡn; nằm đườn…
 𨲵	dduwowfn	55	nằm đườn ra
 𨲷	dduwowfn	55	đườn đưỡn; nằm đườn…
-󰗻	dduwowfn	55	đườn đưỡn; nằm đườn…
+𨱪󠄁	dduwowfn	55	đườn đưỡn; nằm đườn…
 堂	dduwowfng	77	1. đàng 2. đường
 塘	dduwowfng	83	1. đường 2. đàng
 搪	dduwowfng	62	đường đột
@@ -25700,7 +25700,7 @@ encoder:
 挰揚	deefnh dafng	80
 蝒	deejn	55	nhện
 𢴍	deejn	55	dần
-󰔓	deejn	58	con dện (con nhện)
+蝒󠄁	deejn	58	con dện (con nhện)
 㨕	deejnh	55	dệnh dạng (đi lại c…
 挒	deejt	58	rít
 迭	deejt	60	① Tuyển lựa, chọn l…
@@ -25713,7 +25713,7 @@ encoder:
 啺	deer	55	khinh dể (con thườn…
 易	deer	67	1. dịch 2. dễ
 𠴭	deer	55	dể
-󱤨	deer	59
+易𖿰	deer	59
 牴	deer	50	dương để (sừng)
 啼	dees	64	đề
 喙	dees	55	Cái miệng — Khốn kh…
@@ -26246,7 +26246,7 @@ encoder:
 掂	dieesm	55	1. giếm 2. diếm
 缅	dieesn	55	Diến Điện (Miến Điệ…
 腼	dieesn	55	diến điến (e thẹn)
-󰒮	dieesn	55	diến điến (e thẹn)
+腼󠄁	dieesn	55	diến điến (e thẹn)
 緬	dieesn	55	miến
 𣋑	dieesp	62	dịp
 𱢯	dieesp	63	rau diếp
@@ -26392,7 +26392,7 @@ encoder:
 𤓛	difu	59	dập dìu; dìu dắt; d…
 𱕑	difu	61	dập dìu; dìu dắt; d…
 𱡁	difu	59
-󰁻	difu	55	dập dìu; dìu dắt; d…
+召𖿱	difu	55	dập dìu; dìu dắt; d…
 𢭼迭	difu dawjt	80
 𢭼𢴑	difu dawst	80
 异	dij	55	dị hợm; dị thường, …
@@ -26614,7 +26614,7 @@ encoder:
 𫼛	disu	55	dan díu; dắt díu
 𬗏	disu	61	dan díu
 𱺈	disu	61
-󰁻	disu	55	dập dìu; dìu dắt; d…
+召𖿱	disu	55	dập dìu; dìu dắt; d…
 鮡	diu	55	tép diu
 𳍨	diu	55
 圯	dix	55	dãy nhà, dãy núi
@@ -26754,7 +26754,7 @@ encoder:
 茔	doanh	55	doanh địa (phần mộ)
 营	doanh	69	dinh
 赢	doanh	55	doanh dư (phần lãi)
-󰄱	doanh	55	doanh (tên họ)
+嬴󠄁	doanh	55	doanh (tên họ)
 営	doanh	55	1. nơi đóng quân 2.…
 嬴	doanh	61	1. họ Doanh 2. đầy,…
 攍	doanh	50	Gánh vác công việc.
@@ -26830,7 +26830,7 @@ encoder:
 󰎴	dofm	55	dòm ngó; ống dòm
 󰏜	dofm	55	dòm ngó; ống dòm
 󰻲	dofm	55	dòm ngó; ống dòm
-󱩿	dofm	62
+𥛗󠄁	dofm	62
 𥉰𥄭	dofm ngos	80
 存	dofn	55	tồn
 𣆱	dofn	58	cười dòn, dòn dã; đ…
@@ -26897,7 +26897,7 @@ encoder:
 𢶿	dojn	63	trộn
 𰔫	dojn	58	đón chào
 󰋁	dojn	55	dọn cơm; dọn dẹp, t…
-󱲐	dojn	58
+𱏴󠄁	dojn	58
 𰔫揲	dojn dejp	85
 洞	dojng	55	1. động 2. đồng
 揬	dojt	62	rụt
@@ -27056,7 +27056,7 @@ encoder:
 𫴬	doosi	59	dối trá, gian dối, …
 𱔧	doosi	55	dối trá, gian dối, …
 󰆆	doosi	55	dối trá, gian dối, …
-󰆇	doosi	55	dối trá, gian dối, …
+𢇉󠄁	doosi	55	dối trá, gian dối, …
 󰆉	doosi	55	dối trá, gian dối, …
 嚉詐	doosi tras	80
 撰	doosn	55	soạn
@@ -27107,7 +27107,7 @@ encoder:
 咚	dosng	58	1. tiếng thùng thùn…
 董	dosng	55	đổng
 𢶢	dosng	55	chống
-󰈱	dosng	55	gióng trống; Thánh …
+𢶢󠄁	dosng	55	gióng trống; Thánh …
 埣	dost	55	bột đã dót lại (vón…
 悇	dow	55	thờ
 拁	dow	55	(Chưa có giải nghĩa)
@@ -28072,7 +28072,7 @@ encoder:
 𤲂	duwowsi	65	phía dưới
 𨑜	duwowsi	64	trên dưới
 󰆘	duwowsi	55	phía dưới
-󰡎	duwowsi	76
+𠁑󠄁	duwowsi	76
 养	duwowxng	62	bảo dưỡng; dưỡng bệ…
 氧	duwowxng	55	dưỡng hoá (khí óc-x…
 痒	duwowxng	55	tao đáo dưỡng xứ (g…
@@ -28120,7 +28120,7 @@ encoder:
 孕	duwrng	59	chửa, có mang
 𢘩	duwrng	58	dửng
 𫢖	duwrng	58	dửng dưng; dửng mỡ
-󱟝	duwrng	58
+孕𖿰	duwrng	58
 𠮨𠮨	duwrng duwng	80
 𢘩𦝺	duwrng mowx	80
 柚	duwru	55	cây bưởi
@@ -28140,8 +28140,8 @@ encoder:
 𤴵	duwsc	55	nhức
 𱒵	duwsc	55	dức lác (ồn ào); dứ…
 󰂂	duwsc	55	dức lác (ồn ào); dứ…
-󱲗	duwsc	58
-󱹚	duwsc	59
+𠴆󠄁	duwsc	58
+黓󠄁	duwsc	59
 弋	duwst	62	chiếm lấy
 怛	duwst	60	đát
 悉	duwst	63	tất
@@ -28605,7 +28605,7 @@ encoder:
 𥴚	gaafu	55	lấy gàu tát nước
 𫲢	gaafu	55	(nuôi con)
 𲔰	gaafu	55
-󰐜	gaafu	55	cái gầu tát nước
+𥴚󠄁	gaafu	55	cái gầu tát nước
 計	gaafy	59	1. kê 2. kế 3. kể
 𤷍	gaafy	74	gầy
 𤻓	gaafy	64	gầy guộc, gầy mòn
@@ -28774,8 +28774,8 @@ encoder:
 哠	gafo	55	gào
 嗃	gafo	60	xao
 嚎	gafo	61	gào thét, kêu gào
-󰂻	gafo	55	gào thét, kêu gào
-󱰛	gafo	58
+嗃󠄁	gafo	55	gào thét, kêu gào
+高𖿰	gafo	58
 哠𠯦	gafo thest	80
 槁	gafu	61	1. (Tính) Khô. ◇Tra…
 浗	gafu	55	gàu
@@ -28797,7 +28797,7 @@ encoder:
 妸	gaj	55	Cô ả
 抲	gaj	61
 𠶄	gaj	55	gạ
-󰄳	gaj	55	gạ chuyện; gạ gẫm
+𡥚𖿱	gaj	55	gạ chuyện; gạ gẫm
 𠶄𡀯	gaj chuyeejn	80
 各	gajc	55	các
 挌	gajc	55	cách biệt, cách ly;…
@@ -29031,10 +29031,10 @@ encoder:
 肯	gawsng	60	khẳng
 𠡚	gawsng	62	gắng
 𪟙	gawsng	58	cố gắng; gắng sức
-󰀖	gawsng	55	cố gắng; gắng sức
+亙𖿰	gawsng	55	cố gắng; gắng sức
 󰁤	gawsng	55	cố gắng; gắng sức
-󰁥	gawsng	55	cố gắng; gắng sức
-󱙍	gawsng	58
+𪟙󠄁	gawsng	55	cố gắng; gắng sức
+亘𖿰	gawsng	58
 𲟚	gawsng	58
 𠡚功	gawsng coong	80
 𠡚強	gawsng guwowjng	80
@@ -29093,7 +29093,7 @@ encoder:
 𠺳	ghee	59	ghê
 𡃊	ghee	66	1. ghe 2. khẽ
 𥡴	ghee	55	ghê tởm
-󲂥	ghee	58
+𡃊󠄁	ghee	58
 𠺳𡃍	ghee gowsm	80
 𠺳𢟖	ghee towrm	80
 𡓈	gheef	55	gồ ghề
@@ -29207,7 +29207,7 @@ encoder:
 恄𠬃	ghest bor	80
 技	ghex	68	1. (Danh) Nghề, tài…
 𢪊	ghex	55	gọn ghẽ
-󱣻	ghex	58
+技𖿱	ghex	58
 剘	ghi	55	ghi
 掑	ghi	60	cài
 記	ghi	63	kí
@@ -29217,7 +29217,7 @@ encoder:
 𪡴	ghi	61	ghi âm; ghi nhớ; gh…
 𫂮	ghi	63	ghi âm; ghi nhớ; gh…
 𫍕	ghi	61	ghi âm; ghi nhớ; gh…
-󰐤	ghi	55	ghi âm; ghi nhớ; gh…
+𫂮󠄁	ghi	55	ghi âm; ghi nhớ; gh…
 󱢿	ghi	58
 𥱬音	ghi aam	80
 𥱬劄	ghi chesp	80
@@ -29242,7 +29242,7 @@ encoder:
 捦𠓨	ghim vafo	80
 𩸱	ghism	55	ghím
 謹	ghisn	67	cẩn
-󱭹	ghisn	58
+謹𖿰	ghisn	58
 咦	gi	55	gi
 夷	gi	58	di
 姨	gi	50	dì
@@ -29469,7 +29469,7 @@ encoder:
 𢀭	giaafu	61	giàu
 𦺓	giaafu	55	trầu
 󰅵	giaafu	55	giầu không
-󰋗	giaafu	55	giầu không
+𫈜󠄁	giaafu	55	giầu không
 履	giaafy	55	lí
 持	giaafy	55	trì
 𠫆	giaafy	55	dầy dặn
@@ -29641,7 +29641,7 @@ encoder:
 葭	giaf	55	xuy già (ống sáo)
 𦓅	giaf	69	già cả; già đời
 𫅷	giaf	80	già cả; già đời
-󰮍	giaf	59
+𦓅󠄁	giaf	59
 伽	giaf	68	già
 咖	giaf	50	【咖喱】ca li [galí] Ca…
 嗻	giaf	50	Vị thần giữ cửa phí…
@@ -29697,8 +29697,8 @@ encoder:
 𠲜	giafnh	62	chềnh
 𥯰	giafnh	64
 𥱭	giafnh	55	cái giành
-󱙇	giafnh	59
-󱝩	giafnh	59
+争𖿱	giafnh	59
+呈𖿱	giafnh	59
 掙𪮞	giafnh giaajt	80
 掙權利	giafnh quyeefn lowji	80
 洨	giafo	55	sông Hào
@@ -29813,7 +29813,7 @@ encoder:
 𣼸	giajt	58	nhớt
 𨆹	giajt	55	giạt vào bờ; giào g…
 𪵳	giajt	55	giạt vào bờ; giào g…
-󰟅	giajt	55
+洩󠄁	giajt	55
 泆𠓨坡	giajt vafo bowf	80
 𢚕	giajy	55	giạy mặt
 監	giam	62	1. giam 2. giám
@@ -30606,7 +30606,7 @@ encoder:
 𦝄	giawng	63	trăng
 𪩮	giawng	55	giăng hoa (có tính …
 𲡮	giawng	59
-󱣺	giawng	58
+扛𖿰	giawng	58
 𲷶	giawng	61
 𫽄	giawrng	60	chẳng phải; chẳng h…
 𲥙	giawrng	59
@@ -30708,7 +30708,7 @@ encoder:
 𩷛	gieesc	58	cá giếc
 𩷳	gieesc	55	vảy
 𩹹	gieesc	65	cá chích
-󱯧	gieesc	62
+隻𖿰	gieesc	62
 占	gieesm	55	1. chiêm 2. chiếm 3…
 掂	gieesm	55	1. giếm 2. diếm
 𪾋	gieesm	58	chẳng dám nói, khôn…
@@ -30863,7 +30863,7 @@ encoder:
 𢶒	gioji	55	cởi
 𤊠	gioji	55	dõi theo
 𪭯	gioji	55	cởi
-󱮀	gioji	58
+豸𖿰	gioji	58
 論	giojn	55	luận
 喠	giojng	73	trọng
 用	giojng	62	1. dụng 2. dùng
@@ -30969,7 +30969,7 @@ encoder:
 𥵾	gioosng	55	con giống; dòng giố…
 𧀑	gioosng	60	con giống; dòng giố…
 𱕶	gioosng	62
-󰕛	gioosng	55	chúng sinh, chúng d…
+眾󠄁	gioosng	55	chúng sinh, chúng d…
 󰚣	gioosng	55	giồng giộc (loại ch…
 𲮛	gioosng	58
 𳅩	gioosng	58
@@ -31041,7 +31041,7 @@ encoder:
 𳋋	gios	61
 𳋏	gios	60
 𳋌	gios	58
-󱲦	gios	60
+𫗃󠄁	gios	60
 𩙍北	gios baasc	80
 𩙍雹	gios baxo	80
 𩙍障	gios chuwowsng	80
@@ -31078,8 +31078,8 @@ encoder:
 𫾍	giosng	55	gióng một
 𱤘	giosng	65	giường chõng
 𲌀	giosng	60	giong ruổi
-󰈱	giosng	59	gióng trống; Thánh …
-󰕛	giosng	59	chúng sinh, chúng d…
+𢶢󠄁	giosng	59	gióng trống; Thánh …
+眾󠄁	giosng	59	chúng sinh, chúng d…
 棟	giosng	62	cái cột
 𪢊鐘	giosng chuoong	80
 梇檜	giosng curi	80
@@ -31143,7 +31143,7 @@ encoder:
 湎	giowjn	59	1. say rượu 2. say …
 演	giowjn	58	diễn
 𣼹	giowjn	59	nhởn
-󰆶	giowjn	55	giờn giợn; giợn tóc…
+愐󠄁	giowjn	55	giờn giợn; giợn tóc…
 逸	giowjt	55	dật
 𤁩	giowjt	55	chắt
 捛	giowr	55	giở
@@ -31433,7 +31433,7 @@ encoder:
 过	goas	59	quá lắm
 過	goas	55	1. qua 2. quá
 󰄨	goas	55	goá bụa
-󱟰	goas	63
+寡𖿱	goas	63
 坵	gof	55	gò đất, gò đống
 塸	gof	64	gơ
 孤	gof	55	cô
@@ -31459,8 +31459,8 @@ encoder:
 鈍	gojn	58	độn
 𦄣	gojn	55	cuộn len, cuộn tròn
 𬄓	gojn	55	(cái guồng nước)
-󰑡	gojn	55	cuộn len, cuộn tròn
-󰔴	gojn	55	gọn gàng, gọn gẽ
+𦄣󠄁	gojn	55	cuộn len, cuộn tròn
+䙛󠄁	gojn	55	gọn gàng, gọn gẽ
 衮抗	gojn gafng	80
 衮技	gojn ghex	80
 共	gojng	59	1. cộng 2. cùng
@@ -31597,7 +31597,7 @@ encoder:
 給	gosp	62	cấp
 𢵰	gosp	64	góp
 𱔲	gosp	62	dưa góp; gom góp; g…
-󰯃	gosp	59
+給𖿱	gosp	59
 𢵰抇	gosp nhawjt	80
 𢵰意	gosp ys	80
 嗗	gost	58	1. cót 2. khụt
@@ -31636,10 +31636,10 @@ encoder:
 𱑏	gowr	59	cỡ lớn; cỡ nhỏ; lỡ …
 𱞟	gowr	55	quái gở
 𲠞	gowr	59
-󱓍	gowr	63
-󱘯	gowr	59
-󱘱	gowr	59
-󱡶	gowr	63
+舉𖿰	gowr	63
+㪯𖿱	gowr	59
+㪯𖿰	gowr	59
+𱑏𖿰	gowr	63
 改	gowri	58	cải
 𢭮	gowri	55	gãy
 劍	gowsm	64	kiếm
@@ -31696,7 +31696,7 @@ encoder:
 𠴛	gufng	67	gạn gùng
 𡃕	gufng	59	gùng
 𲢚	gufng	58
-󰠃	gufng	60
+穷󠄁	gufng	60
 椇	guj	55	cọ
 槁	guj	55	1. (Tính) Khô. ◇Tra…
 矩	guj	60	củ
@@ -31819,7 +31819,7 @@ encoder:
 䗔	haafu	55	con hàu
 𤶿	haafu	55	bệnh yết hầu
 𧓏	haafu	55	con hào (con hàu)
-󰍆	haafu	59	hầu (loài khỉ)
+猴󠄁	haafu	59	hầu (loài khỉ)
 候	haafu	70	1. hầu 2. hậu
 喉	haafu	62	hầu
 猴	haafu	59	con khỉ
@@ -33115,7 +33115,7 @@ encoder:
 𨨫	hasi	55	lưỡi hái
 𱐒	hasi	58
 𲇜	hasi	60	lưỡi hái
-󰇼	hasi	59	cấy hái, gặt hái
+採󠄁	hasi	59	cấy hái, gặt hái
 󰗕	hasi	55	lưỡi hái
 𲢒	hasi	58
 噧	hasi	50	Hứng chí mà nói nhi…
@@ -33251,7 +33251,7 @@ encoder:
 歆	hawm	68	hâm
 菡	hawm	55	hăm hở
 𢣇	hawm	58	hăm
-󲂿	hawm	62
+𠄩𖿰	hawm	62
 𢣇唑	hawm doaj	80
 𢣇𡁱	hawm he	80
 𢣇𠼯	hawm howr	80
@@ -33433,9 +33433,9 @@ encoder:
 𫨩	hay	77	hát hay, hay chữ, h…
 𱎔	hay	55	một hai; giêng hai
 󰂍	hay	55	một hai; giêng hai
-󰰐	hay	63
+台𖿱	hay	63
 𲺲	hay	58
-󱝠	hay	61
+台𖿰	hay	61
 咍𠯖	hay ho	80
 咍𱺵	hay laf	80
 咍過	hay quas	80
@@ -33654,7 +33654,7 @@ encoder:
 㭳	heso	64	khô héo
 𤉗	heso	69	héo
 𭜸	heso	60
-󱹜	heso	58
+孝𖿰	heso	58
 𤉗焝	heso hon	80
 𤉗𢯔	heso quawst	80
 𤉗𦼇	heso usa	80
@@ -34187,7 +34187,7 @@ encoder:
 屭	his	55	sức mạnh phi thường
 戏	his	55	hí hoáy; hú hí
 曁	his	55	hí (cùng với hoặc v…
-󱊊	his	55
+𱒍󠄁	his	55
 咥	his	55	hí
 喜	his	50	hỉ
 憙	his	50	1. § Ngày xưa dùng …
@@ -35466,7 +35466,7 @@ encoder:
 囬	hoofi	73	hồi báo, hồi đáp; h…
 茴	hoofi	60	hồi
 鮰	hoofi	55	1. hồi 2. hội
-󰓛	hoofi	55	hồi hương
+茴󠄁	hoofi	55	hồi hương
 佪	hoofi	55	(xem: bồi hồi 徘徊)
 噲	hoofi	50	gọi
 回	hoofi	78	hồi
@@ -35644,7 +35644,7 @@ encoder:
 葷	hooi	55	1. thức cay, rau hă…
 㙗	hooi	55	hôi hám
 𦤠	hooi	55	mùi hoi
-󱨇	hooi	61
+灰𖿰	hooi	61
 憒	hooi	50	hôn hội (ngu)
 滙	hooi	50	hối đoái
 灰	hooi	73	1. (Danh) Đá vôi. §…
@@ -36430,7 +36430,7 @@ encoder:
 轟	hueenh	55	1. oanh 2. oàng
 𠇟	hueenh	55	huênh
 𨋌	hueenh	55	huênh hoang
-󰋋	hueenh	59	phúng viếng
+永𖿰	hueenh	59	phúng viếng
 𠇟荒	hueenh hoang	80
 化	huees	60	1. hoá 2. huế
 喙	huees	50	Cái miệng — Khốn kh…
@@ -37583,7 +37583,7 @@ encoder:
 乙	ist	65	1. ất 2. ắc
 𠃝	ist	64	út
 𠃣	ist	76	ít
-󱙂	ist	60
+𠃣󠄁	ist	60
 𠃣欣	ist hown	80
 𠃣欺	ist khi	80
 𠃣𥹰	ist laau	80
@@ -37608,7 +37608,7 @@ encoder:
 鸡	kee	55	kê (con gà)
 㮷	kee	55	một loài cây (như c…
 𱶯	kee	61
-󰏲	kee	68	hạt kê; kê diên thờ…
+𥡞󠄁	kee	68	hạt kê; kê diên thờ…
 乩	kee	55	phù kê (viết vào bả…
 咭	kee	50	két
 嵆	kee	55	(tên núi)
@@ -37663,7 +37663,7 @@ encoder:
 𬛛	keef	55	kê cận; kề cà
 𱻛	keef	55	kê cận; kề cà
 𲊸	keef	61
-󰏲	keef	58	hạt kê; kê diên thờ…
+𥡞󠄁	keef	58	hạt kê; kê diên thờ…
 𳃺	keef	55
 倛近	keef caajn	80
 倛㧝	keef caf	80
@@ -37937,7 +37937,7 @@ encoder:
 劔	kesm	69	kiếm, đao
 歉	kesm	55	kém
 歛	kesm	55	lẹm
-󰤘	kesm	59
+劔𖿱	kesm	59
 歉𢜽	kesm cori	80
 歉𨤔	kesm ver	80
 哯	kesn	60	nghiến
@@ -37950,7 +37950,7 @@ encoder:
 蜆	kesn	62	kiến
 見	kesn	62	kiến
 𫪄	kesn	55	kén chọn
-󱭨	kesn	62
+見𖿰	kesn	62
 挸譔	kesn chojn	80
 吿	keso	58	kháng cáo, bị cáo; …
 呌	keso	62	khiếu nại
@@ -37982,7 +37982,7 @@ encoder:
 𦀖	kesp	55	áo kép
 𱘺	kesp	60
 󰄫	kesp	55	đào kép
-󰑓	kesp	59	áo kép, lá kép
+𦀖󠄁	kesp	59	áo kép, lá kép
 𳀸	kesp	59
 𡝔喝	kesp hast	80
 咭	kest	55	két
@@ -38440,8 +38440,8 @@ encoder:
 蒿	khao	55	(xem: đồng hao 茼蒿)
 𪽽	khao	55	khao xoác (Trắng xo…
 𫘶	khao	55	khao bang (Có nghĩa…
-󰋫	khao	58	khao khát
-󰍁	khao	62	khao quân, khao thư…
+滈󠄁	khao	58	khao khát
+犒󠄁	khao	62	khao quân, khao thư…
 墽	khao	55	Xấu, không màu mỡ (…
 槁	khao	65	1. (Tính) Khô. ◇Tra…
 犒	khao	67	khao
@@ -38863,7 +38863,7 @@ encoder:
 康	khawng	72	khang
 慷	khawng	58	khăng khăng; khăng …
 𠻞	khawng	62	khăng
-󰇿	khawng	58	khăng khăng; khăng …
+𢬂𖿱	khawng	58	khăng khăng; khăng …
 𠻞𠻞	khawng khawng	80
 坎	khawrm	55	khảm
 湛	khawrm	58	1. sẫm 2. sậm
@@ -38994,7 +38994,7 @@ encoder:
 𥡳	kheer	55
 𥡴	kheer	55	ghê tởm
 𮃛	kheer	50
-󰏲	kheer	59	hạt kê; kê diên thờ…
+𥡞󠄁	kheer	59	hạt kê; kê diên thờ…
 綮戟	kheer kisch	80	[Từ điển phổ thông]…
 稽首	kheer thur	80	[Từ điển trích dẫn]…
 俓	kheernh	55	khểnh
@@ -39359,7 +39359,7 @@ encoder:
 噄	khijt	55	khụt khịt
 契	khijt	55	khế
 𣸲	khijt	55	tinh khiết
-󰋢	khijt	55	khụt khịt
+𣸲󠄁	khijt	55	khụt khịt
 喫𪖫	khijt muxi	80
 牽	khin	55	khiên
 轻	khinh	58	khinh khi, khinh rẻ…
@@ -40243,7 +40243,7 @@ encoder:
 𠺟	khos	60	khò khè; ngáy khò k…
 𧁹	khos	59	khó chịu; khó khăn;…
 𪪫	khos	55	khó chịu; khó khăn;…
-󱠽	khos	62
+庫𖿱	khos	62
 𧁷𠹾	khos chiju	80
 𧁷巾	khos khawn	80
 𧁷𢚸	khos lofng	80
@@ -40456,7 +40456,7 @@ encoder:
 𢚹	khuaay	58	khuây
 𢣧	khuaay	66	khuây khoả, làm khu…
 𧇊	khuaay	64	khuy áo
-󰪌	khuaay	59
+亏𖿱	khuaay	59
 𢚹𬈎	khuaay khoar	80
 抠	khuas	55	khu y (vén gọn)
 摳	khuas	55	1. moi, móc 2. khắc…
@@ -40716,7 +40716,7 @@ encoder:
 卻辭	khuwowsc tuwf	80	[Từ điển trích dẫn]…
 肐	khuwowst	55	khướt
 𠡺	khuwowst	55	say khướt
-󰁦	khuwowst	55	say khướt
+𠡺󠄁	khuwowst	55	say khướt
 窖	khuwowsu	58	1. hầm, hố 2. tấm l…
 𩿚	khuwowsu	61	chim khướu
 𩿨	khuwowsu	59	chim khướu
@@ -41155,7 +41155,7 @@ encoder:
 菺	kieen	50	Tên một loài cây, h…
 豜	kieen	50	1. con lợn (heo) ba…
 豣	kieen	50	1. con lợn (heo) ba…
-󰔶	kieen	50
+幵󠄁	kieen	50
 堅不可摧	kieen baast khar thooi	80	bất khả xâm phạm; k…
 堅壁清野	kieen bisch thanh dax	80	Kiên bích thanh dã;…
 堅志	kieen chis	80	[Từ điển Nguyễn Quố…
@@ -41581,7 +41581,7 @@ encoder:
 𣈒	kifa	55	kìa
 𱕍	kifa	62
 𱝻	kifa	61
-󱹝	kifa	58
+箕𖿰	kifa	58
 琴	kifm	62	cầm
 箝	kifm	55	kiềm chế; kiềm thúc
 鈐	kifm	57	găm
@@ -42641,7 +42641,7 @@ encoder:
 淩	laang	65	lừng
 陵	laang	60	lăng
 㖫	laang	62	lung tung
-󱈦	laang	59	lâng lâng
+凌𖿰	laang	59	lâng lâng
 凌凌	laang laang	80
 凛	laarm	55	lẩm cẩm
 啉	laarm	59	lầm
@@ -42668,7 +42668,7 @@ encoder:
 𪭼	laary	55	lẩy
 𫌖	laary	55	run lẩy bẩy
 𫸱	laary	55	lẩy nỏ (lẫy nỏ)
-󱪎	laary	60
+禮𖿰	laary	60
 𪭼𤔻𢬣	laary mosng tay	80
 勒	laasc	59	lắc
 壈	laasm	64	lấm
@@ -42681,7 +42681,7 @@ encoder:
 𤃢	laasm	55	lõm bõm
 𥋶	laasm	55	1. giấm 2. dấm
 𪾭	laasm	61	lầm lỡ
-󰫶	laasm	55	lấm lét
+𥋶󠄁	laasm	55	lấm lét
 臨	laasm	50	lâm
 𡓔湓	laasm bufn	80
 𡓔濂	laasm lem	80
@@ -42717,7 +42717,7 @@ encoder:
 𥙩	laasy	83	láy mắt
 𫩉	laasy	64	lấy chồng; lấy tiền
 󰜡	laasy	59
-󰭼	laasy	71
+𥙩󠄁	laasy	71
 󲂤	laasy	59
 𥙩𫯳	laasy choofng	80
 𥙩毒治毒	laasy ddoojc trij ddoojc	80
@@ -42949,7 +42949,7 @@ encoder:
 𫅞	lafnh	55	lành mạnh; tốt lành
 𬙽	lafnh	64	lành mạnh; tốt lành
 𲒜	lafnh	60
-󲂦	lafnh	59
+𫅜󠄁	lafnh	59
 令猛	lafnh majnh	80
 令性	lafnh tisnh	80
 勞	lafo	55	1. lao 2. lạo
@@ -43078,8 +43078,8 @@ encoder:
 𬏘	laj	59	lạ lùng, lạ kì, lạ …
 𱱂	laj	61
 𱺵	laj	63	thiên la địa võng
-󰄣	laj	55	lạ lùng, lạ kì, lạ …
-󰄦	laj	55	lạ lùng, lạ kì, lạ …
+𡚎󠄁	laj	55	lạ lùng, lạ kì, lạ …
+𦍉󠄁	laj	55	lạ lùng, lạ kì, lạ …
 𲛈	laj	59
 𲱉	laj	58
 𨓐霍	laj hoawsc	80
@@ -43364,7 +43364,7 @@ encoder:
 𥚄	lajy	59	lạy
 𥛉	lajy	75	vái lạy
 𫼲	lajy	55	lai dai
-󰀌	lajy	55	vái lạy
+𲢖󠄁	lajy	55	vái lạy
 󰏛	lajy	55	vái lạy
 𲢖	lajy	58
 𥚄主	lajy chusa	80
@@ -43540,7 +43540,7 @@ encoder:
 𠴌	lanh	60	nhanh nhẹn, nhanh n…
 𧼍	lanh	55	lanh lẹ
 𫑅	lanh	55	lanh lợi
-󱙧	lanh	61
+令𖿱	lanh	61
 伶橙	lanh chanh	80
 伶厲	lanh lej	80
 伶俐	lanh lowji	80
@@ -43719,7 +43719,7 @@ encoder:
 𪡎	lasnh	60	lánh nạn; lấp lánh
 𪸝	lasnh	63	lấp lánh
 𱦀	lasnh	59
-󱝚	lasnh	58
+另𖿰	lasnh	58
 另	lasnh	74	liếng
 叧	lasnh	50	1. khác 2. riêng bi…
 另有企圖	lasnh huwxu khis ddoof	80	Hữu ý đồ khác
@@ -43855,7 +43855,7 @@ encoder:
 𫬪	lawn	58	lăn lóc
 𬖩	lawn	62	lăn lóc
 𱱥	lawn	62
-󱗘	lawn	59
+噒𖿱	lawn	59
 遴𡙴	lawn keefnh	80
 遴𫼚	lawn losc	80
 遴㳯	lawn tawn	80
@@ -43995,7 +43995,7 @@ encoder:
 搮嘹	lawst leso	80
 𡥌𡥌	lawst nhawst	80
 覧	lawxm	58	triển lãm, thưởng l…
-󱚑	lawxm	59
+凛𖿰	lawxm	59
 朗	lawxng	60	lững
 筤	lawxng	55	thương lang 蒼筤 (tre…
 𬕨	lawxng	57	cái lẵng hoa
@@ -44204,7 +44204,7 @@ encoder:
 𠲥	le	55	lẫy
 𠻗	le	68	1. le 2. nhe
 𪅆	le	63	le
-󱪏	le	61
+离𖿰	le	61
 𠻗呞	le te	80
 璃	lee	58	1. lê 2. li
 荔	lee	55	lệ
@@ -44395,7 +44395,7 @@ encoder:
 𫧧	leen	62	lên trên; đi lên
 𬨠	leen	67	lên trên; đi lên
 𬨺	leen	55	lên trên; đi lên
-󰁯	leen	64	lên trên; đi lên
+𫧧󠄁	leen	64	lên trên; đi lên
 𬨠斤	leen caan	80
 𬨠㖮	leen lon	80
 𨖲𤖹	leen lowsp	80
@@ -44597,7 +44597,7 @@ encoder:
 𥙪	ler	55	rưỡi
 𥛭	ler	67	lẻ
 𬯰	ler	60	lẻ loi
-󰭺	ler	66
+𥛭󠄁	ler	66
 𥛭𩁦	ler loi	80
 𥛭粃	ler ter	80
 歛	lerm	58	lẹm
@@ -44670,7 +44670,7 @@ encoder:
 𲴬	lex	63
 𲰅	lex	59
 𲰂	lex	60
-󱪈	lex	60
+𲴬󠄁	lex	60
 󱪉	lex	59
 𠲥	lex	50	lẫy
 𡤠𨳒	lex mojn	80
@@ -45302,7 +45302,7 @@ encoder:
 菻	lim	64	lùm
 𣜰	lim	58	gỗ lim
 𥋲	lim	63	lim
-󱕨	lim	61
+𣜰󠄁	lim	61
 𲧜	lim	59
 𥋲𥇌	lim dim	80
 𥋲	lim1	55	lim
@@ -45427,7 +45427,7 @@ encoder:
 𨁫	lira	55	kéo xà lỉa
 濂	lirm	55	1. lem 2. nhem
 󰁎	lirm	55	chìm lỉm
-󱚑	lirm	62
+凛𖿰	lirm	62
 領	lirnh	55	1. lãnh 2. lĩnh
 𰈼	lirnh	55	lỉnh
 𰈼𠎠	lirnh kirnh	80
@@ -45724,7 +45724,7 @@ encoder:
 顆	loax	55	khoả (từ giúp đếm c…
 颗	loax	55	khoả (từ giúp đếm c…
 𤁖	loax	55	loã
-󰂐	loax	55	loã lồ
+呂𖿰	loax	55	loã lồ
 伙	loax	55	đồng loã
 倮	loax	50	lô
 攞	loax	50	rà
@@ -45915,7 +45915,7 @@ encoder:
 𢲣	long	55	long
 𫣏	long	55	(chú bác)
 𱯚	long	62	long lanh
-󰭧	long	59
+𣰥󠄁	long	59
 朧	long	50	lung
 櫳	long	50	1. cửa sổ 2. cái lồ…
 滝	long	60	sông
@@ -46059,7 +46059,7 @@ encoder:
 𪆼	looi	55	lôi
 𭡏	looi	55	lôi kéo; lôi thôi
 󰚳	looi	55	gà lôi
-󱯸	looi	62
+雷𖿱	looi	62
 擂	looi	62	lôi
 檑	looi	55	roi
 瓃	looi	50	một loại ngọc
@@ -46095,7 +46095,7 @@ encoder:
 酪	looj	55	lộ (mứt): hồng quả …
 鹭	looj	55	lộ (con cò)
 𪆽	looj	62
-󱮌	looj	59
+賂𖿰	looj	59
 潞	looj	50	sông Lộ
 璐	looj	50	ngọc lộ
 甪	looj	50	cởi, tháo, loại bỏ
@@ -46191,7 +46191,7 @@ encoder:
 遁	loojn	58	1. độn 2. trốn
 𢶿	loojn	60	trộn
 𪵅	loojn	55	lộn xộn
-󱁎	loojn	59	trọn vẹn, trọn buổi
+論𖿰	loojn	59	trọn vẹn, trọn buổi
 𪵅澇	loojn lajo	80
 𪵅𣙩	loojn sofng	80
 𪵅𧿬	loojn xoojn	80
@@ -46267,13 +46267,13 @@ encoder:
 𱸉	loong	59	lông lá
 𱸢	loong	60
 𱻢	loong	60	lông lá
-󰒈	loong	55	lông lá
-󰭧	loong	64
-󰭨	loong	59
-󰭿	loong	62	nói lông bông; đi l…
-󰮅	loong	58
+𱻢󠄁	loong	55	lông lá
+𣰥󠄁	loong	64
+𣰵󠄁	loong	59
+𣯡󠄁	loong	62	nói lông bông; đi l…
+𣰴󠄁	loong	58
 󱦮	loong	62
-󱲧	loong	61
+𬖅󠄁	loong	61
 𲹛	loong	58
 曨	loong	50	mông lung
 櫳	loong	50	1. cửa sổ 2. cái lồ…
@@ -46412,7 +46412,7 @@ encoder:
 𥓹	looxi	55	lầm lỗi
 𦇒	looxi	60	rối
 𰦫	looxi	65	lòi ra
-󱩼	looxi	60
+磊𖿰	looxi	60
 壘	looxi	50	luỹ
 瘣	looxi	50	1. (Danh) Bệnh, bện…
 瘰	looxi	50	loa (bệnh lao tràng…
@@ -46483,8 +46483,8 @@ encoder:
 𭋙	losc	58	khóc lóc
 𱲪	losc	61
 𲌲	losc	55	cá lóc
-󰙴	losc	55	cá lóc
-󰭂	losc	62	một lúc
+䱚󠄁	losc	55	cá lóc
+彔𖿰	losc	62	một lúc
 𳋶	losc	59
 𠯿唂	losc cosc	80
 𫼚𬚸	losc thijt	80
@@ -46574,7 +46574,7 @@ encoder:
 啉	lowfm	55	lầm
 崊	lowfm	55	lờm lợm
 蓝	lowfm	59	xanh lam
-󱋭	lowfm	60	thèm ăn
+𠿳󠄁	lowfm	60	thèm ăn
 吝	lowfn	61	1. lận 2. lần
 囒	lowfn	61	rợn
 懶	lowfn	61	lãn (lười): đại lãn…
@@ -46783,11 +46783,11 @@ encoder:
 䁖	lu	55	lâu (xem, ròm)
 𫽤	lu	55	lu mờ
 𬙎	lu	55	lu
-󱡼	lu	59
+𱪵𖿱	lu	59
 瞜𥊚	lu mowf	80
 罏渃	lu nuwowsc	80
 𫽤	lua	62	lu mờ
-󱡁	lua	59
+廬𖿱	lua	59
 论	luaajn	55	luận bàn
 論	luaajn	76	luận
 論證	luaajn chuwsng	80	[Từ điển Nguyễn Quố…
@@ -46951,7 +46951,7 @@ encoder:
 陸	lujc	71	lục
 𥭼	lujc	60	lục sự (việc sổ sác…
 𩺮	lujc	55	lục
-󰋅	lujc	55	lục (khí chlorine)
+氯󠄁	lujc	55	lục (khí chlorine)
 六	lujc	82	lục
 剹	lujc	55	1. giết rồi phanh t…
 勠	lujc	55	đóng góp, chung góp
@@ -47224,7 +47224,7 @@ encoder:
 𨻫	luoosng	75	luống
 𪽏	luoosng	67	luống đất
 𬕺	luoosng	55	luống cày
-󱪠	luoosng	59
+竜𖿰	luoosng	59
 󱸠	luoosng	58
 隴㤮	luoosng cuoosng	80
 隴蔞	luoosng rau	80
@@ -47246,7 +47246,7 @@ encoder:
 𨇒蹆	luri thuri	80
 廪	lurm	55	má lúm đồng tiền
 𡄁	lurm	59	lúm
-󰃭	lurm	55	lúm lím
+𡄁󠄁	lurm	55	lúm lím
 侖	lurn	55	lổn
 寵	lurng	61	sủng
 竉	lurng	55	lủng
@@ -47277,7 +47277,7 @@ encoder:
 椂	lusc	62	lốc
 𣅶	lusc	76	lúc
 𫼚	lusc	55	lóc thịt, lóc da
-󰭂	lusc	55	một lúc
+彔𖿰	lusc	55	một lúc
 𲖘	lusc	59
 𳂓	lusc	59
 𣅶𧘇	lusc aasy	80
@@ -47294,7 +47294,7 @@ encoder:
 廩	lusm	55	lẫm
 廪	lusm	55	má lúm đồng tiền
 𡄁	lusm	55	lúm
-󰃭	lusm	55	lúm lím
+𡄁󠄁	lusm	55	lúm lím
 𡄁銅錢	lusm ddoofng tieefn	80
 巽	lusn	55	tốn
 淪	lusn	60	luân
@@ -47541,7 +47541,7 @@ encoder:
 𣳪	luwowji	55	mưa lượi rượi
 歛	luwowjm	65	lẹm
 𢹦	luwowjm	61	lượm
-󱪌	luwowjm	59
+𢀮󠄁	luwowjm	59
 𢹦𣙬	luwowjm lawjt	80
 𢹦㩢	luwowjm most	80
 扙	luwowjn	55	lượn lờ
@@ -47692,7 +47692,7 @@ encoder:
 𥚇	luwowxi	70	miệng lưỡi
 𦧜	luwowxi	60	lưỡi
 𦧽	luwowxi	55	miệng lưỡi
-󰟴	luwowxi	63
+𥚇󠄁	luwowxi	63
 𦧜鉤	luwowxi caau	80
 𦧜刀被𠹴	luwowxi dao bij quawfn	80
 𦧜𢲨	luwowxi hasi	80
@@ -47736,7 +47736,7 @@ encoder:
 呂	luwra	55	lữa
 焒	luwra	78	lửa
 𱪵	luwra	64	bếp lò
-󰌕	luwra	62
+焒󠄁	luwra	62
 焒𤇮	luwra beesp	80
 焒𤓩𠓨稴	luwra besn vafo rowm	80
 焒拽𬨠	luwra daasy leen	80
@@ -47780,7 +47780,7 @@ encoder:
 鹨	luwu	55	lưu (loại chim nhoe…
 𭄁	luwu	61	họ lưu, lưu manh
 𱨳	luwu	55	lưu (trong leo lẻo)
-󰁂	luwu	55	đem đi, đem cho; đe…
+冘󠄁	luwu	55	đem đi, đem cho; đe…
 剨	luwu	50	(văn) Tiếng rách to…
 懰	luwu	55	Ngủ trọ đêm — Một â…
 摎	luwu	50	Thắt cổ người khác …
@@ -47924,7 +47924,7 @@ encoder:
 呂	luwxa	68	lữa
 焒	luwxa	60	lửa
 𣳮	luwxa	58	rửa
-󰌕	luwxa	55
+焒󠄁	luwxa	55
 朗	luwxng	64	lững
 𣼽	luwxng	60	lặng
 𨀊	luwxng	55	dằng
@@ -48413,7 +48413,7 @@ encoder:
 𪹏	maary	55	(cháy)
 𫋿	maary	55	may vá, may áo
 𱥯	maary	58	mấy khi, mấy bữa, m…
-󱫣	maary	58
+美𖿱	maary	58
 𣎊䏧𣎊𬚸	maary da maary thijt	80
 𥢄	maasm	55	mấm mạ, mấm lúa
 緍	maasn	55	mấn
@@ -48589,7 +48589,7 @@ encoder:
 𣻕	maf	64	mà
 𦓡	maf	78	mà
 𳐚	maf	60
-󱰹	maf	59
+麻𖿰	maf	59
 𦓡𡀳	maf cofn	80
 𦓡𧽠	maf thooi	80
 𦓡推	maf thooi	80
@@ -48686,8 +48686,8 @@ encoder:
 𪵟	mafy	69	lông mày
 𫵇	mafy	59	đầu mày
 𱚧	mafy	63
-󰜣	mafy	62
-󱩮	mafy	59
+𪵟󠄁	mafy	62
+眉𖿱	mafy	59
 𥻡吳	mafy ngoo	80
 𣮮𩯁	mafy raau	80
 𡮠𠋺	mafy tao	80
@@ -49118,7 +49118,7 @@ encoder:
 蛮	manh	55	man
 蝱	manh	55	manh (con nhặng)
 𥯋	manh	62	manh
-󱬰	manh	61
+萌𖿱	manh	61
 儚	manh	50	1. (Tính) “Manh man…
 懵	manh	50	mộng đổng (ngu dốt)
 甍	manh	58	manh (cái rui đóng …
@@ -49288,7 +49288,7 @@ encoder:
 𩗂	mast	55	gió mát, hóng mát
 𫖼	mast	55	gió mát
 𬟼	mast	55	1. mát 2. mạt
-󰘪	mast	55	gió mát
+𫖼󠄁	mast	55	gió mát
 𠖾渼	mast mer	80
 𠖾洟	mast ruwowji	80
 卯	masu	59	mão
@@ -49428,8 +49428,8 @@ encoder:
 𫖀	mawjt	66	mặt mày, bề mặt
 𬰠	mawjt	65	mặt mày, bề mặt
 𬰢	mawjt	71	mặt mày, bề mặt
-󰘚	mawjt	78	mặt mày, bề mặt
-󱳄	mawjt	58
+𩈘󠄁	mawjt	78	mặt mày, bề mặt
+𫖀󠄁	mawjt	58
 𩈘㴜	mawjt bieern	80
 𩈘𫫢粉	mawjt buwj phaasn	80
 𩈘倨𡍚𡍚	mawjt cuws laafm laafm	80
@@ -49500,10 +49500,10 @@ encoder:
 𬸴	mawsm	61	mắm muối
 𲍂	mawsm	61
 󰊵	mawsm	55	mắm muối, nước mắm
-󰖻	mawsm	55	mắm tương
+𫑾󠄁	mawsm	55	mắm tương
 𳐛	mawsm	59
 𲫀	mawsm	59
-󱰥	mawsm	64
+𩼤󠄁	mawsm	64
 𩻐𧉝	mawsm casy	80
 𩻐𨡯	mawsm neem	80
 𩻐𣿃	mawsm ngaasu	80
@@ -49731,7 +49731,7 @@ encoder:
 𱜿	may	66
 𱝁	may	55
 𱿊	may	62
-󰑑	may	60	may vá, may áo
+𦁼󠄁	may	60	may vá, may áo
 𲦸	may	58
 𳋍	may	59
 𦁼襖	may aso	80
@@ -49825,7 +49825,7 @@ encoder:
 𫉼	meejt	58	mệt mỏi, chết mệt
 𬏱	meejt	55	mệt mỏi,chết mệt
 𬏻	meejt	63	mệt mỏi,chết mệt
-󰎎	meejt	55	mệt mỏi,chết mệt
+𤻻󠄁	meejt	55	mệt mỏi,chết mệt
 𤻻𣴙	meejt dduwf	80
 𤻻𡃖	meejt luwf	80
 𤻻痗	meejt mori	80
@@ -49926,7 +49926,7 @@ encoder:
 䟪	mejp	60	nằm mẹp
 篾	mejt	55	miết
 𥬎	mejt	55	mẹt
-󰐝	mejt	55	miệt phiến (lạt tre…
+篾󠄁	mejt	55	miệt phiến (lạt tre…
 𠻦	mem	55	mím
 𣼺	mem	59	mớm
 眠	men	58	miên
@@ -49958,8 +49958,8 @@ encoder:
 𲐾	mer	58
 󰀴	mer	55	mát mẻ; mới mẻ
 𲒔	mer	61
-󱫣	mer	63
-󱸎	mer	58
+美𖿱	mer	63
+美𖿰	mer	58
 卯	mero	55	mão
 廟	mero	55	miếu
 買	mes	68	mãi
@@ -50004,7 +50004,7 @@ encoder:
 衊	mest	61	máu bẩn
 𠼽	mest	55	mách
 𱼢	mest	60
-󰔩	mest	55	miệt thị; vu miệt (…
+衊󠄁	mest	55	miệt thị; vu miệt (…
 瀎	met	55	met
 瑪	mex	55	1. mã 2. mẽ
 美	mex	63	1. (Tính) Đẹp, xinh…
@@ -50082,12 +50082,12 @@ encoder:
 𡌀	mieejt	55	bết
 𤻻	mieejt	61	mệt
 𨡊	mieejt	55	biệt tăm; biền biệt
-󰐝	mieejt	55	miệt phiến (lạt tre…
-󰓳	mieejt	59	mải miết
-󰔣	mieejt	58	miệt mòng (con mòng)
-󰔩	mieejt	55	miệt thị; vu miệt (…
-󰔹	mieejt	58	miệt tử (bít tất)
-󰘠	mieejt	55	miệt tử (bít tất)
+篾󠄁	mieejt	55	miệt phiến (lạt tre…
+蔑󠄁	mieejt	59	mải miết
+蠛󠄁	mieejt	58	miệt mòng (con mòng)
+衊󠄁	mieejt	55	miệt thị; vu miệt (…
+襪󠄁	mieejt	58	miệt tử (bít tất)
+韤󠄁	mieejt	55	miệt tử (bít tất)
 嗢	mieejt	50	ồn
 蠛	mieejt	55	mọt
 㩢	mieejt	55	miệt thị
@@ -50171,7 +50171,7 @@ encoder:
 篾	mieest	55	miết
 蔑	mieest	63	1. miệt 2. một
 𤻻	mieest	60	mệt
-󰓳	mieest	55	mải miết
+蔑󠄁	mieest	55	mải miết
 嫳	mieest	50	Dễ cấu giận — Vẻ ng…
 憋	mieest	50	Xấu xa.
 櫗	mieest	50	mít
@@ -50284,7 +50284,7 @@ encoder:
 麵	mif	55	diện kiến; diện tíc…
 麺	mif	55	canh miến
 𫗗	mif	55	mì ăn liền
-󰚻	mif	55	lúa mì; bánh mì; mì…
+麵󠄁	mif	55	lúa mì; bánh mì; mì…
 麪咹連	mif awn lieefn	80
 麪高樓	mif cao laafu	80
 味精	mif chisnh	80	[Từ điển trích dẫn]…
@@ -50371,7 +50371,7 @@ encoder:
 𫉼	mijt	58	mệt mỏi, chết mệt
 𬯹	mijt	60	mù mịt
 𱼢	mijt	59
-󰊳	mijt	55	cây mít
+櫗󠄁	mijt	55	cây mít
 𳉄	mijt	60
 綿	min	67	men theo
 㒙	min	58	cướp sống chồng min…
@@ -50522,7 +50522,7 @@ encoder:
 櫗	mist	69	mít
 没	mist	61	mải mốt; một trăm m…
 蔑	mist	55	1. miệt 2. một
-󰊳	mist	62	cây mít
+櫗󠄁	mist	62	cây mít
 櫗𭉪	mist ddawjc	80
 喵	miu	55	miu
 鎂	mix	55	1. (Danh) Nguyên tố…
@@ -50640,7 +50640,7 @@ encoder:
 𠚐	mojc	60	mọc
 𦙣	mojc	55	mọc
 𬎳	mojc	60	mọc ra
-󱥸	mojc	61
+木𖿱	mojc	61
 󱲵	mojc	58
 𠚐𬨠	mojc leen	80
 𠚐𱿆	mojc reex	80
@@ -50880,7 +50880,7 @@ encoder:
 慕勢	mooj thees	80	[Từ điển Nguyễn Quố…
 暮嵗	mooj tuees	80	[Từ điển Nguyễn Quố…
 暮春	mooj xuaan	80	[Từ điển Nguyễn Quố…
-󱥸	moojc	55
+木𖿱	moojc	55
 匹	moojc	50	sơ sài
 坶	moojc	50	Xem 壚坶 [lúmư].
 木	moojc	75	mộc
@@ -51177,7 +51177,7 @@ encoder:
 沐	moosc	61	mộc
 霂	moosc	55	mốc
 𡉿	moosc	55	mốc
-󱥸	moosc	62
+木𖿱	moosc	62
 𬇏	moosc	55	móc (sương mù)
 𡉿界	moosc giowsi	80
 霂渵	moosc meo	80
@@ -51186,7 +51186,7 @@ encoder:
 䗋	moosi	55	con mò (loại kí sin…
 䱕	moosi	58	cá mòi, mặn mòi
 𧋟	moosi	65	muỗi
-󱟙	moosi	55
+媒𖿰	moosi	55
 󱹤	moosi	58
 䋦	moosi	76	múi bưởi, múi cam, …
 䋦黹	moosi chir	80
@@ -51219,7 +51219,7 @@ encoder:
 𣋻	moost	55	mốt
 𱍗	moost	58
 𱥺	moost	64
-󰓳	moost	55	mải miết
+蔑󠄁	moost	55	mải miết
 戊	moox	58	mậu
 𪲣	moox	58	lỗ mỗ
 厶	moox	50	bộ khư
@@ -51313,7 +51313,7 @@ encoder:
 𠣛	mosc	55	móc vào
 𢪮	mosc	63	móc
 󰊉	mosc	55	móc vào
-󱔵	mosc	55
+木𖿰	mosc	55
 𲵳	mosc	60
 𢪮勾	mosc caau	80
 𢪮𠓨	mosc vafo	80
@@ -51347,7 +51347,7 @@ encoder:
 𨮵	mosng	55	muỗng
 𲄌	mosng	60	móng chân, móng vuốt
 󰍣	mosng	55	móng chân, móng vuốt
-󰍤	mosng	55	móng chân, móng vuốt
+𤔽󠄁	mosng	55	móng chân, móng vuốt
 𲬾	mosng	60
 𤔻𤢇	mosng vuoost	80
 漞	mosp	55	móp
@@ -51360,7 +51360,7 @@ encoder:
 㩢	most	60	miệt thị
 𥣫	most	55	mót lúa (nhặt những…
 𬖫	most	55	mót lúa (nhặt những…
-󰇖	most	55	mót đái
+懱󠄁	most	55	mót đái
 㩢瀻	most ddasi	80
 㩢穭	most lusa	80
 㩢抇	most nhawjt	80
@@ -51377,7 +51377,7 @@ encoder:
 𤎎	mow	65	sáng tinh mơ
 𥊚	mow	67	mờ
 𧫼	mow	55	nói mơ
-󰯮	mow	58
+麻𖿱	mow	58
 𲽾	mow	60
 𢠩恾	mow mafng	80
 𣙪西	mow taay	80
@@ -51455,7 +51455,7 @@ encoder:
 𠽊	mowrn	62	mỉm cười
 𡠪	mowrn	55	mơn mởn
 𤾯	mowrn	55	mơn mởn
-󱺁	mowrn	59
+免𖿰	mowrn	59
 嗎	mows	55	mửa
 榪	mows	55	từng mớ, một mớ
 𢲫	mows	61	mở
@@ -51575,7 +51575,7 @@ encoder:
 苿	mufi	55	mùi
 𠿃	mufi	60	môi mép
 𱔙	mufi	60
-󱝫	mufi	61
+味𖿰	mufi	61
 𲖧	mufi	58
 苿胲	mufi gaay	85
 苿脄	mufi hoi	80
@@ -51857,7 +51857,7 @@ encoder:
 蔑	must	55	1. miệt 2. một
 𡃙	must	55	mút
 𫽑	must	55	mút mùa
-󰃨	must	55	mút kẹo, mút kem
+𡃙󠄁	must	55	mút kẹo, mút kem
 𡃙𥼱	must kejo	80
 𡃙𬁒	must mufa	80
 湄	muwa	79	1. (Danh) Bờ nước, …
@@ -52299,7 +52299,7 @@ encoder:
 呢	nafy	69	nè
 尼	nafy	84	1. ni 2. này
 㖠	nafy	55	nhại lời người khác
-󱟼	nafy	58
+尼𖿰	nafy	58
 尼低	nafy ddaay	80
 坭	nai	55	nơi
 埿	nai	55	nai
@@ -52324,8 +52324,8 @@ encoder:
 𫖄	naj	55	mặt nạ (lột mặt nạ)
 𫱗	naj	60	nạ dòng (phụ nữ tru…
 𬠌	naj	62	rắn độc đầu có 9 lỗ
-󰘙	naj	55	mặt nạ (lột mặt nạ)
-󰘛	naj	55	mặt nạ (lột mặt nạ)
+䩆󠄁	naj	55	mặt nạ (lột mặt nạ)
+𩈩󠄁	naj	55	mặt nạ (lột mặt nạ)
 𫱗𣳔	naj dofng	80
 諾	najc	59	vâng, bằng lòng
 䑈	najc	58	thịt dùng tế tự
@@ -52388,7 +52388,7 @@ encoder:
 铙	najo	55	nạo bạt (cái chũm c…
 𥑚	najo	55	nạo (muối Ammoniac)…
 𫿹	najo	55	(cái cân)
-󰏁	najo	55	nạo (muối Ammoniac)…
+𥑚󠄁	najo	55	nạo (muối Ammoniac)…
 峱	najo	50	Một tên chỉ con chó…
 悼	najo	50	điệu
 挐	najo	50	dắt, dẫn
@@ -52431,9 +52431,9 @@ encoder:
 𠵋	najt	55	nạt nộ
 𠽇	najt	59	nạt nộ
 𦟻	najt	55	cá nác (cá nhảy trê…
-󰂭	najt	55	nạt nộ
-󰆯	najt	55	nhăng nhít
-󰞺	najt	55	núc nác
+𠽇󠄁	najt	55	nạt nộ
+𢝘󠄁	najt	55	nhăng nhít
+湼󠄁	najt	55	núc nác
 捺	najt	50	1. đè ép, ấn 2. nét…
 㖏怒	najt nooj	80
 奈	najy	55	1. nại 2. nài
@@ -52557,7 +52557,7 @@ encoder:
 𧰗	nanh	55	nành
 𪺖	nanh	55	nanh vuốt
 𫜧	nanh	60	răng nanh
-󱲅	nanh	61
+獰󠄁	nanh	61
 獰	nanh	64	(xem: tranh ninh, t…
 鬡	nanh	50	(xem: tranh ninh, t…
 𤘓蝳	nanh nojc	80
@@ -52573,7 +52573,7 @@ encoder:
 㝹	nao	70	nao nao
 𣻖	nao	63
 𱜢	nao	68	cái gì
-󰅉	nao	55	nao nao
+㝹󠄁	nao	55	nao nao
 夒	nao	55	Tên một loài khỉ cự…
 峱	nao	50	Một tên chỉ con chó…
 怓	nao	55	nao lòng
@@ -52629,7 +52629,7 @@ encoder:
 匿	nasc	55	nặc
 渃	nasc	65	cá nác (cá nhảy trê…
 𦟻	nasc	55	cá nác (cá nhảy trê…
-󰞺	nasc	55	núc nác
+湼󠄁	nasc	55	núc nác
 溺	nasch	58	nịu
 腋	nasch	64	nách
 膈	nasch	61	hoành cách mô, hoàn…
@@ -52675,8 +52675,8 @@ encoder:
 𢝘	nast	55	dốt nát
 𦟻	nast	55	cá nác (cá nhảy trê…
 𬄅	nast	55	Nát bét; Nát như tư…
-󰆯	nast	55	nhăng nhít
-󰞺	nast	70	núc nác
+𢝘󠄁	nast	55	nhăng nhít
+湼󠄁	nast	70	núc nác
 涅	nast	69	1. niết 2. nét 3. n…
 捏𥇂	nast best	80
 捏如𥺑	nast nhuw taasm	80
@@ -52790,7 +52790,7 @@ encoder:
 𢥪	nawn	55	nản
 𮥷	nawn	63
 𱔪	nawn	69	phàn nàn
-󱲆	nawn	55
+𬝴󠄁	nawn	55
 𡅧𪡇	nawn nir	80
 能	nawng	98	năng
 菱	nawng	55	cây ấu
@@ -52951,7 +52951,7 @@ encoder:
 𫢩	nay	79	nay
 𬁉	nay	55	ngày nay, hôm nay
 𲐩	nay	55
-󰅒	nay	76	ngày nay, hôm nay
+𫢩󠄁	nay	76	ngày nay, hôm nay
 尔	ne	55	đè ne (oái oăm)
 泥	ne	58	nệ
 𪭧	ne	55	đè ne (oái oăm)
@@ -53078,15 +53078,15 @@ encoder:
 湼	neest	71	nhăng nhít
 𢝘	neest	64	dốt nát
 𢟗	neest	55	nết
-󰆯	neest	55	nhăng nhít
-󰞺	neest	71	núc nác
+𢝘󠄁	neest	55	nhăng nhít
+湼󠄁	neest	71	núc nác
 𳀣	neest	59
 𢟗那	neest na	80
 櫟	neesu	55	lác
 裊	neesu	70	nếu
 𠮩	neesu	63	líu
 𡀮	neesu	60	nếụ.. thì...
-󰃖	neesu	55	nếu mà
+𠿷󠄁	neesu	55	nếu mà
 𠮩空	neesu khoong	80
 裊𦓡	neesu maf	80
 裊時	neesu thif	80
@@ -53126,7 +53126,7 @@ encoder:
 𠵋	nejt	55	nạt nộ
 𠹑	nejt	55	nẹt
 𠽇	nejt	62	nạt nộ
-󰂢	nejt	55	đe nẹt
+㖏󠄁	nejt	55	đe nẹt
 粘	nem	60	niêm
 腩	nem	63	nạm
 𦟗	nem	55	nem chả
@@ -53206,7 +53206,7 @@ encoder:
 湼	nest	65	nhăng nhít
 𤵖	nest	58	vết
 𱱅	nest	58
-󰞺	nest	69	núc nác
+湼󠄁	nest	69	núc nác
 涅筆	nest bust	80
 涅𩈘	nest mawjt	80
 嬭	nex	50	nãi đầu (núm vú)
@@ -53288,7 +53288,7 @@ encoder:
 𠲺	ngaajp	58	cá ngóp
 𣵵	ngaajp	63	ngập nước
 𫲼	ngaajp	59	ngập ngừng
-󰁴	ngaajp	61	dầy cộp; lộp cộp
+及𖿱	ngaajp	61	dầy cộp; lộp cộp
 圾	ngaajp	55	ngập ngừng
 岋	ngaajp	50	gập
 砐	ngaajp	50	Dáng đá chồng chất …
@@ -53842,7 +53842,7 @@ encoder:
 𢞆	ngasn	64	nghiện
 𢱘	ngasn	55	gạn gùng; gạn hỏi
 𩜽	ngasn	58	ngán
-󰘋	ngasn	55	ngao ngán
+阮𖿱	ngasn	55	ngao ngán
 𩜽儼	ngasn ngaarm	80
 昂	ngasng	55	ngang
 昻	ngasng	55
@@ -54843,7 +54843,7 @@ encoder:
 𬩟	ngoasi	55	năm ngoái
 奡	ngoaso	55	ngáo
 𲮵	ngoaso	55
-󰍙	ngoaso	55	ngoáo ộp
+𲮵󠄁	ngoaso	55	ngoáo ộp
 外	ngoasy	62	1. ngoại 2. ngoài
 快	ngoasy	58	khoái
 𢫑	ngoasy	60	1. ngoái 2. quái
@@ -55031,7 +55031,7 @@ encoder:
 𤮿	ngojt	66	ngọt ngào
 𤯆	ngojt	58	ngon
 𫳹	ngojt	55	ngọt ngào
-󰍱	ngojt	58	ngọt ngào
+𤮾󠄁	ngojt	58	ngọt ngào
 𤮾噶	ngojt gawst	80
 𤮾𡃖	ngojt luwf	80
 𤮾𢳆	ngojt ngafo	80
@@ -55094,7 +55094,7 @@ encoder:
 𲚎	ngoofi	58
 𲻄	ngoofi	59
 𲚥	ngoofi	60
-󱠠	ngoofi	63
+𡓮󠄁	ngoofi	63
 𡎦𡋾	ngoofi beejt	80
 𡎦𨔈嗟渃	ngoofi chowi xowi nuwowsc	80
 𡎦𦂄	ngoofi dai	80
@@ -55115,7 +55115,7 @@ encoder:
 訔	ngoofn	55	cao ngồn ngộn
 阮	ngoofn	58	nguyễn
 𬢞	ngoofn	58	ngồn ngộn
-󰕉	ngoofn	55	ngồn ngộn
+言𖿱	ngoofn	55	ngồn ngộn
 茂	ngoofng	55	mậu
 茙	ngoofng	55	ngồng cải
 𧄴	ngoofng	55	cao ngồng
@@ -55123,7 +55123,7 @@ encoder:
 󰓴	ngoofng	55	ngồng cải
 𠑖	ngooi	62	ngôi vua
 𡾵	ngooi	72	ngôi
-󱠢	ngooi	67
+𡾵󠄁	ngooi	67
 嵬	ngooi	70	ngui ngút
 桅	ngooi	55	cột buồm
 隗	ngooi	50	1. (Tính) Cao. § Cũ…
@@ -55174,7 +55174,7 @@ encoder:
 𠻂	ngoojn	55	ăn ngốn ngấu
 𬢞	ngoojn	55	ngồn ngộn
 𲩓	ngoojn	58
-󰕉	ngoojn	55	ngồn ngộn
+言𖿱	ngoojn	55	ngồn ngộn
 諢	ngoojn	50	(Nói) đùa: 打諢 Nói đ…
 頜	ngoojp	55	miệng, mồm, hàm
 兀	ngoojt	61	ngột
@@ -55260,7 +55260,7 @@ encoder:
 言	ngoorn	55	ngôn
 𪤍	ngoorn	55	ngổn ngang
 󰄆	ngoorn	55	ngổn ngang
-󰕉	ngoorn	55	ngồn ngộn
+言𖿱	ngoorn	55	ngồn ngộn
 滚卬	ngoorn ngang	80
 鵝	ngoorng	55	nga
 𡺥	ngoorng	55	cao ngông ngổng
@@ -55282,7 +55282,7 @@ encoder:
 𠽓	ngoosn	55	ngốn
 𡁺	ngoosn	55	ăn ngốn ngấu
 𬜇	ngoosn	55	ăn ngốn ngấu
-󰂮	ngoosn	55	ăn ngốn ngấu
+𠽓󠄁	ngoosn	55	ăn ngốn ngấu
 𠽓𣿃	ngoosn ngaasu	80
 軏	ngoost	55	nực ngốt người
 𤍆	ngoost	55	ngốt người, ngốt của
@@ -55363,7 +55363,7 @@ encoder:
 𱰑	ngosi	62
 𲴎	ngosi	58
 󰞱	ngosi	55
-󰭰	ngosi	59
+𤮟󠄁	ngosi	59
 𲰤	ngosi	59
 𲰜	ngosi	60
 󱸍	ngosi	58
@@ -55391,7 +55391,7 @@ encoder:
 󰃁	ngosng	55	lóng ngóng
 󰘏	ngosng	55	ngóng đợi
 󱩡	ngosng	60
-󱰂	ngosng	59
+顒𖿱	ngosng	59
 𥍎矓	ngosng troong	80
 𠲺	ngosp	60	cá ngóp
 㐳	ngost	55	ngót
@@ -55399,7 +55399,7 @@ encoder:
 𣾃	ngost	55	ngót một thế kỉ, ng…
 𦬂	ngost	55	ngót
 𨓢	ngost	55	ngót một thế kỷ, ng…
-󰁌	ngost	55	ngót một thế kỷ, ng…
+𣾃󠄁	ngost	55	ngót một thế kỷ, ng…
 㐳𠬠世紀	ngost moojt thees kyr	80
 㐳㳉	ngost ngoest	80
 魚	ngow	75	ngư
@@ -55499,7 +55499,7 @@ encoder:
 娛	ngu	63	ngu lạc (mua vui)
 娱	ngu	58	ngu lạc (mua vui)
 髃	ngu	55	ngu (tên huyện)
-󰔄	ngu	67	Đại ngu (quốc hiệu …
+虞󠄁	ngu	67	Đại ngu (quốc hiệu …
 俁	ngu	55	To lớn — Tốt đẹp.
 喁	ngu	50	ngụm
 噳	ngu	50	Thú vật tụ thành bầ…
@@ -55543,7 +55543,7 @@ encoder:
 𠸺	ngueejch	55	nguệch ngoạc
 鬩	ngueesch	55	huỵch
 𣮇	nguf	55	ngù nón, ngù giáo
-󰔄	nguf	63	Đại ngu (quốc hiệu …
+虞󠄁	nguf	63	Đại ngu (quốc hiệu …
 󰶮	nguf	55
 嵬	ngufi	66	ngui ngút
 㟴	ngufi	60	ngậm ngùi
@@ -55651,7 +55651,7 @@ encoder:
 𣵴	ngurm	55	ngấm nước
 言	ngurn	55	ngôn
 𥐐	ngurn	55	ngắn ngủn
-󰩻	ngurn	55	ngắn ngủn
+𥐐󠄁	ngurn	55	ngắn ngủn
 喁	ngurng	59	ngụm
 顒	ngurng	59	ngung (đầu to, to l…
 𢥶	ngurng	55	ngủng nghỉnh
@@ -55850,7 +55850,7 @@ encoder:
 𢞆	nguwowjng	55	nghiện
 𬚣	nguwowjng	55	ngượng ngùng
 𲟼	nguwowjng	55
-󱙨	nguwowjng	60
+仰𖿱	nguwowjng	60
 𢗾汲	nguwowjng ngaajp	80
 𢗾㥥	nguwowjng ngufng	80
 享	nguwowrng	61	hưởng
@@ -56026,7 +56026,7 @@ encoder:
 危	nguy	71	nguy
 嵬	nguy	55	ngui ngút
 巍	nguy	60	nguy
-󱳈	nguy	59
+危𖿱	nguy	59
 桅	nguy	59	cột buồm
 犩	nguy	50	Loài bò tót, cực lớ…
 魏	nguy	50	nguỵ
@@ -57539,7 +57539,7 @@ encoder:
 戞	nhast	58	giát mỏng
 瘌	nhast	55	lạt (ghẻ lở)
 㦉	nhast	55	nhút nhát, hèn nhát…
-󰆻	nhast	55	nhút nhát, hèn nhát…
+𢝘󠄂	nhast	55	nhút nhát, hèn nhát…
 㦉如𧉝	nhast nhuw casy	80
 遶	nhasu	55	1. diễu 2. nhảu
 𠿷	nhasu	55	nhếu nháo, nhốn nháo
@@ -57601,7 +57601,7 @@ encoder:
 𫽰	nhawjt	55	chuyện nhỏ nhặt
 𱚓	nhawjt	60
 󰉘	nhawjt	55	chuyện nhỏ nhặt
-󰤠	nhawjt	61
+日𖿱	nhawjt	61
 抇拎	nhawjt nhajnh	80
 任	nhawm	55	nhiệm
 壬	nhawm	55	nhâm
@@ -57708,7 +57708,7 @@ encoder:
 仍	nhawxng	55	những
 𠯹	nhawxng	55	nhẵng
 𣼴	nhawxng	55	nhẵn
-󰯇	nhawxng	55	nhũng nhẵng
+𨲅󠄁	nhawxng	55	nhũng nhẵng
 牙	nhax	62	nha
 耶	nhax	62	da
 訝	nhax	58	nghi ngờ, thấy lạ
@@ -57817,7 +57817,7 @@ encoder:
 𩽏	nheejch	55	lệch
 蝒	nheejn	68	nhện
 𦟶	nheejn	55	nem chả
-󰔓	nheejn	59	con dện (con nhện)
+蝒󠄁	nheejn	59	con dện (con nhện)
 嘵	nheeju	55	1. nghêu 2. nhéo
 𡃺	nheeju	55	nhệu
 𡃺𠿱	nheeju nhajo	80
@@ -57843,7 +57843,7 @@ encoder:
 㖇	nhef	58	nhắn nhe
 𥅡	nhef	55	nhè đầu mà đánh
 󰃮	nhef	55	nhè thức ăn ra, khó…
-󰅄	nhef	55	nhè thức ăn ra, khó…
+𡮅󠄁	nhef	55	nhè thức ăn ra, khó…
 𳅓	nhef	59
 洏𪥘𣈜	nhef car ngafy	80
 洏頭𦓡打	nhef ddaafu maf ddasnh	80
@@ -57855,7 +57855,7 @@ encoder:
 蕘	nhefo	55	nhèo
 饒	nhefo	55	nhiêu
 𡗉	nhefo	55	nhiều
-󰬥	nhefo	55	nhiêu lắm; nhiều kh…
+𡗉󠄁	nhefo	55	nhiêu lắm; nhiều kh…
 二	nhej	59	1. nhị 2. lái 3. nh…
 你	nhej	59	né mình
 弍	nhej	55	thiếu nhi
@@ -57965,7 +57965,7 @@ encoder:
 𲇁	nhex	59
 𲯼	nhex	60
 繞	nhexo	55	nhiễu
-󰖯	nhexo	55	nhẽo nhèo nhèo (nhã…
+𡮾󠄁	nhexo	55	nhẽo nhèo nhèo (nhã…
 𲪾	nhexo	60
 儿	nhi	58	1. đứa trẻ 2. con (…
 唲	nhi	55	nhé
@@ -58014,7 +58014,7 @@ encoder:
 𬲢	nhieefu	68	ít nhiều, rất nhiều
 𬼀	nhieefu	59
 𱘫	nhieefu	64
-󰬥	nhieefu	71	nhiêu lắm; nhiều kh…
+𡗉󠄁	nhieefu	71	nhiêu lắm; nhiều kh…
 澆	nhieefu	50	1. bạc, mỏng 2. tưới
 𡗉欺	nhieefu khi	80
 𡗉𠳒	nhieefu lowfi	80
@@ -58304,7 +58304,7 @@ encoder:
 湼	nhist	55	nhăng nhít
 𭉴	nhist	55	nhít
 󰅌	nhist	55	nhăng nhít
-󰆯	nhist	55	nhăng nhít
+𢝘󠄁	nhist	55	nhăng nhít
 疚	nhisu	60	điều thẹn
 皺	nhisu	55	nhíu
 皺𣮮	nhisu mafy	80
@@ -58399,7 +58399,7 @@ encoder:
 啱	nhoafm	57	nhàm
 惴	nhoai	55	lo sợ
 𣋆	nhoajng	55	nhoạng
-󰉱	nhoajng	55	tối nhập nhoạng
+𣋆󠄁	nhoajng	55	tối nhập nhoạng
 絖	nhoang	55	ôm choàng, choàng t…
 惴	nhoasi	55	lo sợ
 晄	nhoasng	55	nhoáng
@@ -58659,7 +58659,7 @@ encoder:
 𢘾	nhowf	73	nhờ
 𫼰	nhowf	62	giơ tay; gầy giơ xư…
 𱒥	nhowf	66	nhắc nhở
-󱟐	nhowf	58
+如𖿰	nhowf	58
 𢘾𡗶	nhowf trowfi	80
 𢘾𡲤	nhowf var	80
 𠳒	nhowfi	62	lời nói
@@ -58681,7 +58681,7 @@ encoder:
 𫻤	nhowfn	61	khinh nhờn
 𬚿	nhowfn	55	béo nhờn, nhờn nhợt…
 󰒩	nhowfn	55	béo nhờn, nhờn nhợt…
-󰣦	nhowfn	60
+𫔮𖿱	nhowfn	60
 𲖯	nhowfn	59
 濼濼	nhowfn nhowjt	80
 𦠥𫇿	nhowfn thuoosc	80
@@ -58721,7 +58721,7 @@ encoder:
 簡	nhowrn	55	giản
 𠽗	nhowrn	55	nhặn
 𣼹	nhowrn	55	nhởn
-󱮟	nhowrn	60
+軟𖿰	nhowrn	60
 𣼹洳	nhowrn nhow	80
 女	nhows	61	nữ
 汝	nhows	75	1. mày (đại từ nhân…
@@ -59038,8 +59038,8 @@ encoder:
 用	nhusng	58	1. dụng 2. dùng
 𢴞	nhusng	58	nhúng nước
 𣴛	nhusng	59	nhúng
-󰈥	nhusng	55	nhúng tay
-󱢼	nhusng	60
+𢴞󠄁	nhusng	55	nhúng tay
+𢶢󠄂	nhusng	60
 㳚渃	nhusng nuwowsc	80
 㳚𢬣	nhusng tay	80
 卒	nhust	61	tốt
@@ -59603,8 +59603,8 @@ encoder:
 𦁻	nijt	55	dây nịt, nai nịt
 𦄇	nijt	61	nịt
 𬘀	nijt	55	niệt trâu
-󰑊	nijt	55	dây nịt, nai nịt
-󰑙	nijt	55	dây nịt, nai nịt
+𦁻󠄁	nijt	55	dây nịt, nai nịt
+𦁻󠄂	nijt	55	dây nịt, nai nịt
 溺	niju	61	nịu
 𠸔	niju	55	làm nau
 𡣄	niju	55	nũng nịu
@@ -59700,8 +59700,8 @@ encoder:
 𢝘	nist	55	dốt nát
 𣻾	nist	55	con nít
 𪦼	nist	55	con nít
-󰄵	nist	55	con nít
-󰞺	nist	55	núc nác
+𡥴󠄁	nist	55	con nít
+湼󠄁	nist	55	núc nác
 扭	nisu	55	níu lại
 𢯨	nisu	55	nâng niu
 𢶑	nisu	55
@@ -59723,7 +59723,7 @@ encoder:
 𩛂	no	73	no
 𪥯	no	58	no đủ, no nê
 𲋖	no	61
-󰝎	no	55
+𪥯󠄁	no	55
 𳃏	no	60
 󱸟	no	58
 𩛂𢥇	no chasn	80
@@ -59802,7 +59802,7 @@ encoder:
 膿	nojng	60	mủ (ở vết thương)
 𬍎	nojng	55	cái nọng lợn
 𢝘	nojt	55	dốt nát
-󰆯	nojt	55	nhăng nhít
+𢝘󠄁	nojt	55	nhăng nhít
 南	nom	59	1. na 2. nam
 窞	nom	55	dòm ngó; ống dòm
 𥈶	nom	70	nom
@@ -60255,7 +60255,7 @@ encoder:
 𥶄𥴗	nosn thusng	80
 燶	nosng	67	nung
 𤎏	nosng	61	nóng
-󰌤	nosng	55	lửa nóng; nóng nảy
+𤎏󠄁	nosng	55	lửa nóng; nóng nảy
 𤎏煏	nosng buwsc	85
 𤎏𤍃	nosng hoori	80
 𤎏𤎐	nosng nuwjc	80
@@ -60270,7 +60270,7 @@ encoder:
 呢	nowi	60	nè
 坭	nowi	99	nơi
 尼	nowi	80	1. ni 2. này
-󱟼	nowi	58
+尼𖿰	nowi	58
 泥	nowi	64	nệ
 坭坉	nowi choosn	80
 坭其	nowi kia	80
@@ -60301,7 +60301,7 @@ encoder:
 乃	nowsi	55	nấy
 扔	nowsi	60	nhưng
 摕	nowsi	59	nới
-󰞥	nowsi	58
+乃𖿱	nowsi	58
 摕挵	nowsi lorng	80
 納	nowsp	64	1. nạp 2. nộp
 䈫	nowsp	58	cái níp
@@ -60309,7 +60309,7 @@ encoder:
 𢟕	nowsp	55	nớp
 涅	nowst	55	1. niết 2. nét 3. n…
 湼	nowst	59	nhăng nhít
-󰞺	nowst	55	núc nác
+湼󠄁	nowst	55	núc nác
 腦	nowsu	55	não
 女	nowx	77	nữ
 姅	nowx	60	nửa
@@ -60593,8 +60593,8 @@ encoder:
 𬳤	nuwsc	55	thơm nức
 𱕔	nuwsc	66	nực cười
 󰅺	nuwsc	55	nô nức
-󰋴	nuwsc	55	nức nở
-󱲗	nuwsc	61
+𢢉󠄁	nuwsc	55	nức nở
+𠴆󠄁	nuwsc	61
 𢴚	nuwsc1	55	nức thúng (buộc mây…
 𦣘	nuwsng	55	nuôi nấng
 𲻂	nuwsng	59
@@ -62055,7 +62055,7 @@ encoder:
 派	phai	73	1. phái 2. phe
 㗑	phai	55	bới móc
 𬜞	phai	55	phai màu
-󱢍	phai	60
+派𖿰	phai	60
 㗑𦭷	phai mafu	80
 㗑𥊚	phai mowf	80
 帕	phaj	55	Một cách viết của c…
@@ -62747,7 +62747,7 @@ encoder:
 探	phawm	55	1. thám 2. thăm
 法	phawm	55	1. pháp 2. phép
 𨮍	phawm	55	phăm
-󰗶	phawm	55	băm thịt; lang băm
+𨮍󠄁	phawm	55	băm thịt; lang băm
 𨮍𠵽	phawm phawsp	80
 紛	phawn	55	phân
 冰	phawng	55	bâng khuâng
@@ -62757,7 +62757,7 @@ encoder:
 㕫	phawng	61	phăng
 𬦋	phawng	55	phăng phăng chạy tới
 𬩏	phawng	55	phăng phăng chạy tới
-󱤔	phawng	59
+方𖿱	phawng	59
 㕫噗	phawng phawsc	80
 仿	phawrng	55	phỗng
 凭	phawrng	55	vững
@@ -62779,7 +62779,7 @@ encoder:
 濮	phawsc	61	1. sông Bộc 2. tên …
 𡃾	phawsc	55	im phăng phắc
 𬇑	phawsc	55	im phăng phắc
-󱹭	phawsc	59
+弗𖿰	phawsc	59
 法	phawsp	55	1. pháp 2. phép
 𠵽	phawsp	55	phắp
 𪴹	phawsp	55	hợp phắp (chính xác…
@@ -62851,7 +62851,7 @@ encoder:
 𤗹	pheen	66	mấy phen
 𬌌	pheen	55	phên vách
 𬒂	pheen	63
-󰌸	pheen	55	phên vách
+片𖿰	pheen	55	phên vách
 䉒壁	pheen vasch	80
 废	phees	55	phế bỏ
 廢	phees	72	phế
@@ -62961,7 +62961,7 @@ encoder:
 撇	phest	55	1. nét phảy 2. vứt …
 㗶	phest	60	nói phét
 𦠱	phest	55	phét
-󰃓	phest	55	nói phét
+㗶󠄁	phest	55	nói phét
 𦠱洛	phest lasc	80
 剕	phi	55	phi (hình pháp xưa …
 呸	phi	55	phôi
@@ -63837,7 +63837,7 @@ encoder:
 篷	phoofng	55	(xem: bồng bột 篷勃)
 蓬	phoofng	61	bồng
 𤂧	phoofng	55	1. phồng 2. phùng
-󰐕	phoofng	55	phập phồng
+篷󠄁	phoofng	55	phập phồng
 𤂧𨑗	phoofng leen	80
 坯	phooi	55	phôi
 配	phooi	71	phối
@@ -64149,7 +64149,7 @@ encoder:
 𤊫	phowi	55	phơi phóng
 𤊬	phowi	62	phi
 𳊙	phowi	59
-󱨅	phowi	58
+𪹎󠄁	phowi	58
 𤇨排	phowi bafy	80
 𤇨䏾	phowi bujng	80
 𤇨朱膉𡐙	phowi cho ari ddaast	80
@@ -64914,7 +64914,7 @@ encoder:
 笔	phust	55	bút ký
 筆	phust	55	bút
 𤼵	phust	67	phát tài, phát ngôn…
-󰃓	phust	62	nói phét
+㗶󠄁	phust	62	nói phét
 丿𡎺	phust choosc	80
 炐	phuwfng	55	phừng phừng
 焚	phuwfng	55	phàn nàn
@@ -65288,8 +65288,8 @@ encoder:
 鈞	quaan	67	1. quân (đơn vị đo,…
 钧	quaan	55	quân (đơn vị trọng …
 龟	quaan	55	kim qui
-󰄹	quaan	59	quân lính
-󰛏	quaan	55	quân liệt (nứt nẻ)
+軍󠄁	quaan	59	quân lính
+龜󠄁	quaan	55	quân liệt (nứt nẻ)
 勻	quaan	58	đều đặn
 君	quaan	81	quân
 峮	quaan	50	Quân lân 峮嶙: Dáng n…
@@ -65458,7 +65458,7 @@ encoder:
 𠶔	quaasy	55	1. oai 2. oái
 𢫞	quaasy	55	quấy quá
 𢯗	quaasy	55	quấy rối
-󱗙	quaasy	59
+恠𖿱	quaasy	59
 撌擾	quaasy nhieexu	80
 撌破	quaasy phas	80
 撌過	quaasy quas	80
@@ -65512,7 +65512,7 @@ encoder:
 𥖒	quafnh	55	cứng quành quạnh
 搞	quafo	55	cào
 𫽿	quafo	55	cái khau (gầu tát n…
-󰈞	quafo	55	cào cấu
+搞󠄁	quafo	55	cào cấu
 𫽿㧨	quafo caasu	80
 㤹	quafu	55	quàu quạu
 𥆿	quafu	55	quàu quạu
@@ -65826,7 +65826,7 @@ encoder:
 𲃵	quanh	55
 󰂰	quanh	55	quanh co
 󰉾	quanh	55	quanh co
-󱫛	quanh	59
+縈𖿰	quanh	59
 𨒺𢮩	quanh co	80
 𨒺𨆤	quanh quaarn	80
 𨒺繘	quanh quaast	80
@@ -65942,7 +65942,7 @@ encoder:
 管	quarn	76	quản
 𩸘	quarn	55	cai quản
 𬋩	quarn	75
-󰓞	quarn	60	quản lí, tự quản
+菅󠄁	quarn	60	quản lí, tự quản
 斡	quarn	50	quay, vần
 涫	quarn	50	Nước sủi bọt — Sôi …
 琯	quarn	58	ống ngọc dùng làm n…
@@ -66309,7 +66309,7 @@ encoder:
 㦗	quawjm	55	quằm quặm
 𣰙	quawjm	55	quặm
 𥋴	quawjm	55	ngắm
-󰋄	quawjm	55	đau mắt có lông quặm
+𣰙󠄁	quawjm	55	đau mắt có lông quặm
 郡	quawjn	63	quận
 㴫	quawjn	55	dòng chảy lớn; hồng…
 𤹓	quawjn	60	quặn
@@ -66568,10 +66568,10 @@ encoder:
 矯	queso	55	1. kiều 2. kiểu
 竅	queso	60	khiếu
 𣐲	queso	55	cây muỗm; quanh qué…
-󰊑	queso	55	cây muỗm; quanh qué…
+𣐲󠄁	queso	55	cây muỗm; quanh qué…
 󰔊	queso	55	quéo (sò)
 󰔎	queso	55	quéo (sò)
-󱯑	queso	62
+𨦀󠄁	queso	62
 决	quest	59	quyết đoán, quyết l…
 抉	quest	69	quẹt
 括	quest	68	quát
@@ -67455,7 +67455,7 @@ encoder:
 󰯊	ra	55
 󱈭	ra	55	ra vào
 𲒣	ra	58
-󱡾	ra	66
+𦋦󠄁	ra	66
 𲰲	ra	58
 𫥨𠫾	ra ddi	80
 𫥨陣	ra traajn	80
@@ -67745,7 +67745,7 @@ encoder:
 𩆍	rafo	66	mưa dào
 𩆡	rafo	55	mưa dào
 𮦡	rafo	55	dồi dào; mưa dào
-󰂻	rafo	62	gào thét, kêu gào
+嗃󠄁	rafo	62	gào thét, kêu gào
 𲵄	rafo	55
 𲪰	rafo	58
 󱹰	rafo	58
@@ -67785,8 +67785,8 @@ encoder:
 藥	rajc	59	dược
 鐸	rajc	61	đác
 𫄈	rajc	59	rời rạc
-󱬱	rajc	59
-󱬲	rajc	58
+落𖿱	rajc	59
+落𖿰	rajc	58
 剔	rajch	55	rạch ròi
 攊	rajch	63	lách
 澤	rajch	55	trạch
@@ -67890,7 +67890,7 @@ encoder:
 𩳊	ranh	58	ranh con
 𬎸	ranh	58	ranh con
 𭩹	ranh	55	ranh
-󰯋	ranh	55	con ranh
+𩳊󠄁	ranh	55	con ranh
 𩲵𡥵	ranh con	80
 𭩹界	ranh giowsi	80
 𩲵魔	ranh ma	80
@@ -68053,8 +68053,8 @@ encoder:
 𫇶	rasy	61	củ ráy (khoai ngứa)
 𫈨	rasy	62	củ ráy (khoai ngứa)
 𱖝	rasy	55	ráy tai, rửa ráy
-󱞮	rasy	60
-󱮵	rasy	60
+塞𖿰	rasy	60
+遺𖿰	rasy	60
 𫈨𦬂	rasy ngost	80
 𤀕𦖻	rasy tai	80
 娄	rau	64	lu (buộc trâu, tên …
@@ -68127,7 +68127,7 @@ encoder:
 秩	rawjt	58	trật
 逸	rawjt	59	dật
 𮞿	rawjt	55	rặt
-󱮫	rawjt	58
+迭𖿱	rawjt	58
 菻	rawm	55	lùm
 呡	rawn	59	rân rát
 噒	rawn	66	răn
@@ -68274,7 +68274,7 @@ encoder:
 𦼔	reefu	55	rêu
 𱪁	reefu	61	rêu xanh
 蝒	reejn	55	nhện
-󰔓	reejn	55	con dện (con nhện)
+蝒󠄁	reejn	55	con dện (con nhện)
 臘	reejp	60	1. lạp 2. chạp
 蠟	reejp	58	1. lạp 2. sáp
 𧉼	reejp	55	rệp
@@ -68378,7 +68378,7 @@ encoder:
 𢷹	refn	58	gìn
 𨮻	refn	58	lò rèn
 𬋆	refn	61	lò rèn
-󱧸	refn	58
+𤒲󠄁	refn	58
 㷙鍊	refn luyeejn	80
 𠷁𠺅	refn rejt	80
 𪟚	refng	55	(sức)
@@ -68510,7 +68510,7 @@ encoder:
 𫨫	rieeng	55	riêng rẽ
 𬓲	rieeng	66
 𲴭	rieeng	59
-󱮆	rieeng	60
+貞𖿰	rieeng	60
 𥢆𥛭	rieeng ler	80
 𥢆𥘶	rieeng rex	80
 𥢆恓	rieeng taay	80
@@ -68650,7 +68650,7 @@ encoder:
 𠴭	risch	59	dể
 𪠉	risch	64	rả rích
 󰬖	risch	55	hôi rích
-󱤪	risch	60
+昔𖿱	risch	60
 𤢾	rism	55	nhím
 列	rist	55	1. liệt 2. lịt
 哳	rist	63	xịt
@@ -68695,7 +68695,7 @@ encoder:
 𢬗	rofi	65	dồi
 𤈞	rofi	60	lùi
 𧋆	rofi	55	ruồi
-󱫷	rofi	60
+耒𖿰	rofi	60
 𳁺	rofi	61
 𲒶	rofi	60
 𥈹	rofm	55	nhòm trộm, nhòm qua
@@ -68883,7 +68883,7 @@ encoder:
 𦜞	roosn	62	cái rốn, chôn rau c…
 𦠆	roosn	62	rốn
 𦡋	roosn	55	cái rún (cái rốn)
-󰟱	roosn	65
+𦜞󠄁	roosn	65
 吼	roosng	55	hống
 哄	roosng	55	chớ hòng, đừng hòng
 嗊	roosng	55	1. gỏng 2. ngỗng
@@ -68901,7 +68901,7 @@ encoder:
 𡳝	roost	55	rốt
 𣖢	roost	55	dốt đặc, dốt nát
 𣙬	roost	59	lặt
-󱼘	roost	58
+卒𖿰	roost	58
 𡳝局	roost cuoojc	80
 𤻼	roox	58	mặt rỗ
 𥶇	roox	59	rổ
@@ -68955,7 +68955,7 @@ encoder:
 頓	rosn	55	đốn
 䠣	rosn	58	dón bước; dón tay l…
 𨂚	rosn	62	dón bước; dón tay l…
-󱲊	rosn	60
+𨂚󠄁	rosn	60
 蹾𨅍	rosn resn	80
 梇	rosng	55	gióng
 律	rost	58	luật
@@ -69108,7 +69108,7 @@ encoder:
 𤑟	rowx	61	rõ
 𱞟	rowx	59	quái gở
 𱠎	rowx	55	dở sách; dở tay
-󰌕	rowx	55
+焒󠄁	rowx	55
 嚕	rox	60	rủa
 𠓑	rox	62	rõ ràng
 𤍊	rox	61	tỏ
@@ -69212,8 +69212,8 @@ encoder:
 𢹈	run	55	lung lay
 𧑒	run	55	dun đất (giun đất),…
 𱱤	run	59
-󰠖	run	61
-󱢓	run	62
+憞󠄁	run	61
+惇𖿰	run	62
 憞忣忣	run caafm caajp	80
 憞𪭼㔥	run laary baary	80
 憞𢝚	run raary	80
@@ -69257,7 +69257,7 @@ encoder:
 𬏑	ruoojng	66	ruộng nương, đồng r…
 𲱀	ruoojng	58
 𲙾	ruoojng	57
-󱤅	ruoojng	62
+𪽣󠄁	ruoojng	62
 𲱇	ruoojng	57
 𬏇𡐙	ruoojng ddaast	80
 𬏇埌	ruoojng nuwowng	80
@@ -69486,7 +69486,7 @@ encoder:
 逴	ruwowsc	75	rước
 𱔉	ruwowsc	60
 󰖪	ruwowsc	55	rước vào
-󱫚	ruwowsc	58
+綽𖿰	ruwowsc	58
 逴妯	ruwowsc daau	80
 逴𠓨	ruwowsc vafo	80
 哩	ruwowsi	59	lí
@@ -69840,7 +69840,7 @@ encoder:
 𫽎	saary	55	xé toạc, xé áo
 𬚯	saary	55	(Ruột. Nỗi lòng)
 𱦁	saary	61
-󱙤	saary	62
+仕𖿱	saary	62
 𫽎蹎	saary chaan	80
 𫽎胎	saary thai	80
 凛	saasm	60	lẩm cẩm
@@ -69861,7 +69861,7 @@ encoder:
 󰅰	saasm	55	sấm sét
 𳉉	saasm	55
 󰘒	saasm	55	sấm sét
-󱪋	saasm	58
+禀𖿰	saasm	58
 𳉊	saasm	59
 𳊒	saasm	61
 沁	saasm	50	1. thấm 2. thẩm
@@ -70114,7 +70114,7 @@ encoder:
 缲	safo	55	sào ti (rút ti từ t…
 高	safo	60	cao
 髙	safo	55	cao lớn; trên cao
-󰐙	safo	55	cao (sào chống (thu…
+篙󠄁	safo	55	cao (sào chống (thu…
 𲵿	safo	60
 巣	safo	55	tổ chim, ổ
 摷	safo	50	Lấy hết làm của mìn…
@@ -70239,7 +70239,7 @@ encoder:
 𬞨	sam	55	rau sam
 𰇼	sam	55	(hỏi)
 󰔔	sam	55	con sam (hải sản)
-󰔗	sam	55	con sam (hải sản)
+𧏰󠄁	sam	55	con sam (hải sản)
 󰙑	sam	55	róc đuôi sam
 幓	sam	50	Cái giải cờ, tua cờ…
 彡	sam	55	lông dài
@@ -70327,7 +70327,7 @@ encoder:
 𨄂	sang	60	lang
 𨖅	sang	76	sang
 𱘸	sang	59
-󱮶	sang	61
+郎𖿱	sang	61
 刅	sang	55	đau, bị thương
 刱	sang	55	đau, bị thương
 愴	sang	50	sảng
@@ -70573,7 +70573,7 @@ encoder:
 䲼	sarnh	55	con sảnh
 𤯝	sarnh	59	sảnh tái (mối hoạ t…
 𱑠	sarnh	64
-󰆋	sarnh	55	sảnh đường
+厛󠄁	sarnh	55	sảnh đường
 厛	sarnh	55	sảnh đường
 廰	sarnh	55	1. phòng khách 2. c…
 廳	sarnh	61	sảnh
@@ -70726,7 +70726,7 @@ encoder:
 跴	sasi	55	sái hạp (đạp thắng …
 踩	sasi	55	sái hạp (đạp thắng …
 𫪱	sasi	55	sái
-󰕽	sasi	55	sái hạp (đạp thắng …
+踩󠄁	sasi	55	sái hạp (đạp thắng …
 慸	sasi	50	Sái giới 慸介: Đau nh…
 洒	sasi	67	tưới
 瘵	sasi	50	trái (bệnh sởi)
@@ -71011,7 +71011,7 @@ encoder:
 了	sasu	58	liễu
 老	sasu	59	1. lão 2. lào
 𦒹	sasu	71	sáu
-󰮏	sasu	70	sáu mươi; sáu năm; …
+𦒹󠄁	sasu	70	sáu mươi; sáu năm; …
 𦒹𱑕	sasu muwowi	80
 𫭚	sasy	55	(nhỏ. bé)
 娄	sau	70	lu (buộc trâu, tên …
@@ -71028,7 +71028,7 @@ encoder:
 𬧻	sau	67	trước sau, sau cùng…
 𱔹	sau	59
 𱕎	sau	62
-󰐨	sau	60	trước sau, sau cùng…
+娄𖿰	sau	60	trước sau, sau cùng…
 𲗏	sau	58
 𡢐共	sau cufng	80
 𡢐低	sau ddaay	80
@@ -71228,7 +71228,7 @@ encoder:
 𠇈	saxi	55	sãi
 𠱊	saxi	59	1. sê 2. xuê
 𪧸	saxi	55	sãi vãi
-󱙤	saxi	61
+仕𖿱	saxi	61
 豸	saxi	50	1. loài bò sát khôn…
 𠇈娓	saxi vaxi	80
 仕	saxy	55	sẽ
@@ -72317,7 +72317,7 @@ encoder:
 𣼍	sosn	55	lún
 㳥	sosng	76	luông tuồng
 𲪼	sosng	60
-󱫙	sosng	59
+綂𖿱	sosng	59
 㳥潮	sosng trafo	80
 卒	sost	55	tốt
 悴	sost	60	bất ngờ
@@ -72610,12 +72610,12 @@ encoder:
 󰉢	sowsm	55	sớm tối, sớm trưa
 󰉳	sowsm	55	sớm tối, sớm trưa
 󰉷	sowsm	55	sớm tối, sớm trưa
-󰉹	sowsm	66	sớm tối, sớm trưa
-󰉺	sowsm	68	sớm tối, sớm trưa
-󰟭	sowsm	64
-󰣑	sowsm	73
+𣌋󠄁	sowsm	66	sớm tối, sớm trưa
+𣌋󠄂	sowsm	68	sớm tối, sớm trưa
+𣋽󠄁	sowsm	64
+𣌋󠄃	sowsm	73
 𲥏	sowsm	60
-󱤠	sowsm	62
+𱢀󠄁	sowsm	62
 𣋽𣊿	sowsm chieefu	80
 𣋽𣋁	sowsm toosi	80
 孱	sowsn	55	sàn
@@ -73292,7 +73292,7 @@ encoder:
 𫿐	suwra	55	sửa đổi
 𰇵	suwra	61
 󱇽	suwra	55	tu sửa
-󱙯	suwra	61
+使𖿱	suwra	61
 𢯢𢵻	suwra chuwxa	80
 𢯢𢷮	suwra ddoori	80
 𢯢𨖅	suwra sang	80
@@ -74316,7 +74316,7 @@ encoder:
 㧙	taast	55	Đánh nhẹ, va chạm, …
 𢴑	taast	55	dắt
 𭔎	taast	58	tất tô (tiếng xào x…
-󰍶	taast	66	tất(xong), tất sinh…
+畢󠄁	taast	66	tất(xong), tất sinh…
 佖	taast	50	Vẻ oai nghiêm — Đầy…
 僁	taast	50	Tiết tiết: Tiếng rê…
 厀	taast	55	đầu gối
@@ -75637,7 +75637,7 @@ encoder:
 赞	tasn	55	tham tán, tán thành
 𠾎	tasn	55	tán
 󰌮	tasn	55	bàn tán, tán gái
-󱪿	tasn	59
+繖󠄁	tasn	59
 傘	tasn	72	1. tán 2. tản 3. tàn
 兓	tasn	50	Lối viết giản dị củ…
 巑	tasn	50	(xem: toàn ngoan 巑岏)
@@ -75814,7 +75814,7 @@ encoder:
 󰇄	tasu	55	láu táu
 再	tasy	55	tái
 𭠣	tasy	55	táy
-󰇼	tasy	55	cấy hái, gặt hái
+採󠄁	tasy	55	cấy hái, gặt hái
 採	tasy	50	thái
 𭠣𢵯	tasy masy	80
 蚤	tau	58	con bọ chét, con rệp
@@ -76027,7 +76027,7 @@ encoder:
 揌	tay	55	cánh tay; ra tay; t…
 𢬣	tay	83	tay
 𪮏	tay	75	cánh tay; ra tay; t…
-󱭦	tay	58
+𱟷󠄁	tay	58
 𢬣𫋙𧵑鉗共力	tay cafng cura kifm coojng luwjc	80
 𢬣函匙銙	tay hofm chifa khoas	80
 𢬣㨢卬𣮮	tay naang ngang mafy	80
@@ -76185,8 +76185,8 @@ encoder:
 𥏍	teen	66	tên tuổi
 𬕰	teen	55	mũi tên
 𰨥	teen	55	mũi tên
-󱙺	teen	64
-󱙻	teen	70
+𥏋󠄁	teen	64
+𠸛󠄁	teen	70
 𠸜𧵑伊	teen cura y	80
 𠸜墊	teen ddeejm	80
 𠸜噲	teen goji	80
@@ -76485,7 +76485,7 @@ encoder:
 𱓓	thaafm	62
 𱟃	thaafm	62
 󰆭	thaafm	55	thầm vụng
-󰠐	thaafm	72
+𢘚󠄁	thaafm	72
 湛	thaafm	50	1. sẫm 2. sậm
 煁	thaafm	50	Cái hoả lò.
 葚	thaafm	58	rậm
@@ -76658,7 +76658,7 @@ encoder:
 實情	thaajt tifnh	80	[Từ điển Nguyễn Quố…
 三	thaam	55	1. tam 2. thâm
 𪒗	thaam	63	thâm đen
-󰋟	thaam	59	thâm trầm
+深󠄁	thaam	59	thâm trầm
 浸	thaam	55	1. tắm 2. trẫm
 深	thaam	75	thâm
 煁	thaam	50	Cái hoả lò.
@@ -77034,7 +77034,7 @@ encoder:
 𪰛	thaf	61	thà rằng
 𪰰	thaf	61	chẳng thà
 𫴞	thaf	55	thà rằng
-󱤬	thaf	59
+時𖿱	thaf	59
 咃浪	thaf rawfng	80
 偨	thafi	55	thầy
 柴	thafi	55	sài
@@ -77570,7 +77570,7 @@ encoder:
 清	tharnh	67	thanh
 請	tharnh	68	thỉnh
 𨓽	tharnh	55	thảnh
-󱯻	tharnh	58
+青𖿱	tharnh	58
 𨓽迨	tharnh thowi	80
 傠	tharo	55	thảo
 艹	tharo	55	thảo (bộ gốc)
@@ -77700,11 +77700,11 @@ encoder:
 鈦	thasi	55	thái (chất titanium)
 钛	thasi	55	thái (chất titanium)
 𠝔	thasi	55	thái thịt
-󰀧	thasi	55	thái (chú ý)
+倸󠄁	thasi	55	thái (chú ý)
 𲒱	thasi	58
-󰃽	thasi	55	thái ấp (đất vua ba…
-󰇼	thasi	62	cấy hái, gặt hái
-󰎦	thasi	55	thái (chú ý)
+埰󠄁	thasi	55	thái ấp (đất vua ba…
+採󠄁	thasi	62	cấy hái, gặt hái
+睬󠄁	thasi	55	thái (chú ý)
 大	thasi	60	đại
 太	thasi	84	thái
 忕	thasi	50	Xa xỉ. Hoang phí — …
@@ -78078,7 +78078,7 @@ encoder:
 審	thawrm	66	thẩm
 深	thawrm	60	thâm
 瀋	thawrm	71	thẳm
-󰋟	thawrm	55	thâm trầm
+深󠄁	thawrm	55	thâm trầm
 倘	thawrng	64	1. thảng 2. thoảng
 躺	thawrng	55	nằm thẳng cẳng
 𣦎	thawrng	67	thẳng
@@ -78280,7 +78280,7 @@ encoder:
 𫸌	theenh	55	rộng thênh
 𫸎	theenh	55	nhà rộng thênh thang
 𱑠	theenh	59
-󱯻	theenh	60
+青𖿱	theenh	60
 𢉑湯	theenh thang	80
 世	theer	60	thế
 勢	theer	58	thế
@@ -78463,7 +78463,7 @@ encoder:
 𡅩	thefm	55	dèm pha
 𩝎	thefm	62	sàm chuỷ (tham ăn)
 𲁰	thefm	55	sàm sỡ
-󱋭	thefm	55	thèm ăn
+𠿳󠄁	thefm	55	thèm ăn
 𡅨	thefm	50	phàn nàn
 饞𢠆	thefm thuoofng	80
 𢢆	thefn	55	thẹn
@@ -79257,7 +79257,7 @@ encoder:
 清	thifnh	55	thanh
 𠴢	thifnh	60
 𥓉	thifnh	60	đồ sành, sành sỏi
-󱹴	thifnh	59
+成𖿰	thifnh	59
 盛	thifnh	59	1. thịnh 2. sển
 晠昤	thifnh lifnh	80
 侍	thij	79	thị
@@ -79343,8 +79343,8 @@ encoder:
 侍宴	thij yeesn	80	[Từ điển trích dẫn]…
 辟	thijch	55	vếch
 釋	thijch	55	thích
-󱩷	thijch	61
-󱹳	thijch	59
+石𖿱	thijch	61
+石𖿰	thijch	59
 盛	thijnh	73	1. thịnh 2. sển
 晟	thijnh	50	thạnh (quang minh)
 甸	thijnh	50	Đơn vị phân chia ru…
@@ -79762,7 +79762,7 @@ encoder:
 󰃡	thofi	55	thiệt thòi
 啿	thofm	58	thòm
 諶	thofm	55	tin tưởng
-󰠐	thofm	66
+𢘚󠄁	thofm	66
 啿饞	thofm thefm	80
 捅	thofng	55	thõng
 桶	thofng	55	thùng
@@ -80051,7 +80051,7 @@ encoder:
 忖	thoorn	62	thổn
 村	thoorn	62	thôn
 𠴘	thoorn	55	thon
-󱟱	thoorn	59
+寸𖿱	thoorn	59
 忖𥅞	thoorn thuwsc	80
 兎	thoos	58	con thỏ; thỏ thẻ
 兔	thoos	61	1. thố 2. thỏ
@@ -80092,7 +80092,7 @@ encoder:
 𠺙	thoosi	62	thổi
 𢟔	thoosi	59	thói
 𦤮	thoosi	55	hôi thối
-󰖱	thoosi	55	hôi thối
+𦤮󠄁	thoosi	55	hôi thối
 倅	thoosi	50	trót
 洒	thoosi	50	tưới
 淬	thoosi	59	1. nhúng vào nước 2…
@@ -80234,7 +80234,7 @@ encoder:
 𫗁	thosi	69	thói quen
 𫗂	thosi	62	thói quen
 𫤈	thosi	55	lề thói
-󰖲	thosi	55	lề thói
+𫤈󠄁	thosi	55	lề thói
 󱄭	thosi	55	thói quen
 󱳕	thosi	58
 𢟔慣	thosi quen	80
@@ -80565,7 +80565,7 @@ encoder:
 術	thuaajt	70	thuật
 述	thuaajt	68	thuật
 𬬸	thuaajt	55	thuật (kim dài)
-󰖠	thuaajt	58	trần thuật
+述󠄁	thuaajt	58	trần thuật
 沭	thuaajt	50	sông ở Sơn Đông
 潏	thuaajt	50	1. nước tuôn, nước …
 鉥	thuaajt	55	thuật (kim dài)
@@ -80621,7 +80621,7 @@ encoder:
 酬	thuf	65	thù
 醻	thuf	55	thù lao
 𫌵	thuf	62	kẻ thù
-󰖶	thuf	61	thù lao
+酬󠄁	thuf	61	thù lao
 儔	thuf	55	(văn) Bạn, đồng bạn…
 殊	thuf	67	thù
 洙	thuf	55	chua loét
@@ -80991,7 +80991,7 @@ encoder:
 蹆	thuri	55	thủi
 退	thuri	64	1. thoái 2. thối
 𠺙	thuri	55	thổi
-󰡬	thuri	59
+退𖿱	thuri	59
 審	thurm	55	thẩm
 瀋	thurm	55	thẳm
 𦤰	thurm	55	thum thủm
@@ -81587,7 +81587,7 @@ encoder:
 𡱩	thuwowsc	73	thước
 𢭑	thuwowsc	55	thước kẻ; mực thước
 𫵟	thuwowsc	64	thước kẻ; mực thước
-󱎾	thuwowsc	66
+𢭑󠄁	thuwowsc	66
 皵	thuwowsc	50	Da dẻ nứt ra.
 碏	thuwowsc	50	tách
 鑠	thuwowsc	65	thước
@@ -81742,7 +81742,7 @@ encoder:
 蕩	thuwxng	55	đãng
 賞	thuwxng	62	thưởng
 𨀊	thuwxng	55	dằng
-󰋶	thuwxng	55	lững thững
+蕩󠄁	thuwxng	55	lững thững
 󰖗	thuwxng	55	lững thững
 肿	thuxng	55	thũng (mụn nhọt)
 尰	thuxng	55	Chân sưng to lên.
@@ -82101,7 +82101,7 @@ encoder:
 憔悴	tieefu tuyj	80	[Từ điển phổ thông]…
 顦顇	tieefu tuyj	80	[Từ điển phổ thông]…
 席	tieejc	72	1. tịch 2. tiệc
-󱠴	tieejc	59
+席𖿰	tieejc	59
 席從	tieejc tufng	80
 嶄	tieejm	55	lởm chởm
 店	tieejm	55	1. điếm 2. tiệm
@@ -82624,7 +82624,7 @@ encoder:
 檝	tieesp	55	tiếp (mái chèo; chè…
 浃	tieesp	55	tiếp (mồ hôi chảy v…
 浹	tieesp	59	tép
-󱤊	tieesp	58
+接𖿰	tieesp	58
 屧	tieesp	50	guốc gỗ
 接	tieesp	73	tiếp
 楫	tieesp	61	mái chèo phía trước
@@ -83246,7 +83246,7 @@ encoder:
 𪝮	tin	57	lòng tin
 𬦿	tin	55	tin (chân)
 𱓞	tin	63	con tin; của tin
-󰬍	tin	60
+𠒷󠄁	tin	60
 信𢞂	tin buoofn	80
 信𢚁	tin caajy	80
 信謹	tin caarn	80
@@ -83921,7 +83921,7 @@ encoder:
 锁	toar	55	toả (cái dũa, mài d…
 锉	toar	55	toả ra
 𪹟	toar	55	khói toả
-󰌠	toar	55	khói toả
+𪹟󠄁	toar	55	khói toả
 剉	toar	58	toả (chặt đứt)
 摧	toar	50	tồi
 獕	toar	50	1. § Xem “ổi tỏa” 猥…
@@ -84140,7 +84140,7 @@ encoder:
 𥿂	tom	55	tom
 𩵽	tom	58	tôm
 𫃰	tom	55	tom (gom lại; tiếng…
-󰑩	tom	55	tom (gom lại; tiếng…
+縿󠄁	tom	55	tom (gom lại; tiếng…
 𥿂𢵰得𠃣錢	tom gosp dduwowjc ist tieefn	80
 𥿂𥿂	tom tom	80
 噂	ton	57	ton
@@ -84398,7 +84398,7 @@ encoder:
 损	toorn	55	tổn hại, tổn thất
 損	toorn	70	1. tổn 2. tốn
 撙	toorn	55	tổn (để dành)
-󱤋	toorn	60
+損𖿰	toorn	60
 僔	toorn	50	Tụ lại — Đông đảo.
 噀	toorn	50	sún
 噂	toorn	50	ton
@@ -84483,7 +84483,7 @@ encoder:
 𩘣	toos	58	tố
 𬲃	toos	58	giông tố
 󰘮	toos	55	giông tố
-󱢄	toos	59
+𬲃󠄁	toos	59
 嗉	toos	55	lố nhố, nhí nhố
 泝	toos	61	tố (đi ngược dòng);…
 溯	toos	55	ngoi lên, bơi ngược…
@@ -85055,7 +85055,7 @@ encoder:
 𬒼	traary	55	đi trẩy hội
 𱑤	traary	64
 𲃹	traary	62
-󰭽	traary	62
+𥙒󠄁	traary	62
 𢭺茄	traary caf	80
 𢭺槔	traary cau	80
 谮	traasm	55	tiếm ngôn (dèm pha)
@@ -85473,8 +85473,8 @@ encoder:
 𦽰	tranh	55	lều tranh, cỏ tranh
 𪟐	tranh	55	phân tranh
 𪺘	tranh	57	phân tranh
-󰅼	tranh	55	tranh ảnh
-󱬞	tranh	59
+𢂰󠄁	tranh	55	tranh ảnh
+𦱊󠄁	tranh	59
 𲽔	tranh	57
 𳅦	tranh	59
 丁	tranh	62	đinh
@@ -85753,7 +85753,7 @@ encoder:
 𱤣	trasi	59
 𲖽	trasi	59
 𲽼	trasi	59
-󱮎	trasi	58
+賴𖿰	trasi	58
 𲧨	trasi	60
 𲧞	trasi	55
 責	trasi	50	trách
@@ -85842,7 +85842,7 @@ encoder:
 跿	trasnh	59	Nhảy lên.
 踭	trasnh	62	dừng chân
 𠬉	trasnh	65	tránh
-󱝚	trasnh	61
+另𖿰	trasnh	61
 掙	trasnh	55	giành
 爭	trasnh	50	tranh
 𠬉𠺌	trasnh khori	80
@@ -85935,7 +85935,7 @@ encoder:
 𤾓	trawm	79	trăm năm
 𨁷	trawm	55	trặc
 𬃴	trawm	63	hàng trăm
-󰭖	trawm	58
+林𖿰	trawm	58
 𲲃	trawm	59
 百	trawm	50	bách
 𤾓𢆥	trawm nawm	80
@@ -86019,7 +86019,7 @@ encoder:
 𩻕	trawsm	55	cá trắm
 𩻛	trawsm	55	cá trắm
 󰚁	trawsm	55	cá trắm
-󱰥	trawsm	58
+𩼤󠄁	trawsm	58
 鎭	trawsn	55	chắn đường
 壯	trawsng	59	tráng
 朗	trawsng	61	lững
@@ -86170,7 +86170,7 @@ encoder:
 𱚪	trer	60	trẻ con
 𱚫	trer	65	trẻ con
 󰻛	trer	61	trẻ con
-󱎣	trer	64
+𥘷󠄂	trer	64
 𥘷𡥵	trer con	80
 𥘷𡥵於瀂	trer con owr loor	80
 𥘷㛪	trer em	80
@@ -86758,7 +86758,7 @@ encoder:
 𠸩	trixnh	55	trĩnh
 料	trixu	59	1. liệu 2. liều 3. …
 𥾇	trixu	55	trĩu
-󰁻	trixu	55	dập dìu; dìu dắt; d…
+召𖿱	trixu	55	dập dìu; dìu dắt; d…
 𥾇𥘀	trixu nawjng	80
 𥾇𦅄	trixu trijt	80
 炭	tro	55	than
@@ -86874,7 +86874,7 @@ encoder:
 𫤍	trojn	62	trọn vẹn, trọn buổi
 𬣎	trojn	55	trọn vẹn, trọn buổi
 𱜙	trojn	61	bán lọn
-󱁎	trojn	55	trọn vẹn, trọn buổi
+論𖿰	trojn	55	trọn vẹn, trọn buổi
 𲸞	trojn	59
 𲸮	trojn	59
 𠓻襘	trojn gosi	80
@@ -86960,9 +86960,9 @@ encoder:
 𳑸	trong	55
 𲪞	trong	59
 󰮁	trong	63	trong sạch
-󰮂	trong	73
-󰮃	trong	69
-󱧪	trong	61
+𪚚󠄁	trong	73
+𥪞󠄁	trong	69
+𤁘󠄁	trong	61
 𳑴	trong	58
 𳑹	trong	58
 𥪝欺	trong khi	80
@@ -87035,8 +87035,8 @@ encoder:
 𥌈	troojm	58	trộm
 𪸄	troojm	65	vụng trộm
 𬐾	troojm	57	trộm vặt
-󰎚	troojm	55	trộm cướp
-󰎱	troojm	55	nhìn trộm
+𥂉󠄁	troojm	55	trộm cướp
+𥋕󠄁	troojm	55	nhìn trộm
 󱙜	troojm	59
 𲲕	troojm	59
 𲲙	troojm	60
@@ -87044,7 +87044,7 @@ encoder:
 論	troojn	61	luận
 遁	troojn	60	1. độn 2. trốn
 𢶿	troojn	55	trộn
-󱁎	troojn	58	trọn vẹn, trọn buổi
+論𖿰	troojn	58	trọn vẹn, trọn buổi
 哢	troojng	60	lồng
 重	troojng	55	1. trọng 2. trùng 3…
 蓝	troom	55	xanh lam
@@ -87082,11 +87082,11 @@ encoder:
 𱸢	troong	55
 𲄿	troong	61
 𳑸	troong	58
-󱂒	troong	55	trông đợi
+𲄿󠄁	troong	55	trông đợi
 𲶮	troong	61
-󱪣	troong	58
-󱪭	troong	63
-󱳼	troong	65
+𫏽󠄁	troong	58
+𬖉󠄁	troong	63
+𪚤󠄁	troong	65
 𲎭	troong	50
 矓𢚁	troong caajy	80
 矓䟻	troong chowf	80
@@ -87138,7 +87138,7 @@ encoder:
 迍	troosn	59	1. truân 2. đón
 遁	troosn	69	1. độn 2. trốn
 𧾌	troosn	55	trốn tránh
-󰕰	troosn	55	trốn tránh
+𧾌󠄁	troosn	55	trốn tránh
 𳅁	troosn	58
 遁𧴱	troosn nowj	80
 遁脫	troosn thoast	80
@@ -87210,7 +87210,7 @@ encoder:
 𡅎	trosm	55	ăn tróm trém
 宋	trosng	58	tống
 梇	trosng	58	gióng
-󱐤	trosng	61
+弄𖿰	trosng	61
 倅	trost	55	trót
 卒	trost	66	tốt
 啐	trost	65	1. (Động) Nếm. 2. (…
@@ -87271,7 +87271,7 @@ encoder:
 𩵃	trowi	59	ma trơi
 𱣅	trowi	58
 󰃅	trowi	55	ăn chay, chay tịnh
-󰯓	trowi	55	ma trơi
+𩳳󠄁	trowi	55	ma trơi
 助	trowj	71	trợ
 箸	trowj	58	đũa
 助動詞	trowj ddoojng tuwf	80
@@ -87777,7 +87777,7 @@ encoder:
 𢯰	trust	59	lọt
 𧊐	trust	55	trút
 𪫓	trust	58	trút gạo vào bao
-󱹷	trust	58
+𢫫󠄁	trust	58
 䢖𠬃	trust bor	80
 䢖𬺗	trust xuoosng	80
 猪	truw	62	chưa được, chưa xon…
@@ -87809,7 +87809,7 @@ encoder:
 𬀭	truwa	60	buổi trưa
 𬁑	truwa	68	buổi trưa
 𱑒	truwa	55	ban trưa
-󱚱	truwa	58
+卢𖿰	truwa	58
 儲	truwf	67	trừ
 踟	truwf	55	trần trừ
 蹰	truwf	55	trù (ngần ngừ)
@@ -88061,7 +88061,7 @@ encoder:
 𫏾	truwowsc	76	trước sau
 𱏯	truwowsc	71	trước sau
 𱐨	truwowsc	63	trước sau
-󱙹	truwowsc	72
+𠓀󠄁	truwowsc	72
 斮	truwowsc	50	cắt đứt
 櫡	truwowsc	50	Cái rìu chặt cây — …
 着	truwowsc	63	chước
@@ -88506,7 +88506,7 @@ encoder:
 徇私舞弊	tuaaxn tuw vux teej	80	lạm dụng chức quyền…
 󰔵	tuaj	55	tụa (rách nát)
 鎖	tuar	55	toả
-󰌠	tuar	55	khói toả
+𪹟󠄁	tuar	55	khói toả
 綉	tuas	55	thêu thùa
 訴	tuas	55	tố
 𫟧	tueefnh	55	đoanh quanh
@@ -88702,7 +88702,7 @@ encoder:
 嵩	tum	55	1. tung 2. tum
 蕁	tum	55	【蕁麻】 kiền ma [qiánm…
 𡉾	tum	60	lùm tum
-󰅜	tum	55	sưng tum húp
+嵩󠄁	tum	55	sưng tum húp
 噂	tun	55	ton
 孫	tun	55	tôn
 尊	tun	55	tôn
@@ -88769,7 +88769,7 @@ encoder:
 孫	tuoon	55	tôn
 澊	tuoon	59	tun
 𣻆	tuoon	72	tuôn
-󱹸	tuoon	58
+潡󠄁	tuoon	58
 潡	tuoon	50
 𣻆淶	tuoon rowi	80
 𣻆潮	tuoon trafo	80
@@ -88792,7 +88792,7 @@ encoder:
 󰏒	tuoori	55	tuổi xuân
 󰣳	tuoori	58
 𲧷	tuoori	61
-󱦞	tuoori	59
+歳𖿰	tuoori	59
 𲧵	tuoori	58
 歲高	tuoori cao	80
 歲𧻭時	tuoori daajy thif	80
@@ -88815,7 +88815,7 @@ encoder:
 𣗿冊	tur sasch	80
 溑	tura	55	tủa
 鎖	tura	55	toả
-󰌠	tura	55	khói toả
+𪹟󠄁	tura	55	khói toả
 啐	turi	55	1. (Động) Nếm. 2. (…
 怼	turi	55	tủi phận
 悴	turi	70	bất ngờ
@@ -89697,7 +89697,7 @@ encoder:
 相依為命	tuwowsng yr vij meejnh	80	nương tựa lẫn nhau
 接	tuwowsp	62	tiếp
 𬡋	tuwowsp	55	áo rách tướp
-󱚥	tuwowsp	60
+匝𖿱	tuwowsp	60
 削	tuwowst	55	tước
 泄	tuwowst	55	tiết
 𢫫	tuwowst	55	tụt
@@ -90375,7 +90375,7 @@ encoder:
 𡠄	u	55	u
 𢉾	u	55	mọc u
 𱐍	u	62	âm u, u cốc; u hươn…
-󰆦	u	55	u phiền
+怮󠄁	u	55	u phiền
 呦	u	55	ao
 幽	u	70	u
 泑	u	50	ào
@@ -90457,7 +90457,7 @@ encoder:
 蔚	uaast	59	1. cỏ uý 2. xanh tố…
 郁	uaast	55	hiểm hóc
 㲸	uaast	58	ướt át, ướt sũng
-󰯔	uaast	59
+鬱󠄁	uaast	59
 尉	uaast	50	uý
 欎	uaast	55	1. buồn bã, uất ức …
 欝	uaast	55	tươi tốt; rậm rạp, …
@@ -90685,7 +90685,7 @@ encoder:
 𬅂	usa	55	cây héo úa
 𬹓	usa	55	úa (màu vàng)
 󰓐	usa	55	vàng úa
-󱢔	usa	59
+惡𖿱	usa	59
 𦼇	usa1	55	úa
 燠	usc	55	hàn úc thất thời (l…
 䐿	usc	55	mập úc núc (béo)
@@ -90731,7 +90731,7 @@ encoder:
 𠃝	ust	60	út
 𠃷	ust	55	con út
 𧰦	ust	55	con út
-󰯔	ust	59
+鬱󠄁	ust	59
 󱙁	ust	58
 𠃝𠃣	ust ist	80
 唹	uw	59	1. ờ 2. ư
@@ -91546,7 +91546,7 @@ encoder:
 浘	vaaxy	68	vã
 𢭶	vaaxy	60	váy tai
 𱧇	vaaxy	55	vùng vẫy
-󰖽	vaaxy	55	vẽ hình
+𨤔󠄁	vaaxy	55	vẽ hình
 捤𢬣	vaaxy tay	80
 捤摓	vaaxy vufng	80
 噅	vaay	59	vơ
@@ -91597,8 +91597,8 @@ encoder:
 𲣰	vafi	59
 󰸿	vafi	55
 𲐊	vafi	60
-󱠧	vafi	58
-󱠬	vafi	61
+𢁍󠄁	vafi	58
+𣀟󠄁	vafi	61
 𲣱	vafi	58
 𠄧𠀧	vafi ba	80
 汎	vafm	55	vàm
@@ -91646,7 +91646,7 @@ encoder:
 込	vafo	60
 𠓨	vafo	83	vào
 󱚁	vafo	59
-󱚢	vafo	76
+𠓨󠄁	vafo	76
 𠓨曠	vafo khoarng	80
 𠓨緟	vafo trofng	80
 𠓨捊貝僥	vafo vufa vowsi nhau	80
@@ -91695,7 +91695,7 @@ encoder:
 㙕渃	vaji nuwowsc	80
 淡	vajm	55	đạm
 𦡣	vajm	55	1. bầm 2. vạm
-󰒽	vajm	55	bùm tum
+𦡣󠄁	vajm	55	bùm tum
 𦡣𥒮	vajm vowx	80
 伴	vajn	55	1. bạn 2. vạn
 萬	vajn	79	1. vạn 2. man 3. vàn
@@ -91786,9 +91786,9 @@ encoder:
 𧞄	vajt	59	vạt
 𧟝	vajt	58	vạt áo
 𫌐	vajt	55	vạt áo
-󰐝	vajt	55	miệt phiến (lạt tre…
-󰓳	vajt	55	mải miết
-󰘞	vajt	55	vạt áo
+篾󠄁	vajt	55	miệt phiến (lạt tre…
+蔑󠄁	vajt	55	mải miết
+韈󠄁	vajt	55	vạt áo
 𲶲	vajt	58
 𳁏	vajt	58
 襪	vajt	50	miệt tử (bít tất)
@@ -91804,7 +91804,7 @@ encoder:
 𣒠	vajy	64	vạy cong
 󰊀	vajy	55	cong vạy
 󰊁	vajy	55	cong vạy
-󰬻	vajy	59	đường vạy; lòng vạy
+𣍁󠄁	vajy	59	đường vạy; lòng vạy
 呅	van	55	van nài
 喛	van	61
 援	van	60	1. viện 2. vịn
@@ -91849,7 +91849,7 @@ encoder:
 𡲤	var	72	vả
 𣛢	var	59	vả (cây ăn trái)
 𪽗	var	60	ăn bánh vẽ
-󰬷	var	69	vả lại
+𡲤󠄁	var	69	vả lại
 𲞼	var	61
 󱹹	var	59
 𡲤徠	var laji	80
@@ -91868,7 +91868,7 @@ encoder:
 𦀿	vari	63	vải sợi, áo vải
 𦃿	vari	68	giải lụa; giựt giải…
 𬘊	vari	57	áo vải; anh hùng áo…
-󰬸	vari	62	trái vải
+𡲫󠄁	vari	62	trái vải
 𲞱	vari	59
 𡲫紱	vari bajt	80
 𡲫被癋	vari bij oos	80
@@ -91972,7 +91972,7 @@ encoder:
 𨮍	vawfm	55	phăm
 𫦘	vawfm	55	băm vằm
 󰁑	vawfm	55	băm vằm
-󰗶	vawfm	61	băm thịt; lang băm
+𨮍󠄁	vawfm	61	băm thịt; lang băm
 彣	vawfn	59	vằn
 文	vawfn	60	văn
 紋	vawfn	55	1. văn 2. vân
@@ -92138,7 +92138,7 @@ encoder:
 㨲	vawng	60	kể vanh vách
 㩞	vawng	55	cắt vanh
 𱓲	vawng	61	vang
-󰂆	vawng	55	văng vẳng
+𭇛󠄁	vawng	55	văng vẳng
 𦕟𦕟	vawng vawrng	80
 刎	vawrng	55	vẫn
 咏	vawrng	62	vắng
@@ -92210,7 +92210,7 @@ encoder:
 𨘘	vax	55	vội vã
 𪬎	vax	55	vội vã
 𰉵	vax	55	buôn vã
-󰬷	vax	62	vả lại
+𡲤󠄁	vax	62	vả lại
 浘𣳡洃	vax moof hooi	80
 浘𫇿	vax thuoosc	80
 娓	vaxi	71	vãi
@@ -92335,7 +92335,7 @@ encoder:
 𱸳	veef	69
 𲀛	veef	64
 𳈰	veef	58
-󱪲	veef	58
+米𖿰	veef	58
 𧗱休	veef huwu	80
 𧗱茹	veef nhaf	85
 卫	veej	55	bảo vệ
@@ -92381,7 +92381,7 @@ encoder:
 㨲	veenh	62	kể vanh vách
 𫤒	veenh	55	vênh mặt
 𬧘	veenh	58	vênh váo; chênh vênh
-󱬯	veenh	61
+荣𖿰	veenh	61
 儝𠾷	veenh vaso	80
 榮	veernh	55	vinh
 永	veernh	60	1. vĩnh 2. vinh
@@ -92455,7 +92455,7 @@ encoder:
 󰈨	vejt	55	rừng vẹt
 𳏴	vejt	59
 󰚱	vejt	55	chim vẹt
-󱮒	vejt	62
+𪆧󠄁	vejt	62
 塤	ven	55	ven bờ, ven sông
 边	ven	60	biên giới; vô biên
 邊	ven	59	1. biên 2. bên 3. v…
@@ -92479,10 +92479,10 @@ encoder:
 𫵞	ver	62	vãi
 𲇀	ver	62
 󰆴	ver	55	vẻ đẹp
-󰖽	ver	70	vẽ hình
-󰬮	ver	66	vẻ vang
-󰬵	ver	59	vẻ mặt
-󱱮	ver	62
+𨤔󠄁	ver	70	vẽ hình
+𨤔󠄂	ver	66	vẻ vang
+𡲈󠄁	ver	59	vẻ mặt
+𨤔󠄃	ver	62
 𨤔㘇	ver vang	80
 捖	vern	55	1. vẹn 2. vẻn
 援	vern	55	1. viện 2. vịn
@@ -92530,9 +92530,9 @@ encoder:
 𫵡	vex	55
 𱱃	vex	62
 𲇀	vex	60
-󰖽	vex	61	vẽ hình
-󰛕	vex	62
-󰬯	vex	60
+𨤔󠄁	vex	61	vẽ hình
+𤳰󠄁	vex	62
+𦘧󠄁	vex	60
 𳅧	vex	59
 𦘧𡀯	vex chuyeejn	80
 𦘧形	vex hifnh	80
@@ -92829,7 +92829,7 @@ encoder:
 眿	vieesng	55
 𠰳	vieesng	60	miếng
 𠶇	vieesng	55	viếng
-󰋋	vieesng	60	phúng viếng
+永𖿰	vieesng	60	phúng viếng
 𠶇探	vieesng thawm	80
 別	vieest	58	1. chia tay, xa các…
 曰	vieest	84	viết
@@ -93118,7 +93118,7 @@ encoder:
 𲌯	visa	61
 𳌹	visa	61
 󰙔	visa	55	sợ mất vía
-󱠈	visa	61
+𳌹󠄁	visa	61
 𳌺	visa	59
 擗	visch	55	lố bịch; bồ bịch
 𧓮	visch	55	vich (con vích: rùa…
@@ -93237,7 +93237,7 @@ encoder:
 𢊫	vofm	55	đống bổi
 𪢵	vofm	55	vòm
 𬟵	vofm	55	com vòm (sò biển lớ…
-󰅘	vofm	55	vòm trời, mái vòm
+𡴉󠄁	vofm	55	vòm trời, mái vòm
 𪢵𡗶	vofm trowfi	80
 㖹	vofn	55	vòn vèn
 妄	vofng	67	vọng
@@ -93338,7 +93338,7 @@ encoder:
 𡻖	von	63	von
 𪡫	von	61	ví von
 𱽐	von	55	kêu boong boong
-󱝭	von	61
+員𖿰	von	61
 忘	vong	69	vong
 芒	vong	55	màng
 亡	vong	75	vong
@@ -93371,7 +93371,7 @@ encoder:
 忘憂	vong uwu	80	[Từ điển Nguyễn Quố…
 𠓺	voo	55	vô
 𱍺	voo	67	vô địch
-󰓪	voo	55	vô (củ cải trắng)
+蕪󠄁	voo	55	vô (củ cải trắng)
 亡	voo	55	vong
 妄	voo	50	vọng
 忘	voo	50	vong
@@ -93693,7 +93693,7 @@ encoder:
 𢴩	vost	59	vót
 𬴟	vost	55	cao vót
 𱜏	vost	61	chót vót, cao vót
-󰉼	vost	55	chót vót, cao vót
+曰𖿱	vost	55	chót vót, cao vót
 𲞂	vost	59
 𢴩籤	vost tawm	80
 偽	vow	63	giặc nguỵ
@@ -93779,7 +93779,7 @@ encoder:
 𥒮	vowr	55	vỡ
 𦅴	vowr	55	giấy, sách vở
 𬁫	vowr	55	quyển vở
-󰬺	vowr	59
+𫵡󠄁	vowr	59
 𡲈劇	vowr kijch	80
 往	vowrn	55	1. vãng 2. vảng
 湲	vowrn	55	vởn
@@ -93937,7 +93937,7 @@ encoder:
 𪻟	vua	65	vua quan, vua cờ
 𪼀	vua	55	vua chúa
 󰅫	vua	55	phân bua
-󰅻	vua	55	vua quan, vua cờ
+𤤰󠄁	vua	55	vua quan, vua cờ
 𤤰主	vua chusa	80
 𤤰判𠳨各官	vua phasn hori casc quan	80
 𤤰碎	vua tooi	80
@@ -93987,7 +93987,7 @@ encoder:
 𢠿	vui	55	vay
 𣡝	vui	58	vui vầy, vui tính; …
 𬐩	vui	66	vui vầy, vui tính; …
-󱩗	vui	59
+盃𖿰	vui	59
 󱩘	vui	58
 𢝙極	vui cuwjc	80
 𢝙𢚸	vui lofng	80
@@ -94116,7 +94116,7 @@ encoder:
 𲃾	vuoost	59
 𤢇𬋱	vuoost ve	80
 𧸒	vuri	59	vắn vỏi
-󱱮	vuri	59
+𨤔󠄃	vuri	59
 乳	vus	67	nhũ
 咘	vus	61	bú
 布	vus	58	bố
@@ -94125,7 +94125,7 @@ encoder:
 𦜘	vus	63	vú
 𬋲	vus	55	vú sữa
 𲏽	vus	58
-󱟢	vus	61
+𪜛󠄁	vus	61
 雨	vus	50	vũ
 雨後春筍	vus haaju xuaan duaaxn	80	măng mọc sau mưa; s…
 𦜘媄	vus mej	80
@@ -94209,7 +94209,7 @@ encoder:
 䱛	vuwowjc	58	hức (tên một loại c…
 𲌽	vuwowjc	61	cá vược
 󰙬	vuwowjc	55	cá vược
-󰙴	vuwowjc	55	cá lóc
+䱚󠄁	vuwowjc	55	cá lóc
 猿	vuwowjn	73	vượn
 𤠴	vuwowjn	59	con vượn
 𤢥	vuwowjn	57	con vượn
@@ -94341,7 +94341,7 @@ encoder:
 禹	vux	67	vua Vũ
 雨	vux	76	vũ
 鹉	vux	55	chim anh vũ
-󰆧	vux	55	vũ nhiên (bùi ngùi)
+怃󠄁	vux	55	vũ nhiên (bùi ngùi)
 󰑘	vux	55	dây vũ (dây lớn ở đ…
 侮	vux	64	vũ nhục (bôi xấu)
 俁	vux	50	To lớn — Tốt đẹp.
@@ -94425,7 +94425,7 @@ encoder:
 𠴤	vuxm	55	vũm lại, đục vũm
 𨮍	vuxm	55	phăm
 󰂕	vuxm	55	đục vũm
-󰗶	vuxm	55	băm thịt; lang băm
+𨮍󠄁	vuxm	55	băm thịt; lang băm
 抆𢚸	vuxm lofng	80
 淎	vuxng	68	vũng
 漨	vuxng	55	vùng
@@ -94789,7 +94789,7 @@ encoder:
 稍	xao	58	1. (Phó) Nhỏ, chút.…
 𡁞	xao	69	xào
 𱩯	xao	62
-󰉎	xao	61	xôn xao; xanh xao; …
+敲󠄁	xao	61	xôn xao; xanh xao; …
 搞	xao	55	cào
 敲	xao	70	đập, gõ
 敲鐘	xao chung	80	[Từ điển Nguyễn Quố…
@@ -94907,7 +94907,7 @@ encoder:
 𠳗	xasc	64	xạc
 𢭜	xasc	55	xoác ngang lưng; lu…
 𩩬	xasc	55	xác chết, xơ xác
-󰄊	xasc	55	xác chứng, xác nhận…
+塙󠄁	xasc	55	xác chứng, xác nhận…
 𲖛	xasc	61
 󱞲	xasc	61
 埆	xasc	50	1. đất không màu mỡ…
@@ -94943,7 +94943,7 @@ encoder:
 採	xasi	55	thái
 泰	xasi	55	thái
 𡳁	xasi	55	xái thuốc phiện
-󰇼	xasi	55	cấy hái, gặt hái
+採󠄁	xasi	55	cấy hái, gặt hái
 衩	xasi	55	xoa
 監	xasm	55	1. giam 2. giám
 繿	xasm	55	xám
@@ -95203,7 +95203,7 @@ encoder:
 䀡	xem	78	nhấp nhỏm
 䄡	xem	55	xem xét, xem mặt
 𫀅	xem	77	coi nhà; coi nhau n…
-󰏙	xem	72	xem xét, xem mặt
+𫀅󠄁	xem	72	xem xét, xem mặt
 䀡𧴤	xem bosi	80
 䀡澄	xem chuwfng	80
 䀡𩈘	xem mawjt	80
@@ -95311,7 +95311,7 @@ encoder:
 𠉟	xieen	58	quàng xiên
 𬔌	xieen	55	xiên qua
 𭛜	xieen	55	xiên
-󱴆	xieen	58
+偏𖿱	xieen	58
 冁	xieen	50	Như 囅
 囅	xieen	50	【囅然】 (văn) Vui vẻ, …
 辴	xieen	50	nhoẻn miệng cười
@@ -95964,7 +95964,7 @@ encoder:
 淬	xost	58	1. nhúng vào nước 2…
 㤕	xost	76	đã trót yêu
 㾶	xost	58	bệnh đầu gối
-󰆜	xost	55	xót người
+律𖿱	xost	55	xót người
 㤕賒	xost xa	80
 义	xow	55	tình nghĩa; việc ng…
 初	xow	62	sơ
@@ -95974,7 +95974,7 @@ encoder:
 綀	xow	55	xơ
 賖	xow	63	xơ múi
 車	xow	61	1. xa 2. xe 3. xế
-󱚗	xow	59
+初𖿱	xow	59
 綀如蛹	xow nhuw nhoojng	80
 綀桔	xow quyst	80
 綀殼	xow xasc	80
@@ -96365,8 +96365,8 @@ encoder:
 󰀈	xuoosng	55	xuống nước (chịu lé…
 󰄻	xuoosng	55	xuống nước (chịu lé…
 𲎴	xuoosng	59
-󱪞	xuoosng	66
-󲂧	xuoosng	60
+𬺗󠄁	xuoosng	66
+𫴋󠄁	xuoosng	60
 𬺗𩯀	xuoosng tosc	80
 聚	xur	55	tụ
 臭	xur	55	xú
@@ -96513,7 +96513,7 @@ encoder:
 澄	xuwfng	55	1. trừng 2. chừng
 𠦿	xuwfng	55	xừng lên, xừng xổ
 食	xuwjc	61	thực
-󱰊	xuwjc	58
+食𖿱	xuwjc	58
 稱	xuwng	76	1. xưng 2. xứng
 偁	xuwng	55	1. Cũng như chữ “xư…
 爯	xuwng	55	Nhấc lên. Dùng một …
@@ -98843,7 +98843,7 @@ encoder:
 敗俗傷風	baji tujc thuwowng phong	80
 敗將殘兵	baji tuwowsng tafn binh	80
 敗於垂成	baji uw thuyf thafnh	80
-󰀶	bajm	55	bặm môi
+𠏟󠄁	bajm	55	bặm môi
 㚘	bajn	55	(có thể thay thế 伴)…
 沜	bajn	55	Nước chảy — Bờ nước.
 办	bajn	50	biện pháp
@@ -99414,7 +99414,7 @@ encoder:
 冰銷霧散	bawng tieeu vuj tasn	80
 冰雪嚴寒	bawng tuyeest nghieem hafn	80
 𥑁	bawrm	55
-󰍚	bawrm	55	bặm trợn
+𤢤󠄁	bawrm	55	bặm trợn
 北鄙之音	bawsc bir chi aam	80
 北鄙之聲	bawsc bir chi thanh	80
 北宮嬰兒	bawsc cung anh nhi	80
@@ -107109,7 +107109,7 @@ encoder:
 卟	ghe	55	vốc
 𥡳	ghee	62
 𥡞	ghee	55	khể cho một trận
-󰏲	ghee	55	hạt kê; kê diên thờ…
+𥡞󠄁	ghee	55	hạt kê; kê diên thờ…
 卟	ghee	55	vốc
 醫	ghee	55	y
 撃	gheesch	55	đánh mạnh, gõ mạnh
@@ -115016,7 +115016,7 @@ encoder:
 絻	mesm	55	mịn
 庿	meso	55	cái miếu thờ
 戼	meso	55	Mão (ngôi thứ 4 hàn…
-󱫣	mex	60
+美𖿱	mex	60
 蘼	mi	58	1. (Danh) “Mi vu” 蘼…
 猕	mi	50	mị hầu (con khỉ cái)
 眉高眼低	mi cao nhaxn ddee	80
@@ -121785,7 +121785,7 @@ encoder:
 桫椤	sa la	80
 沙裡淘金	sa lys ddafo kim	80
 砂裡淘金	sa lys ddafo kim	80
-󱪌	saafm	60
+𢀮󠄁	saafm	60
 𮦡	saafm	58	dồi dào; mưa dào
 𩆍	saafm	55	mưa dào
 立	saafm	55
@@ -128650,7 +128650,7 @@ encoder:
 稯	torng	55	Bó lúa — Gom tụ lại.
 総	torng	55	1. tổng quát, thâu …
 緫	torng	55	(TPV) trong mọi trư…
-󰌠	tosa	55	khói toả
+𪹟󠄁	tosa	55	khói toả
 捴	tosm	55	1. tổng quát, thâu …
 揔	tosm	55	1. tổng quát, thâu …
 搃	tosm	55	1. tổng quát, thâu …
@@ -132987,7 +132987,7 @@ encoder:
 龡	xoe	55	thổi
 陏	xoef	55	đời nhà Tuỳ (Trung …
 搊	xof	55	xô
-󰌠	xofa	55	khói toả
+𪹟󠄁	xofa	55	khói toả
 摧	xofi	55	tồi
 鎖	xoja	55	toả
 蠋	xojc	55	sâu bướm
