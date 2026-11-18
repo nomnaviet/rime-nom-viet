@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -34,8 +35,12 @@ DEFAULT_MAP = REPO.parent.parent / "apps/api/src/data/nomnatong-pua-map.json"
 def load_map(path: Path) -> dict[str, str]:
     raw = json.loads(path.read_text(encoding="utf-8"))["map"]
     # A target is "U+XXXX" or a space-separated sequence of them.
-    seq = lambda u: "".join(chr(int(h[2:], 16)) for h in u.split())
-    return {chr(int(p[2:], 16)): seq(s) for p, s in raw.items()}
+    def codepoint(token: str, key: str) -> str:
+        if not re.fullmatch(r"U\+[0-9A-Fa-f]{4,6}", token):
+            sys.exit(f"{path}: bad codepoint {token!r} in the mapping for {key}")
+        return chr(int(token[2:], 16))
+
+    return {codepoint(p, p): "".join(codepoint(t, p) for t in s.split()) for p, s in raw.items()}
 
 
 def main() -> None:
