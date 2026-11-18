@@ -34,7 +34,7 @@ DEFAULT_MAP = REPO.parent.parent / "apps/api/src/data/nomnatong-pua-map.json"
 def load_map(path: Path) -> dict[str, str]:
     raw = json.loads(path.read_text(encoding="utf-8"))["map"]
     # A target is "U+XXXX" or a space-separated sequence of them.
-    seq = lambda u: "".join(chr(int(h[2:], 16)) for h in u.split(" "))
+    seq = lambda u: "".join(chr(int(h[2:], 16)) for h in u.split())
     return {chr(int(p[2:], 16)): seq(s) for p, s in raw.items()}
 
 
