@@ -20255,7 +20255,7 @@ encoder:
 𨄁	ddaam	61	đâm chán; đâm chém;…
 𨮊	ddaam	55	đâm chán; đâm chém;…
 𱟴	ddaam	62
-抌󠄁	ddaam	60	đem đi, đem cho; đe…
+󰇮	ddaam	60	đem đi, đem cho; đe…
 抌󠄂	ddaam	71
 󰝡	ddaam	67
 𠛌󠄂	ddaam	60
@@ -22618,8 +22618,8 @@ encoder:
 𨑴	ddem	55	đem đi, đem cho; đe…
 𨑻	ddem	55	đem đi, đem cho; đe…
 𫸬	ddem	55	đem đi; đem đến; đe…
-冘󠄁	ddem	64	đem đi, đem cho; đe…
-抌󠄁	ddem	63	đem đi, đem cho; đe…
+󰁂	ddem	64	đem đi, đem cho; đe…
+󰇮	ddem	63	đem đi, đem cho; đe…
 抌󠄂	ddem	76
 󰝡	ddem	78
 𨑻𠫾	ddem ddi	80
@@ -25092,8 +25092,8 @@ encoder:
 𢳞	ddowm	55	đơm đó
 𥇌	ddowm	55	dim
 𮁡	ddowm	59
-冘󠄁	ddowm	55	đem đi, đem cho; đe…
-抌󠄁	ddowm	55	đem đi, đem cho; đe…
+󰁂	ddowm	55	đem đi, đem cho; đe…
+󰇮	ddowm	55	đem đi, đem cho; đe…
 抌󠄂	ddowm	62
 󰝡	ddowm	65
 󰻚	ddowm	55	đơm khuy; đơm xôi; …
@@ -47780,7 +47780,7 @@ encoder:
 鹨	luwu	55	lưu (loại chim nhoe…
 𭄁	luwu	61	họ lưu, lưu manh
 𱨳	luwu	55	lưu (trong leo lẻo)
-冘󠄁	luwu	55	đem đi, đem cho; đe…
+󰁂	luwu	55	đem đi, đem cho; đe…
 剨	luwu	50	(văn) Tiếng rách to…
 懰	luwu	55	Ngủ trọ đêm — Một â…
 摎	luwu	50	Thắt cổ người khác …
@@ -67455,7 +67455,7 @@ encoder:
 󰯊	ra	55
 󱈭	ra	55	ra vào
 𲒣	ra	58
-𦋦󠄁	ra	66
+𦋦󠄂	ra	66
 𲰲	ra	58
 𫥨𠫾	ra ddi	80
 𫥨陣	ra traajn	80
@@ -67947,7 +67947,7 @@ encoder:
 洒	rary	64	tưới
 洗	rary	55	tẩy
 𢹿	rary	55	lẫy
-󰻛	rary	60	trẻ con
+礼𖿰	rary	60	trẻ con
 夜	ras	58	dạ
 竾	ras	57	trì (kèn ngày xưa)
 筥	ras	55	rá
@@ -86169,7 +86169,7 @@ encoder:
 𪨅	trer	67	trẻ con
 𱚪	trer	60	trẻ con
 𱚫	trer	65	trẻ con
-󰻛	trer	61	trẻ con
+礼𖿰	trer	61	trẻ con
 𥘷󠄂	trer	64
 𥘷𡥵	trer con	80
 𥘷𡥵於瀂	trer con owr loor	80
@@ -91546,7 +91546,7 @@ encoder:
 浘	vaaxy	68	vã
 𢭶	vaaxy	60	váy tai
 𱧇	vaaxy	55	vùng vẫy
-𨤔󠄁	vaaxy	55	vẽ hình
+𨤔󠄃	vaaxy	55	vẽ hình
 捤𢬣	vaaxy tay	80
 捤摓	vaaxy vufng	80
 噅	vaay	59	vơ
@@ -92479,10 +92479,10 @@ encoder:
 𫵞	ver	62	vãi
 𲇀	ver	62
 󰆴	ver	55	vẻ đẹp
-𨤔󠄁	ver	70	vẽ hình
-𨤔󠄂	ver	66	vẻ vang
+𨤔󠄃	ver	70	vẽ hình
+𨤔󠄁	ver	66	vẻ vang
 𡲈󠄁	ver	59	vẻ mặt
-𨤔󠄃	ver	62
+𨤔󠄂	ver	62
 𨤔㘇	ver vang	80
 捖	vern	55	1. vẹn 2. vẻn
 援	vern	55	1. viện 2. vịn
@@ -92530,7 +92530,7 @@ encoder:
 𫵡	vex	55
 𱱃	vex	62
 𲇀	vex	60
-𨤔󠄁	vex	61	vẽ hình
+𨤔󠄃	vex	61	vẽ hình
 𤳰󠄁	vex	62
 𦘧󠄁	vex	60
 𳅧	vex	59
@@ -94116,7 +94116,7 @@ encoder:
 𲃾	vuoost	59
 𤢇𬋱	vuoost ve	80
 𧸒	vuri	59	vắn vỏi
-𨤔󠄃	vuri	59
+𨤔󠄂	vuri	59
 乳	vus	67	nhũ
 咘	vus	61	bú
 布	vus	58	bố
